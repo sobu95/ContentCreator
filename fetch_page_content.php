@@ -51,7 +51,12 @@ function fetchPageContent($url) {
         
         // Wyczyść treść HTML
         $cleaned_content = cleanHtmlContent($html);
-        
+
+        if (strlen(trim($cleaned_content)) === 0) {
+            error_log("No text extracted from URL: $url");
+            return "No text extracted from URL";
+        }
+
         return $cleaned_content;
         
     } catch (Exception $e) {
