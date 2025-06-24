@@ -10,6 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 
 $task_id = isset($_POST['task_id']) ? intval($_POST['task_id']) : 0;
 $model_id = isset($_POST['model_id']) ? intval($_POST['model_id']) : null;
+$new_content_type_id = isset($_POST['content_type_id']) ? intval($_POST['content_type_id']) : null;
 
 // Verify ownership and get task info
 $stmt = $pdo->prepare("
@@ -26,6 +27,15 @@ if (!$task) {
     exit;
 }
 
+// Validate provided content type
+if ($new_content_type_id) {
+    $stmt = $pdo->prepare("SELECT COUNT(*) FROM content_types WHERE id = ?");
+    $stmt->execute([$new_content_type_id]);
+    if (!$stmt->fetchColumn()) {
+        $new_content_type_id = null;
+    }
+}
+
 try {
     $pdo->beginTransaction();
 
@@ -39,8 +49,9 @@ try {
     $slug_suffix = $model_slug ? " ($model_slug)" : ' (klon)';
     $new_name = $task['name'] . $slug_suffix;
 
+    $content_type_to_use = $new_content_type_id ?: $task['content_type_id'];
     $stmt = $pdo->prepare("INSERT INTO tasks (project_id, content_type_id, model_id, name, strictness_level) VALUES (?, ?, ?, ?, ?)");
-    $stmt->execute([$task['project_id'], $task['content_type_id'], $model_id, $new_name, $task['strictness_level']]);
+    $stmt->execute([$task['project_id'], $content_type_to_use, $model_id, $new_name, $task['strictness_level']]);
     $new_task_id = $pdo->lastInsertId();
 
     $stmt = $pdo->prepare("SELECT url, input_data, page_content FROM task_items WHERE task_id = ?");
