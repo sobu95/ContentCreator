@@ -29,7 +29,16 @@ if (!$task) {
 try {
     $pdo->beginTransaction();
 
-    $new_name = $task['name'] . ' (klon)';
+    $model_slug = null;
+    if ($model_id) {
+        $stmt = $pdo->prepare("SELECT model_slug FROM api_models WHERE id = ?");
+        $stmt->execute([$model_id]);
+        $model_slug = $stmt->fetchColumn();
+    }
+
+    $slug_suffix = $model_slug ? " ($model_slug)" : ' (klon)';
+    $new_name = $task['name'] . $slug_suffix;
+
     $stmt = $pdo->prepare("INSERT INTO tasks (project_id, content_type_id, model_id, name, strictness_level) VALUES (?, ?, ?, ?, ?)");
     $stmt->execute([$task['project_id'], $task['content_type_id'], $model_id, $new_name, $task['strictness_level']]);
     $new_task_id = $pdo->lastInsertId();
