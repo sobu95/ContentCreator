@@ -5,6 +5,9 @@ $pdo = getDbConnection();
 
 $success = '';
 $error = '';
+if (isset($_GET['cloned'])) {
+    $success = 'Zadanie zostało sklonowane i dodane do kolejki.';
+}
 $project_id = isset($_GET['project_id']) ? intval($_GET['project_id']) : null;
 
 // Sprawdź czy projekt należy do użytkownika
@@ -379,8 +382,11 @@ unset($task);
                                                         <i class="fas fa-download"></i>
                                                     </a>
                                                 <?php endif; ?>
-                                                <a href="?delete=<?= $task['id'] ?><?= $project_id ? '&project_id=' . $project_id : '' ?>" 
-                                                   class="btn btn-sm btn-outline-danger" 
+                                                <button type="button" class="btn btn-sm btn-outline-secondary" onclick="openCloneModal(<?= $task['id'] ?>)">
+                                                    <i class="fas fa-clone"></i>
+                                                </button>
+                                                <a href="?delete=<?= $task['id'] ?><?= $project_id ? '&project_id=' . $project_id : '' ?>"
+                                                   class="btn btn-sm btn-outline-danger"
                                                    onclick="return confirm('UWAGA: To usunie zadanie i WSZYSTKIE powiązane dane (treści, logi). Czy na pewno?')">
                                                     <i class="fas fa-trash"></i>
                                                 </a>
@@ -489,7 +495,37 @@ unset($task);
             </div>
         </div>
     </div>
-    
+
+    <!-- Modal klonowania zadania -->
+    <div class="modal fade" id="cloneModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="POST" action="task_clone.php">
+                    <?= csrf_field() ?>
+                    <input type="hidden" name="task_id" id="clone_task_id">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Klonuj zadanie</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mb-3">
+                            <label for="clone_model_id" class="form-label">Model AI *</label>
+                            <select class="form-select" name="model_id" id="clone_model_id" required>
+                                <?php foreach ($api_models as $m): ?>
+                                    <option value="<?= $m['id'] ?>"><?= htmlspecialchars($m['label']) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Anuluj</button>
+                        <button type="submit" class="btn btn-primary">Klonuj</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         const contentTypes = <?= json_encode($content_types) ?>;
@@ -598,6 +634,12 @@ unset($task);
                     header.textContent = `URL #${index + 1}`;
                 }
             });
+        }
+
+        function openCloneModal(taskId) {
+            document.getElementById('clone_task_id').value = taskId;
+            const modal = new bootstrap.Modal(document.getElementById('cloneModal'));
+            modal.show();
         }
         
         // Reset modal when closed
