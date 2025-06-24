@@ -1,0 +1,1132 @@
+[2025-06-16 10:50:14] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:50:14] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:50:14] Processing one item.
+[2025-06-16 10:50:14] Attempting to process queue item ID: 1 (Task Item ID: 1)
+[2025-06-16 10:50:14] Processing task item ID: 1
+[2025-06-16 10:50:14] Using existing page content for task item 1
+[2025-06-16 10:50:14] Input data for ID 1: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradzie\u017cowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 10:50:14] Final generate prompt length: 7879
+[2025-06-16 10:50:14] Calling Gemini API with prompt length: 7879
+[2025-06-16 10:50:19] API Response HTTP Code: 200
+[2025-06-16 10:50:19] Generated text length: 2789
+[2025-06-16 10:50:19] Prompt log saved for task item 1, type: generate
+[2025-06-16 10:50:19] Content generated successfully for ID 1, length: 2789
+[2025-06-16 10:50:19] Verifying content for ID 1...
+[2025-06-16 10:50:19] Calling Gemini API with prompt length: 6638
+[2025-06-16 10:50:24] API Response HTTP Code: 200
+[2025-06-16 10:50:24] Generated text length: 2772
+[2025-06-16 10:50:24] Prompt log saved for task item 1, type: verify
+[2025-06-16 10:50:24] Content verified successfully for ID 1, length: 2772
+[2025-06-16 10:50:24] Text was modified during verification for ID 1
+[2025-06-16 10:50:24] Content generated and saved for ID 1
+[2025-06-16 10:50:24] Generated text preview: <h2>Saszetki antykradzieżowe – bezpieczeństwo i wygoda w jednym</h2>
+<p><strong>Saszetki antykra...
+[2025-06-16 10:50:24] Verified text preview: <h2>Saszetki antykradzieżowe – bezpieczeństwo i wygoda w jednym</h2><p><strong>Saszetki antykrad...
+[2025-06-16 10:50:24] Queue item 1 successfully processed and marked as completed.
+[2025-06-16 10:50:24] Task ID: 1 status updated to: processing
+[2025-06-16 10:50:24] Transaction for queue item 1 committed.
+[2025-06-16 10:50:34] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:50:34] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:50:34] Processing one item.
+[2025-06-16 10:50:34] Attempting to process queue item ID: 2 (Task Item ID: 2)
+[2025-06-16 10:50:34] Processing task item ID: 2
+[2025-06-16 10:50:34] Using existing page content for task item 2
+[2025-06-16 10:50:34] Input data for ID 2: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 10:50:34] Final generate prompt length: 8298
+[2025-06-16 10:50:34] Calling Gemini API with prompt length: 8298
+[2025-06-16 10:50:39] API Response HTTP Code: 200
+[2025-06-16 10:50:39] Generated text length: 2617
+[2025-06-16 10:50:39] Prompt log saved for task item 2, type: generate
+[2025-06-16 10:50:39] Content generated successfully for ID 2, length: 2617
+[2025-06-16 10:50:39] Verifying content for ID 2...
+[2025-06-16 10:50:39] Calling Gemini API with prompt length: 6466
+[2025-06-16 10:50:43] API Response HTTP Code: 200
+[2025-06-16 10:50:43] Generated text length: 2590
+[2025-06-16 10:50:43] Prompt log saved for task item 2, type: verify
+[2025-06-16 10:50:43] Content verified successfully for ID 2, length: 2590
+[2025-06-16 10:50:43] Text was modified during verification for ID 2
+[2025-06-16 10:50:43] Content generated and saved for ID 2
+[2025-06-16 10:50:43] Generated text preview: <h2>Praktyczne portfele damskie: idealne rozwiązanie dla zabieganych kobiet</h2>
+<p>Poszukujesz <st...
+[2025-06-16 10:50:43] Verified text preview: <h2>Praktyczne portfele damskie: idealne rozwiązanie dla zabieganych kobiet</h2><p>Poszukujesz <str...
+[2025-06-16 10:50:43] Queue item 2 successfully processed and marked as completed.
+[2025-06-16 10:50:43] Task ID: 1 status updated to: completed
+[2025-06-16 10:50:43] Transaction for queue item 2 committed.
+[2025-06-16 10:50:54] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:50:54] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:50:54] Processing one item.
+[2025-06-16 10:55:45] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:55:45] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:55:45] Processing one item.
+[2025-06-16 10:55:45] Attempting to process queue item ID: 3 (Task Item ID: 3)
+[2025-06-16 10:55:45] Processing task item ID: 3
+[2025-06-16 10:55:45] Using existing page content for task item 3
+[2025-06-16 10:55:45] Input data for ID 3: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html","keywords":"saszetka antykradzie\u017cowa na dokumenty pod ubranie, saszetka na dokumenty pod ubranie, saszetka na dokumenty pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 10:55:45] Final generate prompt length: 8827
+[2025-06-16 10:55:45] Calling Gemini API with prompt length: 8827
+[2025-06-16 10:55:50] API Response HTTP Code: 200
+[2025-06-16 10:55:50] Generated text length: 2699
+[2025-06-16 10:55:50] Prompt log saved for task item 3, type: generate
+[2025-06-16 10:55:50] Content generated successfully for ID 3, length: 2699
+[2025-06-16 10:55:50] Verifying content for ID 3...
+[2025-06-16 10:55:50] Calling Gemini API with prompt length: 2745
+[2025-06-16 10:55:53] API Response HTTP Code: 200
+[2025-06-16 10:55:53] Generated text length: 2396
+[2025-06-16 10:55:53] Prompt log saved for task item 3, type: verify
+[2025-06-16 10:55:53] Content verified successfully for ID 3, length: 2396
+[2025-06-16 10:55:53] Text was modified during verification for ID 3
+[2025-06-16 10:55:53] Content generated and saved for ID 3
+[2025-06-16 10:55:53] Generated text preview: <h2>Bezpieczeństwo i dyskrecja: <strong>saszetka na dokumenty pod ubranie</strong></h2>
+<p><strong>...
+[2025-06-16 10:55:53] Verified text preview: <h2>Security and Discretion: <strong>Underclothing Document Holders</strong></h2>
+<p><strong>Undercl...
+[2025-06-16 10:55:53] Queue item 3 successfully processed and marked as completed.
+[2025-06-16 10:55:53] Task ID: 2 status updated to: completed
+[2025-06-16 10:55:53] Transaction for queue item 3 committed.
+[2025-06-16 10:56:03] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:03] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:03] Processing one item.
+[2025-06-16 10:56:13] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:13] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:13] Processing one item.
+[2025-06-16 10:56:24] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:24] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:24] Processing one item.
+[2025-06-16 10:56:34] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:34] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:34] Processing one item.
+[2025-06-16 10:56:44] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:44] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:44] Processing one item.
+[2025-06-16 10:56:54] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:56:54] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:56:54] Processing one item.
+[2025-06-16 10:57:04] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:57:04] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:57:04] Processing one item.
+[2025-06-16 10:57:15] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:57:15] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:57:15] Processing one item.
+[2025-06-16 10:57:25] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:57:25] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:57:25] Processing one item.
+[2025-06-16 10:57:35] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:57:35] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:57:35] Processing one item.
+[2025-06-16 10:57:46] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 10:57:46] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 10:57:46] Processing one item.
+[2025-06-16 11:07:30] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 11:07:30] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 11:07:30] Processing one item.
+[2025-06-16 11:08:56] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 11:08:56] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 11:08:56] Processing one item.
+[2025-06-16 11:08:56] Attempting to process queue item ID: 4 (Task Item ID: 4)
+[2025-06-16 11:08:56] Processing task item ID: 4
+[2025-06-16 11:08:56] Using existing page content for task item 4
+[2025-06-16 11:08:56] Input data for ID 4: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradzie\u017cowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 11:08:56] Final generate prompt length: 9669
+[2025-06-16 11:08:56] Calling Gemini API with prompt length: 9669
+[2025-06-16 11:09:01] API Response HTTP Code: 200
+[2025-06-16 11:09:01] Generated text length: 2614
+[2025-06-16 11:09:01] Prompt log saved for task item 4, type: generate
+[2025-06-16 11:09:01] Content generated successfully for ID 4, length: 2614
+[2025-06-16 11:09:01] Verifying content for ID 4...
+[2025-06-16 11:09:01] Calling Gemini API with prompt length: 2660
+[2025-06-16 11:09:04] API Response HTTP Code: 200
+[2025-06-16 11:09:04] Generated text length: 2250
+[2025-06-16 11:09:04] Prompt log saved for task item 4, type: verify
+[2025-06-16 11:09:04] Content verified successfully for ID 4, length: 2250
+[2025-06-16 11:09:04] Text was modified during verification for ID 4
+[2025-06-16 11:09:04] Content generated and saved for ID 4
+[2025-06-16 11:09:04] Generated text preview: <h2>Bezpieczeństwo w podróży i na co dzień: <strong>saszetka antykradzieżowa</strong> pod ubran...
+[2025-06-16 11:09:04] Verified text preview: <h2>Travel and Everyday Safety: An Under-Clothing Anti-Theft Pouch</h2>
+<p><strong>Anti-theft pouche...
+[2025-06-16 11:09:04] Queue item 4 successfully processed and marked as completed.
+[2025-06-16 11:09:04] Task ID: 3 status updated to: completed
+[2025-06-16 11:09:04] Transaction for queue item 4 committed.
+[2025-06-16 11:31:34] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 11:31:34] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 11:31:34] Processing one item.
+[2025-06-16 12:07:42] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:07:42] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:07:42] Processing one item.
+[2025-06-16 12:08:09] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:08:09] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:08:09] Processing one item.
+[2025-06-16 12:08:09] Attempting to process queue item ID: 5 (Task Item ID: 5)
+[2025-06-16 12:08:09] Processing task item ID: 5
+[2025-06-16 12:08:09] Using existing page content for task item 5
+[2025-06-16 12:08:09] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:08:09] Final generate prompt length: 11413
+[2025-06-16 12:08:09] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:08:14] API Response HTTP Code: 200
+[2025-06-16 12:08:14] Generated text length: 2533
+[2025-06-16 12:08:14] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:08:14] Content generated successfully for ID 5, length: 2533
+[2025-06-16 12:08:14] Verifying content for ID 5...
+[2025-06-16 12:08:14] Calling Gemini API with prompt length: 5548
+[2025-06-16 12:08:18] API Response HTTP Code: 200
+[2025-06-16 12:08:18] Generated text length: 2345
+[2025-06-16 12:08:18] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:08:18] Content verified successfully for ID 5, length: 2345
+[2025-06-16 12:08:18] Text was modified during verification for ID 5
+[2025-06-16 12:08:18] Content generated and saved for ID 5
+[2025-06-16 12:08:18] Generated text preview: <h2>Portfele damskie: idealne rozwiązanie dla każdej kobiety</h2>
+<p>Poszukujesz <strong>portfela ...
+[2025-06-16 12:08:18] Verified text preview: ```html
+<h2>Portfele damskie - idealne rozwiązanie dla każdej kobiety</h2>
+<p>Szukasz <strong>port...
+[2025-06-16 12:08:18] Queue item 5 successfully processed and marked as completed.
+[2025-06-16 12:08:18] Task ID: 4 status updated to: completed
+[2025-06-16 12:08:18] Transaction for queue item 5 committed.
+[2025-06-16 12:09:23] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:09:23] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:09:23] Processing one item.
+[2025-06-16 12:10:39] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:10:39] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:10:39] Processing one item.
+[2025-06-16 12:10:39] Attempting to process queue item ID: 6 (Task Item ID: 5)
+[2025-06-16 12:10:39] Processing task item ID: 5
+[2025-06-16 12:10:39] Using existing page content for task item 5
+[2025-06-16 12:10:39] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:10:39] Final generate prompt length: 11413
+[2025-06-16 12:10:39] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:10:44] API Response HTTP Code: 200
+[2025-06-16 12:10:44] Generated text length: 3046
+[2025-06-16 12:10:44] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:10:44] Content generated successfully for ID 5, length: 3046
+[2025-06-16 12:10:44] Verifying content for ID 5...
+[2025-06-16 12:10:44] Calling Gemini API with prompt length: 6061
+[2025-06-16 12:10:49] API Response HTTP Code: 200
+[2025-06-16 12:10:49] Generated text length: 2545
+[2025-06-16 12:10:49] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:10:49] Content verified successfully for ID 5, length: 2545
+[2025-06-16 12:10:49] Text was modified during verification for ID 5
+[2025-06-16 12:10:49] Content generated and saved for ID 5
+[2025-06-16 12:10:49] Generated text preview: <h2>Portfele damskie: idealne połączenie stylu i funkcjonalności</h2>
+<p>Szukasz <strong>portfela...
+[2025-06-16 12:10:49] Verified text preview: ```html
+<h2>Portfele damskie - idealne połączenie stylu i funkcjonalności</h2>
+<p>Szukasz <strong...
+[2025-06-16 12:10:49] Queue item 6 successfully processed and marked as completed.
+[2025-06-16 12:10:49] Task ID: 4 status updated to: completed
+[2025-06-16 12:10:49] Transaction for queue item 6 committed.
+[2025-06-16 12:15:01] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:15:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:15:01] Processing one item.
+[2025-06-16 12:15:01] Attempting to process queue item ID: 7 (Task Item ID: 5)
+[2025-06-16 12:15:01] Processing task item ID: 5
+[2025-06-16 12:15:01] Using existing page content for task item 5
+[2025-06-16 12:15:01] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:15:01] Final generate prompt length: 11413
+[2025-06-16 12:15:01] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:15:07] API Response HTTP Code: 200
+[2025-06-16 12:15:07] Generated text length: 3473
+[2025-06-16 12:15:07] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:15:07] Content generated successfully for ID 5, length: 3473
+[2025-06-16 12:15:07] Verifying content for ID 5...
+[2025-06-16 12:15:07] Calling Gemini API with prompt length: 6640
+[2025-06-16 12:15:12] API Response HTTP Code: 200
+[2025-06-16 12:15:12] Generated text length: 2956
+[2025-06-16 12:15:12] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:15:12] Content verified successfully for ID 5, length: 2956
+[2025-06-16 12:15:12] Text was modified during verification for ID 5
+[2025-06-16 12:15:12] Content generated and saved for ID 5
+[2025-06-16 12:15:12] Generated text preview: <h2><strong>Portfel damski z miejscem na dowód rejestracyjny</strong>: Idealny wybór dla każdej k...
+[2025-06-16 12:15:12] Verified text preview: <h2>Portfel damski z miejscem na dowód rejestracyjny - Idealny wybór dla każdej kobiety</h2>
+<p>S...
+[2025-06-16 12:15:12] Queue item 7 successfully processed and marked as completed.
+[2025-06-16 12:15:12] Task ID: 4 status updated to: completed
+[2025-06-16 12:15:12] Transaction for queue item 7 committed.
+[2025-06-16 12:22:58] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:22:58] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:22:58] Processing one item.
+[2025-06-16 12:22:58] Attempting to process queue item ID: 8 (Task Item ID: 5)
+[2025-06-16 12:22:58] Processing task item ID: 5
+[2025-06-16 12:22:58] Using existing page content for task item 5
+[2025-06-16 12:22:58] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:22:58] Final generate prompt length: 11413
+[2025-06-16 12:22:58] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:23:03] API Response HTTP Code: 200
+[2025-06-16 12:23:03] Generated text length: 2752
+[2025-06-16 12:23:03] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:23:03] Content generated successfully for ID 5, length: 2752
+[2025-06-16 12:23:03] Verifying content for ID 5...
+[2025-06-16 12:23:03] Calling Gemini API with prompt length: 6075
+[2025-06-16 12:23:06] API Response HTTP Code: 200
+[2025-06-16 12:23:06] Generated text length: 1826
+[2025-06-16 12:23:06] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:23:06] Content verified successfully for ID 5, length: 1826
+[2025-06-16 12:23:06] Text was modified during verification for ID 5
+[2025-06-16 12:23:06] Content generated and saved for ID 5
+[2025-06-16 12:23:06] Generated text preview: <h2><strong>Portfel damski na dowód rejestracyjny</strong>: idealne rozwiązanie dla nowoczesnej ko...
+[2025-06-16 12:23:06] Verified text preview: ```html
+<h2>Portfel damski na dowód rejestracyjny - idealne rozwiązanie dla nowoczesnej kobiety</h...
+[2025-06-16 12:23:06] Queue item 8 successfully processed and marked as completed.
+[2025-06-16 12:23:06] Task ID: 4 status updated to: completed
+[2025-06-16 12:23:06] Transaction for queue item 8 committed.
+[2025-06-16 12:30:37] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:30:37] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:30:37] Processing one item.
+[2025-06-16 12:30:37] Attempting to process queue item ID: 9 (Task Item ID: 5)
+[2025-06-16 12:30:37] Processing task item ID: 5
+[2025-06-16 12:30:37] Using existing page content for task item 5
+[2025-06-16 12:30:37] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:30:37] Final generate prompt length: 11413
+[2025-06-16 12:30:37] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:30:42] API Response HTTP Code: 200
+[2025-06-16 12:30:42] Generated text length: 2693
+[2025-06-16 12:30:42] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:30:42] Content generated successfully for ID 5, length: 2693
+[2025-06-16 12:30:42] Verifying content for ID 5...
+[2025-06-16 12:30:42] Calling Gemini API with prompt length: 5818
+[2025-06-16 12:30:47] API Response HTTP Code: 200
+[2025-06-16 12:30:47] Generated text length: 2388
+[2025-06-16 12:30:47] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:30:47] Content verified successfully for ID 5, length: 2388
+[2025-06-16 12:30:47] Text was modified during verification for ID 5
+[2025-06-16 12:30:47] Content generated and saved for ID 5
+[2025-06-16 12:30:47] Generated text preview: <h2>Funkcjonalne i stylowe: <strong>portfele damskie z miejscem na dowód rejestracyjny</strong></h2...
+[2025-06-16 12:30:47] Verified text preview: ```html
+<h2>Funkcjonalne i stylowe - portfele damskie z miejscem na dowód rejestracyjny</h2>
+<p>W n...
+[2025-06-16 12:30:47] Queue item 9 successfully processed and marked as completed.
+[2025-06-16 12:30:47] Task ID: 4 status updated to: completed
+[2025-06-16 12:30:47] Transaction for queue item 9 committed.
+[2025-06-16 12:30:57] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:30:57] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:30:57] Processing one item.
+[2025-06-16 12:32:14] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:32:14] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:32:14] Processing one item.
+[2025-06-16 12:32:39] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:32:39] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:32:39] Processing one item.
+[2025-06-16 12:33:02] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:33:02] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:33:02] Processing one item.
+[2025-06-16 12:33:06] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:33:06] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:33:06] Processing one item.
+[2025-06-16 12:33:06] Attempting to process queue item ID: 10 (Task Item ID: 5)
+[2025-06-16 12:33:06] Processing task item ID: 5
+[2025-06-16 12:33:06] Using existing page content for task item 5
+[2025-06-16 12:33:06] Input data for ID 5: {"url":"https:\/\/koruma.pl\/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html","keywords":"portfel damski z miejscem na dow\u00f3d rejestracyjny, portfel damski na dow\u00f3d rejestracyjny, portfel z miejscem na dow\u00f3d rejestracyjny, cienki portfel z miejscem na dow\u00f3d rejestracyjny","headings":"","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 12:33:06] Final generate prompt length: 11413
+[2025-06-16 12:33:06] Calling Gemini API with prompt length: 11413
+[2025-06-16 12:33:11] API Response HTTP Code: 200
+[2025-06-16 12:33:11] Generated text length: 2797
+[2025-06-16 12:33:11] Prompt log saved for task item 5, type: generate
+[2025-06-16 12:33:11] Content generated successfully for ID 5, length: 2797
+[2025-06-16 12:33:11] Verifying content for ID 5...
+[2025-06-16 12:33:11] Calling Gemini API with prompt length: 5831
+[2025-06-16 12:33:15] API Response HTTP Code: 200
+[2025-06-16 12:33:15] Generated text length: 2337
+[2025-06-16 12:33:15] Prompt log saved for task item 5, type: verify
+[2025-06-16 12:33:15] Content verified successfully for ID 5, length: 2337
+[2025-06-16 12:33:15] Text was modified during verification for ID 5
+[2025-06-16 12:33:15] Content generated and saved for ID 5
+[2025-06-16 12:33:15] Generated text preview: <h2>Praktyczne i stylowe: <strong>portfele damskie z miejscem na dowód rejestracyjny</strong></h2>
+...
+[2025-06-16 12:33:15] Verified text preview: <h2>Praktyczne i stylowe - portfele damskie z miejscem na dowód rejestracyjny</h2>
+<p>Szukasz elega...
+[2025-06-16 12:33:15] Queue item 10 successfully processed and marked as completed.
+[2025-06-16 12:33:15] Task ID: 4 status updated to: completed
+[2025-06-16 12:33:15] Transaction for queue item 10 committed.
+[2025-06-16 12:36:33] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:36:33] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:36:33] Processing one item.
+[2025-06-16 12:37:24] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:37:24] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:37:24] Processing one item.
+[2025-06-16 12:37:24] Attempting to process queue item ID: 11 (Task Item ID: 6)
+[2025-06-16 12:37:24] Processing task item ID: 6
+[2025-06-16 12:37:24] Using existing page content for task item 6
+[2025-06-16 12:37:24] Input data for ID 6: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradziezowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html -> saszetka na dokumenty pod ubranie"}
+[2025-06-16 12:37:24] Final generate prompt length: 9873
+[2025-06-16 12:37:24] Calling Gemini API with prompt length: 9873
+[2025-06-16 12:37:31] API Response HTTP Code: 200
+[2025-06-16 12:37:31] Generated text length: 3360
+[2025-06-16 12:37:31] Prompt log saved for task item 6, type: generate
+[2025-06-16 12:37:31] Content generated successfully for ID 6, length: 3360
+[2025-06-16 12:37:31] Verifying content for ID 6...
+[2025-06-16 12:37:31] Calling Gemini API with prompt length: 6394
+[2025-06-16 12:37:36] API Response HTTP Code: 200
+[2025-06-16 12:37:36] Generated text length: 2870
+[2025-06-16 12:37:36] Prompt log saved for task item 6, type: verify
+[2025-06-16 12:37:36] Content verified successfully for ID 6, length: 2870
+[2025-06-16 12:37:36] Text was modified during verification for ID 6
+[2025-06-16 12:37:36] Content generated and saved for ID 6
+[2025-06-16 12:37:36] Generated text preview: <h2>Bezpieczeństwo w podróży i na co dzień: <strong>saszetka antykradzieżowa</strong> pod ubran...
+[2025-06-16 12:37:36] Verified text preview: ```html
+<h2>Bezpieczeństwo w podróży i na co dzień - saszetka antykradzieżowa pod ubranie</h2>
+...
+[2025-06-16 12:37:36] Queue item 11 successfully processed and marked as completed.
+[2025-06-16 12:37:36] Task ID: 5 status updated to: completed
+[2025-06-16 12:37:36] Transaction for queue item 11 committed.
+[2025-06-16 12:43:09] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:43:09] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:43:09] Processing one item.
+[2025-06-16 12:43:34] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:43:34] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:43:34] Processing one item.
+[2025-06-16 12:43:55] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:43:55] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:43:55] Processing one item.
+[2025-06-16 12:43:55] Attempting to process queue item ID: 12 (Task Item ID: 6)
+[2025-06-16 12:43:55] Processing task item ID: 6
+[2025-06-16 12:43:55] Using existing page content for task item 6
+[2025-06-16 12:43:55] Input data for ID 6: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradziezowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html -> saszetka na dokumenty pod ubranie"}
+[2025-06-16 12:43:55] Final generate prompt length: 9873
+[2025-06-16 12:43:55] Calling Gemini API with prompt length: 9873
+[2025-06-16 12:44:01] API Response HTTP Code: 200
+[2025-06-16 12:44:01] Generated text length: 3111
+[2025-06-16 12:44:01] Prompt log saved for task item 6, type: generate
+[2025-06-16 12:44:01] Content generated successfully for ID 6, length: 3111
+[2025-06-16 12:44:01] Verifying content for ID 6...
+[2025-06-16 12:44:01] Calling Gemini API with prompt length: 6185
+[2025-06-16 12:44:06] API Response HTTP Code: 200
+[2025-06-16 12:44:06] Generated text length: 2738
+[2025-06-16 12:44:06] Prompt log saved for task item 6, type: verify
+[2025-06-16 12:44:06] Content verified successfully for ID 6, length: 2738
+[2025-06-16 12:44:06] Text was modified during verification for ID 6
+[2025-06-16 12:44:06] Content generated and saved for ID 6
+[2025-06-16 12:44:06] Generated text preview: <h2><strong>Saszetki antykradzieżowe</strong>: bezpieczeństwo w podróży i na co dzień</h2>
+<p>W...
+[2025-06-16 12:44:06] Verified text preview: <h2>Saszetki antykradzieżowe - bezpieczeństwo w podróży i na co dzień</h2>
+<p>Wygodne i dyskret...
+[2025-06-16 12:44:06] Queue item 12 successfully processed and marked as completed.
+[2025-06-16 12:44:06] Task ID: 5 status updated to: completed
+[2025-06-16 12:44:06] Transaction for queue item 12 committed.
+[2025-06-16 12:52:11] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:52:11] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:52:11] Processing one item.
+[2025-06-16 12:52:11] Attempting to process queue item ID: 13 (Task Item ID: 6)
+[2025-06-16 12:52:11] Processing task item ID: 6
+[2025-06-16 12:52:11] Using existing page content for task item 6
+[2025-06-16 12:52:11] Input data for ID 6: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradziezowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html -> saszetka na dokumenty pod ubranie"}
+[2025-06-16 12:52:11] Final generate prompt length: 9966
+[2025-06-16 12:52:11] Calling Gemini API with prompt length: 9966
+[2025-06-16 12:52:17] API Response HTTP Code: 200
+[2025-06-16 12:52:17] Generated text length: 2847
+[2025-06-16 12:52:17] Prompt log saved for task item 6, type: generate
+[2025-06-16 12:52:17] Content generated successfully for ID 6, length: 2847
+[2025-06-16 12:52:17] Verifying content for ID 6...
+[2025-06-16 12:52:17] Calling Gemini API with prompt length: 5921
+[2025-06-16 12:52:22] API Response HTTP Code: 200
+[2025-06-16 12:52:22] Generated text length: 2747
+[2025-06-16 12:52:22] Prompt log saved for task item 6, type: verify
+[2025-06-16 12:52:22] Content verified successfully for ID 6, length: 2747
+[2025-06-16 12:52:22] Text was modified during verification for ID 6
+[2025-06-16 12:52:22] Content generated and saved for ID 6
+[2025-06-16 12:52:22] Generated text preview: <h2>Czy potrzebujesz dyskretnej ochrony przed kradzieżą?</h2>
+<p><strong>Saszetki antykradzieżowe...
+[2025-06-16 12:52:22] Verified text preview: ```html
+<h2>Czy potrzebujesz dyskretnej ochrony przed kradzieżą?</h2>
+<p><strong>Saszetki antykrad...
+[2025-06-16 12:52:22] Queue item 13 successfully processed and marked as completed.
+[2025-06-16 12:52:22] Task ID: 5 status updated to: completed
+[2025-06-16 12:52:22] Transaction for queue item 13 committed.
+[2025-06-16 12:59:33] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 12:59:33] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 12:59:33] Processing one item.
+[2025-06-16 13:00:51] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:00:51] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:00:51] Processing one item.
+[2025-06-16 13:00:51] Attempting to process queue item ID: 14 (Task Item ID: 6)
+[2025-06-16 13:00:51] Processing task item ID: 6
+[2025-06-16 13:00:51] Using existing page content for task item 6
+[2025-06-16 13:00:51] Input data for ID 6: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradziezowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html -> saszetka na dokumenty pod ubranie"}
+[2025-06-16 13:00:51] Final generate prompt length: 10102
+[2025-06-16 13:00:51] Calling Gemini API with prompt length: 10102
+[2025-06-16 13:00:57] API Response HTTP Code: 200
+[2025-06-16 13:00:57] Generated text length: 2851
+[2025-06-16 13:00:57] Prompt log saved for task item 6, type: generate
+[2025-06-16 13:00:57] Content generated successfully for ID 6, length: 2851
+[2025-06-16 13:00:57] Verifying content for ID 6...
+[2025-06-16 13:00:57] Calling Gemini API with prompt length: 5925
+[2025-06-16 13:01:02] API Response HTTP Code: 200
+[2025-06-16 13:01:02] Generated text length: 2719
+[2025-06-16 13:01:02] Prompt log saved for task item 6, type: verify
+[2025-06-16 13:01:02] Content verified successfully for ID 6, length: 2719
+[2025-06-16 13:01:02] Text was modified during verification for ID 6
+[2025-06-16 13:01:02] Content generated and saved for ID 6
+[2025-06-16 13:01:02] Generated text preview: <h2><strong>Saszetki antykradzieżowe</strong>: bezpieczeństwo w podróży i na co dzień</h2>
+<p>W...
+[2025-06-16 13:01:02] Verified text preview: ```html
+<h2>Saszetki antykradzieżowe - bezpieczeństwo w podróży i na co dzień</h2>
+<p>W naszej ...
+[2025-06-16 13:01:02] Queue item 14 successfully processed and marked as completed.
+[2025-06-16 13:01:02] Task ID: 5 status updated to: completed
+[2025-06-16 13:01:02] Transaction for queue item 14 committed.
+[2025-06-16 13:05:44] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:05:44] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:05:44] Processing one item.
+[2025-06-16 13:05:44] Attempting to process queue item ID: 15 (Task Item ID: 6)
+[2025-06-16 13:05:44] Processing task item ID: 6
+[2025-06-16 13:05:44] Using existing page content for task item 6
+[2025-06-16 13:05:44] Input data for ID 6: {"url":"https:\/\/koruma.pl\/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html","keywords":"nerka antykradzie\u017cowa, nerka przeciwkradziezowa, saszetka antykradzie\u017cowa pod ubranie","headings":"","characters":"3000","lead":"NIE","internal_linking":"https:\/\/koruma.pl\/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html -> saszetka na dokumenty pod ubranie"}
+[2025-06-16 13:05:44] Final generate prompt length: 10102
+[2025-06-16 13:05:44] Calling Gemini API with prompt length: 10102
+[2025-06-16 13:05:49] API Response HTTP Code: 200
+[2025-06-16 13:05:49] Generated text length: 3087
+[2025-06-16 13:05:49] Prompt log saved for task item 6, type: generate
+[2025-06-16 13:05:49] Content generated successfully for ID 6, length: 3087
+[2025-06-16 13:05:49] Verifying content for ID 6...
+[2025-06-16 13:05:49] Calling Gemini API with prompt length: 6161
+[2025-06-16 13:05:54] API Response HTTP Code: 200
+[2025-06-16 13:05:54] Generated text length: 2897
+[2025-06-16 13:05:54] Prompt log saved for task item 6, type: verify
+[2025-06-16 13:05:54] Content verified successfully for ID 6, length: 2897
+[2025-06-16 13:05:54] Text was modified during verification for ID 6
+[2025-06-16 13:05:54] Content generated and saved for ID 6
+[2025-06-16 13:05:54] Generated text preview: <h2>Bezpieczeństwo w podróży i na co dzień: <strong>saszetka antykradzieżowa</strong> pod ubran...
+[2025-06-16 13:05:54] Verified text preview: <h2>Bezpieczeństwo w podróży i na co dzień - saszetka antykradzieżowa pod ubranie</h2>
+<p>W nas...
+[2025-06-16 13:05:54] Queue item 15 successfully processed and marked as completed.
+[2025-06-16 13:05:54] Task ID: 5 status updated to: completed
+[2025-06-16 13:05:54] Transaction for queue item 15 committed.
+[2025-06-16 13:06:04] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:06:04] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:06:04] Processing one item.
+[2025-06-16 13:18:37] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:18:37] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:18:37] Processing one item.
+[2025-06-16 13:18:37] Attempting to process queue item ID: 16 (Task Item ID: 7)
+[2025-06-16 13:18:37] Processing task item ID: 7
+[2025-06-16 13:18:37] Using existing page content for task item 7
+[2025-06-16 13:18:37] Input data for ID 7: {"url":"https:\/\/fun4sport.pl\/pol_m_Torby-sportowe_TORBY-SPORTOWE-EVERLAST-544.html","keywords":"torba sportowa Everlast\r\ntorba treningowa Everlast\r\ntorba na si\u0142owni\u0119 Everlast\r\ntorba sportowa czarna Everlast","headings":"Dlaczego warto wybra\u0107 torb\u0119 sportow\u0105 Everlast?, Jakie cechy posiada idealna torba treningowa Everlast?","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 13:18:37] Final generate prompt length: 9627
+[2025-06-16 13:18:37] Calling Gemini API with prompt length: 9627
+[2025-06-16 13:18:42] API Response HTTP Code: 200
+[2025-06-16 13:18:42] Generated text length: 2326
+[2025-06-16 13:18:42] Prompt log saved for task item 7, type: generate
+[2025-06-16 13:18:42] Content generated successfully for ID 7, length: 2326
+[2025-06-16 13:18:42] Verifying content for ID 7...
+[2025-06-16 13:18:42] Calling Gemini API with prompt length: 5400
+[2025-06-16 13:18:45] API Response HTTP Code: 200
+[2025-06-16 13:18:45] Generated text length: 2137
+[2025-06-16 13:18:45] Prompt log saved for task item 7, type: verify
+[2025-06-16 13:18:45] Content verified successfully for ID 7, length: 2137
+[2025-06-16 13:18:45] Text was modified during verification for ID 7
+[2025-06-16 13:18:45] Content generated and saved for ID 7
+[2025-06-16 13:18:45] Generated text preview: <h2>Dlaczego warto wybrać torbę sportową Everlast?</h2>
+<p><strong>Torby sportowe Everlast</stron...
+[2025-06-16 13:18:45] Verified text preview: ```html
+<h2>Dlaczego warto wybrać torbę sportową Everlast?</h2>
+<p>Torby sportowe Everlast to po�...
+[2025-06-16 13:18:45] Queue item 16 successfully processed and marked as completed.
+[2025-06-16 13:18:45] Task ID: 6 status updated to: processing
+[2025-06-16 13:18:45] Transaction for queue item 16 committed.
+[2025-06-16 13:18:56] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:18:56] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:18:56] Processing one item.
+[2025-06-16 13:18:56] Attempting to process queue item ID: 17 (Task Item ID: 8)
+[2025-06-16 13:18:56] Processing task item ID: 8
+[2025-06-16 13:18:56] Using existing page content for task item 8
+[2025-06-16 13:18:56] Input data for ID 8: {"url":"https:\/\/fun4sport.pl\/pol_m_Obuwie_Klapki-sportowe-541.html","keywords":"klapki sportowe m\u0119skie\r\nklapki basenowe damskie\r\nklapki sportowe na lato\r\nklapki sportowe z logo","headings":"Jakie klapki sportowe wybra\u0107 na basen i pla\u017c\u0119?, Czym r\u00f3\u017cni\u0105 si\u0119 klapki sportowe od codziennych modeli?","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 13:18:56] Final generate prompt length: 9591
+[2025-06-16 13:18:56] Calling Gemini API with prompt length: 9591
+[2025-06-16 13:19:01] API Response HTTP Code: 200
+[2025-06-16 13:19:01] Generated text length: 2914
+[2025-06-16 13:19:01] Prompt log saved for task item 8, type: generate
+[2025-06-16 13:19:01] Content generated successfully for ID 8, length: 2914
+[2025-06-16 13:19:01] Verifying content for ID 8...
+[2025-06-16 13:19:01] Calling Gemini API with prompt length: 5988
+[2025-06-16 13:19:06] API Response HTTP Code: 200
+[2025-06-16 13:19:06] Generated text length: 2463
+[2025-06-16 13:19:06] Prompt log saved for task item 8, type: verify
+[2025-06-16 13:19:06] Content verified successfully for ID 8, length: 2463
+[2025-06-16 13:19:06] Text was modified during verification for ID 8
+[2025-06-16 13:19:06] Content generated and saved for ID 8
+[2025-06-16 13:19:06] Generated text preview: <h2>Jakie klapki sportowe wybrać na basen i plażę?</h2>
+<p>Wybór odpowiednich <strong>klapek spo...
+[2025-06-16 13:19:06] Verified text preview: ```html
+<h2>Jakie klapki sportowe wybrać na basen i plażę -</h2>
+<p>Wybór idealnych klapek sport...
+[2025-06-16 13:19:06] Queue item 17 successfully processed and marked as completed.
+[2025-06-16 13:19:06] Task ID: 6 status updated to: processing
+[2025-06-16 13:19:06] Transaction for queue item 17 committed.
+[2025-06-16 13:19:16] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:19:16] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:19:16] Processing one item.
+[2025-06-16 13:19:16] Attempting to process queue item ID: 18 (Task Item ID: 9)
+[2025-06-16 13:19:16] Processing task item ID: 9
+[2025-06-16 13:19:16] Using existing page content for task item 9
+[2025-06-16 13:19:16] Input data for ID 9: {"url":"https:\/\/fun4sport.pl\/pol_m_Dodatki_TOREBKI-I-SASZETKI-SPORTOWE-_Torebki-i-saszetki-sportowe-NEW-ERA-511.html","keywords":"saszetka New Era\r\nnerka New Era\r\ntorebka sportowa New Era\r\nsaszetka na rami\u0119 New Era\r\n","headings":"Dlaczego saszetki New Era s\u0105 tak popularne w\u015br\u00f3d sportowc\u00f3w?, Jak dopasowa\u0107 torebk\u0119 New Era do swojego stylu?","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 13:19:16] Final generate prompt length: 11476
+[2025-06-16 13:19:16] Calling Gemini API with prompt length: 11476
+[2025-06-16 13:19:20] API Response HTTP Code: 200
+[2025-06-16 13:19:20] Generated text length: 2039
+[2025-06-16 13:19:20] Prompt log saved for task item 9, type: generate
+[2025-06-16 13:19:20] Content generated successfully for ID 9, length: 2039
+[2025-06-16 13:19:20] Verifying content for ID 9...
+[2025-06-16 13:19:20] Calling Gemini API with prompt length: 5113
+[2025-06-16 13:19:23] API Response HTTP Code: 200
+[2025-06-16 13:19:23] Generated text length: 1958
+[2025-06-16 13:19:23] Prompt log saved for task item 9, type: verify
+[2025-06-16 13:19:23] Content verified successfully for ID 9, length: 1958
+[2025-06-16 13:19:23] Text was modified during verification for ID 9
+[2025-06-16 13:19:23] Content generated and saved for ID 9
+[2025-06-16 13:19:23] Generated text preview: <h2>Dlaczego <strong>saszetki New Era</strong> są tak popularne wśród sportowców?</h2>
+<p><stron...
+[2025-06-16 13:19:23] Verified text preview: ```html
+<h2>Dlaczego <strong>saszetki New Era</strong> są tak popularne wśród sportowców-</h2>
+<...
+[2025-06-16 13:19:23] Queue item 18 successfully processed and marked as completed.
+[2025-06-16 13:19:23] Task ID: 6 status updated to: processing
+[2025-06-16 13:19:23] Transaction for queue item 18 committed.
+[2025-06-16 13:19:34] Starting queue processor. Mode: WWW (Manual Trigger)
+[2025-06-16 13:19:34] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 13:19:34] Processing one item.
+[2025-06-16 13:19:34] Attempting to process queue item ID: 19 (Task Item ID: 10)
+[2025-06-16 13:19:34] Processing task item ID: 10
+[2025-06-16 13:19:34] Using existing page content for task item 10
+[2025-06-16 13:19:34] Input data for ID 10: {"url":"https:\/\/fun4sport.pl\/pol_m_Skarpety-sportowe_SKARPETY-4F-519.html","keywords":"skarpetki 4F m\u0119skie\r\nskarpetki sportowe 4F\r\nstopki 4F\r\nskarpetki treningowe 4F","headings":"Dlaczego warto wybra\u0107 skarpety sportowe 4F?, Jakie skarpety 4F sprawdz\u0105 si\u0119 podczas intensywnych trening\u00f3w?","characters":"2500","lead":"NIE","internal_linking":""}
+[2025-06-16 13:19:34] Final generate prompt length: 10061
+[2025-06-16 13:19:34] Calling Gemini API with prompt length: 10061
+[2025-06-16 13:19:38] API Response HTTP Code: 200
+[2025-06-16 13:19:38] Generated text length: 2046
+[2025-06-16 13:19:38] Prompt log saved for task item 10, type: generate
+[2025-06-16 13:19:38] Content generated successfully for ID 10, length: 2046
+[2025-06-16 13:19:38] Verifying content for ID 10...
+[2025-06-16 13:19:38] Calling Gemini API with prompt length: 5120
+[2025-06-16 13:19:42] API Response HTTP Code: 200
+[2025-06-16 13:19:42] Generated text length: 1975
+[2025-06-16 13:19:42] Prompt log saved for task item 10, type: verify
+[2025-06-16 13:19:42] Content verified successfully for ID 10, length: 1975
+[2025-06-16 13:19:42] Text was modified during verification for ID 10
+[2025-06-16 13:19:42] Content generated and saved for ID 10
+[2025-06-16 13:19:42] Generated text preview: <h2>Dlaczego warto wybrać <strong>skarpetki sportowe 4F</strong>?</h2>
+<p><strong>Skarpetki 4F</str...
+[2025-06-16 13:19:42] Verified text preview: ```html
+<h2>Dlaczego warto wybrać <strong>skarpetki sportowe 4F</strong>?</h2>
+<p><strong>Skarpetki...
+[2025-06-16 13:19:42] Queue item 19 successfully processed and marked as completed.
+[2025-06-16 13:19:42] Task ID: 6 status updated to: completed
+[2025-06-16 13:19:42] Transaction for queue item 19 committed.
+[2025-06-16 21:00:02] Starting queue processor. Mode: CLI
+[2025-06-16 21:00:02] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:00:02] Starting continuous processing loop.
+[2025-06-16 21:02:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:02:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:02:01] Starting continuous processing loop.
+[2025-06-16 21:02:11] Attempting to process queue item ID: 20 (Task Item ID: 11)
+[2025-06-16 21:02:11] Processing task item ID: 11
+[2025-06-16 21:02:11] Using existing page content for task item 11
+[2025-06-16 21:02:11] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:11] Final generate prompt length: 8458
+[2025-06-16 21:02:11] Calling Gemini API with prompt length: 8458
+[2025-06-16 21:02:12] Attempting to process queue item ID: 21 (Task Item ID: 12)
+[2025-06-16 21:02:12] Processing task item ID: 12
+[2025-06-16 21:02:12] Using existing page content for task item 12
+[2025-06-16 21:02:12] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:12] Final generate prompt length: 8290
+[2025-06-16 21:02:12] Calling Gemini API with prompt length: 8290
+[2025-06-16 21:02:17] API Response HTTP Code: 200
+[2025-06-16 21:02:17] Generated text length: 2582
+[2025-06-16 21:02:17] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:02:17] Content generated successfully for ID 12, length: 2582
+[2025-06-16 21:02:17] Verifying content for ID 12...
+[2025-06-16 21:02:17] Calling Gemini API with prompt length: 5672
+[2025-06-16 21:02:17] API Response HTTP Code: 200
+[2025-06-16 21:02:17] Generated text length: 2915
+[2025-06-16 21:02:17] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:02:17] Content generated successfully for ID 11, length: 2915
+[2025-06-16 21:02:17] Verifying content for ID 11...
+[2025-06-16 21:02:17] Calling Gemini API with prompt length: 6005
+[2025-06-16 21:02:22] API Response HTTP Code: 200
+[2025-06-16 21:02:22] Generated text length: 2488
+[2025-06-16 21:02:22] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:02:22] Content verified successfully for ID 12, length: 2488
+[2025-06-16 21:02:22] Text was modified during verification for ID 12
+[2025-06-16 21:02:22] Content generated and saved for ID 12
+[2025-06-16 21:02:22] Generated text preview: <h2>Wygodne i stylowe <strong>markowe skarpety damskie</strong>: idealne na co dzień</h2>
+<p>Szerok...
+[2025-06-16 21:02:22] Verified text preview: <h2>Wygodne i stylowe <strong>markowe skarpety damskie</strong> - idealne na co dzień</h2>
+<p>Poszu...
+[2025-06-16 21:02:22] Queue item 21 successfully processed and marked as completed.
+[2025-06-16 21:02:22] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:22] Transaction for queue item 21 committed.
+[2025-06-16 21:02:22] API Response HTTP Code: 200
+[2025-06-16 21:02:22] Generated text length: 2375
+[2025-06-16 21:02:22] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:02:22] Content verified successfully for ID 11, length: 2375
+[2025-06-16 21:02:22] Text was modified during verification for ID 11
+[2025-06-16 21:02:22] Content generated and saved for ID 11
+[2025-06-16 21:02:22] Generated text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Szeroki wybór <strong>plecaków ...
+[2025-06-16 21:02:22] Verified text preview: ```html
+<h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Poszukujesz nowego plecak...
+[2025-06-16 21:02:22] Queue item 20 successfully processed and marked as completed.
+[2025-06-16 21:02:22] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:22] Transaction for queue item 20 committed.
+[2025-06-16 21:02:27] Attempting to process queue item ID: 22 (Task Item ID: 13)
+[2025-06-16 21:02:27] Processing task item ID: 13
+[2025-06-16 21:02:27] Using existing page content for task item 13
+[2025-06-16 21:02:27] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:27] Final generate prompt length: 8638
+[2025-06-16 21:02:27] Calling Gemini API with prompt length: 8638
+[2025-06-16 21:02:27] Attempting to process queue item ID: 23 (Task Item ID: 14)
+[2025-06-16 21:02:27] Processing task item ID: 14
+[2025-06-16 21:02:27] Using existing page content for task item 14
+[2025-06-16 21:02:27] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:27] Final generate prompt length: 8256
+[2025-06-16 21:02:27] Calling Gemini API with prompt length: 8256
+[2025-06-16 21:02:32] API Response HTTP Code: 200
+[2025-06-16 21:02:32] Generated text length: 2283
+[2025-06-16 21:02:32] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:02:32] Content generated successfully for ID 14, length: 2283
+[2025-06-16 21:02:32] Verifying content for ID 14...
+[2025-06-16 21:02:32] Calling Gemini API with prompt length: 5373
+[2025-06-16 21:02:32] API Response HTTP Code: 200
+[2025-06-16 21:02:32] Generated text length: 2529
+[2025-06-16 21:02:32] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:02:32] Content generated successfully for ID 13, length: 2529
+[2025-06-16 21:02:32] Verifying content for ID 13...
+[2025-06-16 21:02:32] Calling Gemini API with prompt length: 5619
+[2025-06-16 21:02:36] API Response HTTP Code: 200
+[2025-06-16 21:02:36] Generated text length: 2129
+[2025-06-16 21:02:36] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:02:36] Content verified successfully for ID 14, length: 2129
+[2025-06-16 21:02:36] Text was modified during verification for ID 14
+[2025-06-16 21:02:36] Content generated and saved for ID 14
+[2025-06-16 21:02:36] Generated text preview: <h2>Wygodne i stylowe: <strong>markowe tuniki damskie</strong> na każdą okazję</h2>
+<p>Tuniki to ...
+[2025-06-16 21:02:36] Verified text preview: ```html
+<h2>Wygodne i stylowe tuniki damskie - na każdą okazję</h2>
+<p>Tuniki to wszechstronne el...
+[2025-06-16 21:02:36] Queue item 23 successfully processed and marked as completed.
+[2025-06-16 21:02:36] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:36] Transaction for queue item 23 committed.
+[2025-06-16 21:02:36] API Response HTTP Code: 200
+[2025-06-16 21:02:36] Generated text length: 2160
+[2025-06-16 21:02:36] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:02:36] Content verified successfully for ID 13, length: 2160
+[2025-06-16 21:02:36] Text was modified during verification for ID 13
+[2025-06-16 21:02:36] Content generated and saved for ID 13
+[2025-06-16 21:02:36] Generated text preview: <h2>Dlaczego warto wybrać markowe chusty damskie?</h2>
+<p><strong>Markowe chusty damskie</strong> t...
+[2025-06-16 21:02:36] Verified text preview: ```html
+<h2>Dlaczego warto wybrać markowe chusty damskie -</h2>
+<p>Markowa chusta to więcej niż d...
+[2025-06-16 21:02:36] Queue item 22 successfully processed and marked as completed.
+[2025-06-16 21:02:36] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:36] Transaction for queue item 22 committed.
+[2025-06-16 21:04:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:04:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:04:01] Starting continuous processing loop.
+[2025-06-16 21:06:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:06:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:06:01] Starting continuous processing loop.
+[2025-06-16 21:07:01] Attempting to process queue item ID: 24 (Task Item ID: 11)
+[2025-06-16 21:07:01] Processing task item ID: 11
+[2025-06-16 21:07:01] Using existing page content for task item 11
+[2025-06-16 21:07:01] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:01] Final generate prompt length: 8458
+[2025-06-16 21:07:01] Calling Gemini API with prompt length: 8458
+[2025-06-16 21:07:01] Attempting to process queue item ID: 25 (Task Item ID: 12)
+[2025-06-16 21:07:01] Processing task item ID: 12
+[2025-06-16 21:07:01] Using existing page content for task item 12
+[2025-06-16 21:07:01] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:01] Final generate prompt length: 8290
+[2025-06-16 21:07:01] Calling Gemini API with prompt length: 8290
+[2025-06-16 21:07:05] API Response HTTP Code: 200
+[2025-06-16 21:07:05] Generated text length: 2185
+[2025-06-16 21:07:05] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:07:05] Content generated successfully for ID 12, length: 2185
+[2025-06-16 21:07:05] Verifying content for ID 12...
+[2025-06-16 21:07:05] Calling Gemini API with prompt length: 5275
+[2025-06-16 21:07:06] API Response HTTP Code: 200
+[2025-06-16 21:07:06] Generated text length: 2415
+[2025-06-16 21:07:06] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:07:06] Content generated successfully for ID 11, length: 2415
+[2025-06-16 21:07:06] Verifying content for ID 11...
+[2025-06-16 21:07:06] Calling Gemini API with prompt length: 5505
+[2025-06-16 21:07:10] API Response HTTP Code: 200
+[2025-06-16 21:07:10] Generated text length: 2160
+[2025-06-16 21:07:10] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:07:10] Content verified successfully for ID 12, length: 2160
+[2025-06-16 21:07:10] Text was modified during verification for ID 12
+[2025-06-16 21:07:10] Content generated and saved for ID 12
+[2025-06-16 21:07:10] Generated text preview: <h2>Dlaczego warto wybrać <strong>markowe skarpety damskie</strong>?</h2>
+<p>Wygodne i stylowe <str...
+[2025-06-16 21:07:10] Verified text preview: <h2>Dlaczego warto wybrać <strong>markowe skarpety damskie</strong>?</h2><p>Dobrze dobrane skarpety...
+[2025-06-16 21:07:10] Queue item 25 successfully processed and marked as completed.
+[2025-06-16 21:07:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:10] Transaction for queue item 25 committed.
+[2025-06-16 21:07:10] API Response HTTP Code: 200
+[2025-06-16 21:07:10] Generated text length: 2298
+[2025-06-16 21:07:10] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:07:10] Content verified successfully for ID 11, length: 2298
+[2025-06-16 21:07:10] Text was modified during verification for ID 11
+[2025-06-16 21:07:10] Content generated and saved for ID 11
+[2025-06-16 21:07:10] Generated text preview: <h2>Wybierz idealny <strong >plecak męski</strong></h2>
+<p>W naszej ofercie znajdziesz szeroki wyb�...
+[2025-06-16 21:07:10] Verified text preview: ```html
+<h2>Wybierz idealny <strong>plecak męski</strong></h2>
+<p>W naszej ofercie znajdziesz bogat...
+[2025-06-16 21:07:10] Queue item 24 successfully processed and marked as completed.
+[2025-06-16 21:07:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:10] Transaction for queue item 24 committed.
+[2025-06-16 21:07:11] Attempting to process queue item ID: 26 (Task Item ID: 13)
+[2025-06-16 21:07:11] Processing task item ID: 13
+[2025-06-16 21:07:11] Using existing page content for task item 13
+[2025-06-16 21:07:11] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:11] Final generate prompt length: 8638
+[2025-06-16 21:07:11] Calling Gemini API with prompt length: 8638
+[2025-06-16 21:07:11] Attempting to process queue item ID: 27 (Task Item ID: 14)
+[2025-06-16 21:07:11] Processing task item ID: 14
+[2025-06-16 21:07:11] Using existing page content for task item 14
+[2025-06-16 21:07:11] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:11] Final generate prompt length: 8256
+[2025-06-16 21:07:11] Calling Gemini API with prompt length: 8256
+[2025-06-16 21:07:16] API Response HTTP Code: 200
+[2025-06-16 21:07:16] Generated text length: 2177
+[2025-06-16 21:07:16] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:07:16] Content generated successfully for ID 13, length: 2177
+[2025-06-16 21:07:16] Verifying content for ID 13...
+[2025-06-16 21:07:16] Calling Gemini API with prompt length: 5267
+[2025-06-16 21:07:16] API Response HTTP Code: 200
+[2025-06-16 21:07:16] Generated text length: 2197
+[2025-06-16 21:07:16] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:07:16] Content generated successfully for ID 14, length: 2197
+[2025-06-16 21:07:16] Verifying content for ID 14...
+[2025-06-16 21:07:16] Calling Gemini API with prompt length: 5287
+[2025-06-16 21:07:20] API Response HTTP Code: 200
+[2025-06-16 21:07:20] Generated text length: 1959
+[2025-06-16 21:07:20] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:07:20] Content verified successfully for ID 13, length: 1959
+[2025-06-16 21:07:20] Text was modified during verification for ID 13
+[2025-06-16 21:07:20] Content generated and saved for ID 13
+[2025-06-16 21:07:20] Generated text preview: <h2>Dlaczego warto wybrać markowe chusty damskie?</h2>
+<p><strong>Markowe chusty damskie</strong> t...
+[2025-06-16 21:07:20] Verified text preview: ```html
+<h2>Dlaczego warto wybrać markowe chusty damskie -</h2>
+<p>Markowa chusta to więcej niż t...
+[2025-06-16 21:07:20] Queue item 26 successfully processed and marked as completed.
+[2025-06-16 21:07:20] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:20] Transaction for queue item 26 committed.
+[2025-06-16 21:07:20] API Response HTTP Code: 200
+[2025-06-16 21:07:20] Generated text length: 1926
+[2025-06-16 21:07:20] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:07:20] Content verified successfully for ID 14, length: 1926
+[2025-06-16 21:07:20] Text was modified during verification for ID 14
+[2025-06-16 21:07:20] Content generated and saved for ID 14
+[2025-06-16 21:07:20] Generated text preview: <h2>Znajdź idealną tunikę z krótkim rękawem</h2>
+<p>Szeroki wybór <strong>markowych tunik dams...
+[2025-06-16 21:07:20] Verified text preview: ```html
+<h2>Znajdź idealną tunikę z krótkim rękawem</h2>
+<p>W naszej ofercie znajdziesz szeroki...
+[2025-06-16 21:07:20] Queue item 27 successfully processed and marked as completed.
+[2025-06-16 21:07:20] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:20] Transaction for queue item 27 committed.
+[2025-06-16 21:08:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:08:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:08:01] Starting continuous processing loop.
+[2025-06-16 21:10:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:10:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:10:01] Starting continuous processing loop.
+[2025-06-16 21:12:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:12:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:12:01] Starting continuous processing loop.
+[2025-06-16 21:12:35] Attempting to process queue item ID: 28 (Task Item ID: 11)
+[2025-06-16 21:12:35] Processing task item ID: 11
+[2025-06-16 21:12:35] Using existing page content for task item 11
+[2025-06-16 21:12:35] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:35] Final generate prompt length: 9702
+[2025-06-16 21:12:35] Calling Gemini API with prompt length: 9702
+[2025-06-16 21:12:35] Attempting to process queue item ID: 29 (Task Item ID: 12)
+[2025-06-16 21:12:35] Processing task item ID: 12
+[2025-06-16 21:12:35] Using existing page content for task item 12
+[2025-06-16 21:12:35] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:35] Final generate prompt length: 9534
+[2025-06-16 21:12:35] Calling Gemini API with prompt length: 9534
+[2025-06-16 21:12:41] Attempting to process queue item ID: 30 (Task Item ID: 13)
+[2025-06-16 21:12:41] Processing task item ID: 13
+[2025-06-16 21:12:41] Using existing page content for task item 13
+[2025-06-16 21:12:41] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:41] Final generate prompt length: 9882
+[2025-06-16 21:12:41] Calling Gemini API with prompt length: 9882
+[2025-06-16 21:12:41] Attempting to process queue item ID: 31 (Task Item ID: 14)
+[2025-06-16 21:12:41] Processing task item ID: 14
+[2025-06-16 21:12:41] Using existing page content for task item 14
+[2025-06-16 21:12:41] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:41] Final generate prompt length: 9500
+[2025-06-16 21:12:41] Calling Gemini API with prompt length: 9500
+[2025-06-16 21:12:42] API Response HTTP Code: 200
+[2025-06-16 21:12:42] Generated text length: 4048
+[2025-06-16 21:12:42] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:12:42] Content generated successfully for ID 11, length: 4048
+[2025-06-16 21:12:42] Verifying content for ID 11...
+[2025-06-16 21:12:42] Calling Gemini API with prompt length: 7162
+[2025-06-16 21:12:44] API Response HTTP Code: 200
+[2025-06-16 21:12:44] Generated text length: 4475
+[2025-06-16 21:12:44] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:12:44] Content generated successfully for ID 12, length: 4475
+[2025-06-16 21:12:44] Verifying content for ID 12...
+[2025-06-16 21:12:44] Calling Gemini API with prompt length: 7589
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3631
+[2025-06-16 21:12:49] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:12:49] Content generated successfully for ID 13, length: 3631
+[2025-06-16 21:12:49] Verifying content for ID 13...
+[2025-06-16 21:12:49] Calling Gemini API with prompt length: 6745
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3855
+[2025-06-16 21:12:49] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:12:49] Content generated successfully for ID 14, length: 3855
+[2025-06-16 21:12:49] Verifying content for ID 14...
+[2025-06-16 21:12:49] Calling Gemini API with prompt length: 6969
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3538
+[2025-06-16 21:12:49] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:12:49] Content verified successfully for ID 11, length: 3538
+[2025-06-16 21:12:49] Text was modified during verification for ID 11
+[2025-06-16 21:12:49] Content generated and saved for ID 11
+[2025-06-16 21:12:49] Generated text preview: <h2>Wybierz idealny plecak – komfort i styl na co dzień</h2>
+<p>Szeroki wybór <strong>markowych ...
+[2025-06-16 21:12:49] Verified text preview: ```html
+<h2>Wybierz idealny plecak - komfort i styl na co dzień</h2>
+<p>Szeroki wybór <strong>mark...
+[2025-06-16 21:12:49] Queue item 28 successfully processed and marked as completed.
+[2025-06-16 21:12:49] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:49] Transaction for queue item 28 committed.
+[2025-06-16 21:12:51] API Response HTTP Code: 200
+[2025-06-16 21:12:51] Generated text length: 4001
+[2025-06-16 21:12:51] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:12:51] Content verified successfully for ID 12, length: 4001
+[2025-06-16 21:12:51] Text was modified during verification for ID 12
+[2025-06-16 21:12:51] Content generated and saved for ID 12
+[2025-06-16 21:12:51] Generated text preview: <h2>Wygodne i Stylowe: Odkryj Świat Damskich Skarpet</h2>
+<p>Szeroki wybór <strong>markowych skarp...
+[2025-06-16 21:12:51] Verified text preview: ```html
+<h2>Wygodne i Stylowe - Odkryj Świat Damskich Skarpet</h2>
+<p>Szeroki wybór <strong>markow...
+[2025-06-16 21:12:51] Queue item 29 successfully processed and marked as completed.
+[2025-06-16 21:12:51] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:51] Transaction for queue item 29 committed.
+[2025-06-16 21:12:55] API Response HTTP Code: 200
+[2025-06-16 21:12:55] Generated text length: 3237
+[2025-06-16 21:12:55] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:12:55] Content verified successfully for ID 13, length: 3237
+[2025-06-16 21:12:55] Text was modified during verification for ID 13
+[2025-06-16 21:12:55] Content generated and saved for ID 13
+[2025-06-16 21:12:55] Generated text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong>: Odkryj swój styl</h2>
+<p>W naszej kolekcji ...
+[2025-06-16 21:12:55] Verified text preview: ```html
+<h2>Wyjątkowe <strong>markowe chusty damskie</strong> - Odkryj swój styl</h2>
+<p>Nasza kol...
+[2025-06-16 21:12:55] Queue item 30 successfully processed and marked as completed.
+[2025-06-16 21:12:55] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:55] Transaction for queue item 30 committed.
+[2025-06-16 21:12:56] API Response HTTP Code: 200
+[2025-06-16 21:12:56] Generated text length: 3356
+[2025-06-16 21:12:56] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:12:56] Content verified successfully for ID 14, length: 3356
+[2025-06-16 21:12:56] Text was modified during verification for ID 14
+[2025-06-16 21:12:56] Content generated and saved for ID 14
+[2025-06-16 21:12:56] Generated text preview: <h2>Tuniki z krótkim rękawem – idealne na lato</h2>
+<p><strong>Markowe tuniki damskie</strong> t...
+[2025-06-16 21:12:56] Verified text preview: ```html
+<h2>Tuniki z krótkim rękawem - idealne na lato</h2>
+<p>Markowe tuniki damskie to doskonał...
+[2025-06-16 21:12:56] Queue item 31 successfully processed and marked as completed.
+[2025-06-16 21:12:56] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:56] Transaction for queue item 31 committed.
+[2025-06-16 21:14:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:14:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:14:01] Starting continuous processing loop.
+[2025-06-16 21:16:02] Starting queue processor. Mode: CLI
+[2025-06-16 21:16:02] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:16:02] Starting continuous processing loop.
+[2025-06-16 21:18:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:18:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:18:01] Starting continuous processing loop.
+[2025-06-16 21:20:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:20:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:20:01] Starting continuous processing loop.
+[2025-06-16 21:20:51] Attempting to process queue item ID: 32 (Task Item ID: 11)
+[2025-06-16 21:20:51] Processing task item ID: 11
+[2025-06-16 21:20:51] Using existing page content for task item 11
+[2025-06-16 21:20:51] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:51] Final generate prompt length: 9702
+[2025-06-16 21:20:51] Calling Gemini API with prompt length: 9702
+[2025-06-16 21:20:54] Attempting to process queue item ID: 33 (Task Item ID: 12)
+[2025-06-16 21:20:54] Processing task item ID: 12
+[2025-06-16 21:20:54] Using existing page content for task item 12
+[2025-06-16 21:20:54] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:54] Final generate prompt length: 9534
+[2025-06-16 21:20:54] Calling Gemini API with prompt length: 9534
+[2025-06-16 21:20:56] Attempting to process queue item ID: 34 (Task Item ID: 13)
+[2025-06-16 21:20:56] Processing task item ID: 13
+[2025-06-16 21:20:56] Using existing page content for task item 13
+[2025-06-16 21:20:56] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:56] Final generate prompt length: 9882
+[2025-06-16 21:20:56] Calling Gemini API with prompt length: 9882
+[2025-06-16 21:20:58] API Response HTTP Code: 200
+[2025-06-16 21:20:58] Generated text length: 3995
+[2025-06-16 21:20:58] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:20:58] Content generated successfully for ID 11, length: 3995
+[2025-06-16 21:20:58] Verifying content for ID 11...
+[2025-06-16 21:20:58] Calling Gemini API with prompt length: 7340
+[2025-06-16 21:21:00] Attempting to process queue item ID: 35 (Task Item ID: 14)
+[2025-06-16 21:21:00] Processing task item ID: 14
+[2025-06-16 21:21:00] Using existing page content for task item 14
+[2025-06-16 21:21:00] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:21:00] Final generate prompt length: 9500
+[2025-06-16 21:21:00] Calling Gemini API with prompt length: 9500
+[2025-06-16 21:21:02] API Response HTTP Code: 200
+[2025-06-16 21:21:02] Generated text length: 4133
+[2025-06-16 21:21:02] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:21:02] Content generated successfully for ID 12, length: 4133
+[2025-06-16 21:21:02] Verifying content for ID 12...
+[2025-06-16 21:21:02] Calling Gemini API with prompt length: 7478
+[2025-06-16 21:21:03] API Response HTTP Code: 200
+[2025-06-16 21:21:03] Generated text length: 3756
+[2025-06-16 21:21:03] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:21:03] Content generated successfully for ID 13, length: 3756
+[2025-06-16 21:21:03] Verifying content for ID 13...
+[2025-06-16 21:21:03] Calling Gemini API with prompt length: 7101
+[2025-06-16 21:21:05] API Response HTTP Code: 200
+[2025-06-16 21:21:05] Generated text length: 3542
+[2025-06-16 21:21:05] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:21:05] Content verified successfully for ID 11, length: 3542
+[2025-06-16 21:21:05] Text was modified during verification for ID 11
+[2025-06-16 21:21:05] Content generated and saved for ID 11
+[2025-06-16 21:21:05] Generated text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Szeroki wybór <strong>plecaków ...
+[2025-06-16 21:21:05] Verified text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Potrzebujesz nowego plecaka?  W n...
+[2025-06-16 21:21:05] Queue item 32 successfully processed and marked as completed.
+[2025-06-16 21:21:05] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:05] Transaction for queue item 32 committed.
+[2025-06-16 21:21:08] API Response HTTP Code: 200
+[2025-06-16 21:21:08] Generated text length: 4439
+[2025-06-16 21:21:08] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:21:08] Content generated successfully for ID 14, length: 4439
+[2025-06-16 21:21:08] Verifying content for ID 14...
+[2025-06-16 21:21:08] Calling Gemini API with prompt length: 7784
+[2025-06-16 21:21:09] API Response HTTP Code: 200
+[2025-06-16 21:21:09] Generated text length: 3756
+[2025-06-16 21:21:09] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:21:09] Content verified successfully for ID 12, length: 3756
+[2025-06-16 21:21:09] Text was modified during verification for ID 12
+[2025-06-16 21:21:09] Content generated and saved for ID 12
+[2025-06-16 21:21:09] Generated text preview: <h2>Wygodne i Stylowe Skarpety Damskie: Komfort na Każdy Dzień</h2>
+<p>Szeroki wybór <strong>mark...
+[2025-06-16 21:21:09] Verified text preview: <h2>Wygodne i Stylowe Skarpety Damskie - Komfort na Każdy Dzień</h2>
+<p>Szeroki wybór <strong>mar...
+[2025-06-16 21:21:09] Queue item 33 successfully processed and marked as completed.
+[2025-06-16 21:21:09] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:09] Transaction for queue item 33 committed.
+[2025-06-16 21:21:10] API Response HTTP Code: 200
+[2025-06-16 21:21:10] Generated text length: 3164
+[2025-06-16 21:21:10] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:21:10] Content verified successfully for ID 13, length: 3164
+[2025-06-16 21:21:10] Text was modified during verification for ID 13
+[2025-06-16 21:21:10] Content generated and saved for ID 13
+[2025-06-16 21:21:10] Generated text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong> – dodaj charakteru swojej stylizacji</h2>
+<...
+[2025-06-16 21:21:10] Verified text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong> - dodaj charakteru swojej stylizacji</h2>
+<p>...
+[2025-06-16 21:21:10] Queue item 34 successfully processed and marked as completed.
+[2025-06-16 21:21:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:10] Transaction for queue item 34 committed.
+[2025-06-16 21:21:15] API Response HTTP Code: 200
+[2025-06-16 21:21:15] Generated text length: 3727
+[2025-06-16 21:21:15] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:21:15] Content verified successfully for ID 14, length: 3727
+[2025-06-16 21:21:15] Text was modified during verification for ID 14
+[2025-06-16 21:21:15] Content generated and saved for ID 14
+[2025-06-16 21:21:15] Generated text preview: <h2>Tuniki z krótkim rękawem – idealne na lato</h2>
+<p>Szeroki wybór <strong>markowych tunik da...
+[2025-06-16 21:21:15] Verified text preview: <h2>Tuniki z krótkim rękawem - idealne na lato</h2>
+<p>Szeroki wybór <strong>markowych tunik dams...
+[2025-06-16 21:21:15] Queue item 35 successfully processed and marked as completed.
+[2025-06-16 21:21:15] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:15] Transaction for queue item 35 committed.
+[2025-06-16 21:22:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:22:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:22:01] Starting continuous processing loop.
+[2025-06-16 21:24:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:24:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:24:01] Starting continuous processing loop.
+[2025-06-16 21:26:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:26:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:26:01] Starting continuous processing loop.
+[2025-06-16 21:28:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:28:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:28:01] Starting continuous processing loop.
+[2025-06-16 21:30:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:30:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:30:01] Starting continuous processing loop.
+[2025-06-16 21:32:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:32:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:32:01] Starting continuous processing loop.
+[2025-06-16 21:32:40] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:40] Processing task item ID: 15
+[2025-06-16 21:32:40] Using existing page content for task item 15
+[2025-06-16 21:32:40] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:40] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:40] Queue item 36 marked as 'pending' with 1 attempts.
+[2025-06-16 21:32:40] Task ID: 8 status updated to: processing
+[2025-06-16 21:32:40] Transaction for queue item 36 committed.
+[2025-06-16 21:32:40] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:40] Processing task item ID: 15
+[2025-06-16 21:32:40] Using existing page content for task item 15
+[2025-06-16 21:32:40] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:40] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:40] Queue item 36 marked as 'pending' with 2 attempts.
+[2025-06-16 21:32:40] Task ID: 8 status updated to: processing
+[2025-06-16 21:32:40] Transaction for queue item 36 committed.
+[2025-06-16 21:32:41] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:41] Processing task item ID: 15
+[2025-06-16 21:32:41] Using existing page content for task item 15
+[2025-06-16 21:32:41] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:41] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:41] Queue item 36 marked as 'failed' with 3 attempts.
+[2025-06-16 21:32:41] Task ID: 8 status updated to: failed
+[2025-06-16 21:32:41] Transaction for queue item 36 committed.
+[2025-06-16 21:34:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:34:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:34:01] Starting continuous processing loop.
+[2025-06-16 21:35:24] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:24] Processing task item ID: 15
+[2025-06-16 21:35:24] Using existing page content for task item 15
+[2025-06-16 21:35:24] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:24] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:24] Queue item 37 marked as 'pending' with 1 attempts.
+[2025-06-16 21:35:24] Task ID: 8 status updated to: processing
+[2025-06-16 21:35:24] Transaction for queue item 37 committed.
+[2025-06-16 21:35:25] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:25] Processing task item ID: 15
+[2025-06-16 21:35:25] Using existing page content for task item 15
+[2025-06-16 21:35:25] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:25] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:25] Queue item 37 marked as 'pending' with 2 attempts.
+[2025-06-16 21:35:25] Task ID: 8 status updated to: processing
+[2025-06-16 21:35:25] Transaction for queue item 37 committed.
+[2025-06-16 21:35:25] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:25] Processing task item ID: 15
+[2025-06-16 21:35:25] Using existing page content for task item 15
+[2025-06-16 21:35:25] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:25] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:25] Queue item 37 marked as 'failed' with 3 attempts.
+[2025-06-16 21:35:25] Task ID: 8 status updated to: failed
+[2025-06-16 21:35:25] Transaction for queue item 37 committed.
+[2025-06-16 21:36:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:36:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:36:01] Starting continuous processing loop.
+[2025-06-16 21:38:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:38:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:38:01] Starting continuous processing loop.
+[2025-06-16 21:40:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:40:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:40:01] Starting continuous processing loop.
+[2025-06-16 21:42:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:42:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:42:01] Starting continuous processing loop.

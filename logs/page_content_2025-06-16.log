@@ -1,0 +1,120 @@
+[2025-06-16 10:49:12] Starting page content processor. Mode: CLI
+[2025-06-16 10:49:12] Found 2 task items to process
+[2025-06-16 10:49:12] Processing page content for task item ID: 1, URL: https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html
+[2025-06-16 10:49:12] Successfully fetched content for https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html (15 characters)
+[2025-06-16 10:49:13] Processing page content for task item ID: 2, URL: https://koruma.pl/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html
+[2025-06-16 10:49:15] Successfully fetched content for https://koruma.pl/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html (18 characters)
+[2025-06-16 10:49:16] Page content processor finished
+[2025-06-16 10:49:21] Starting page content processor. Mode: WWW
+[2025-06-16 10:49:21] No task items need page content processing
+[2025-06-16 10:49:21] Page content processor finished
+[2025-06-16 10:50:10] Starting page content processor. Mode: WWW
+[2025-06-16 10:50:10] No task items need page content processing
+[2025-06-16 10:50:10] Page content processor finished
+[2025-06-16 10:54:34] Starting page content processor. Mode: CLI
+[2025-06-16 10:54:34] Found 1 task items to process
+[2025-06-16 10:54:34] Processing page content for task item ID: 3, URL: https://koruma.pl/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html
+[2025-06-16 10:54:34] Successfully fetched content for https://koruma.pl/pol_m_Saszetka-na-dokumenty-pod-ubranie-1616.html (722 characters)
+[2025-06-16 10:54:35] Page content processor finished
+[2025-06-16 11:06:57] Starting page content processor. Mode: CLI
+[2025-06-16 11:06:57] Found 1 task items to process
+[2025-06-16 11:06:57] Processing page content for task item ID: 4, URL: https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html
+[2025-06-16 11:07:00] Successfully fetched content for https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html (1678 characters)
+[2025-06-16 11:07:01] Page content processor finished
+[2025-06-16 12:07:14] Starting page content processor. Mode: CLI
+[2025-06-16 12:07:14] Found 1 task items to process
+[2025-06-16 12:07:14] Processing page content for task item ID: 5, URL: https://koruma.pl/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html
+[2025-06-16 12:07:17] Successfully fetched content for https://koruma.pl/pol_m_Portfele-RFID_Portfel-na-dowod-rejestracyjny_Damski-portfel-na-dowod-rejestracyjny-1172.html (3003 characters)
+[2025-06-16 12:07:18] Page content processor finished
+[2025-06-16 12:36:12] Starting page content processor. Mode: CLI
+[2025-06-16 12:36:12] Found 1 task items to process
+[2025-06-16 12:36:12] Processing page content for task item ID: 6, URL: https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html
+[2025-06-16 12:36:14] Successfully fetched content for https://koruma.pl/pol_m_Saszetka-nerka-antykradziezowa-RFID-pod-ubranie-1635.html (1678 characters)
+[2025-06-16 12:36:15] Page content processor finished
+[2025-06-16 13:16:47] Starting page content processor. Mode: CLI
+[2025-06-16 13:16:47] Found 4 task items to process
+[2025-06-16 13:16:47] Processing page content for task item ID: 7, URL: https://fun4sport.pl/pol_m_Torby-sportowe_TORBY-SPORTOWE-EVERLAST-544.html
+[2025-06-16 13:16:48] Successfully fetched content for https://fun4sport.pl/pol_m_Torby-sportowe_TORBY-SPORTOWE-EVERLAST-544.html (1108 characters)
+[2025-06-16 13:16:49] Processing page content for task item ID: 8, URL: https://fun4sport.pl/pol_m_Obuwie_Klapki-sportowe-541.html
+[2025-06-16 13:16:49] Successfully fetched content for https://fun4sport.pl/pol_m_Obuwie_Klapki-sportowe-541.html (1140 characters)
+[2025-06-16 13:16:50] Processing page content for task item ID: 9, URL: https://fun4sport.pl/pol_m_Dodatki_TOREBKI-I-SASZETKI-SPORTOWE-_Torebki-i-saszetki-sportowe-NEW-ERA-511.html
+[2025-06-16 13:16:51] Successfully fetched content for https://fun4sport.pl/pol_m_Dodatki_TOREBKI-I-SASZETKI-SPORTOWE-_Torebki-i-saszetki-sportowe-NEW-ERA-511.html (3003 characters)
+[2025-06-16 13:16:52] Processing page content for task item ID: 10, URL: https://fun4sport.pl/pol_m_Skarpety-sportowe_SKARPETY-4F-519.html
+[2025-06-16 13:16:53] Successfully fetched content for https://fun4sport.pl/pol_m_Skarpety-sportowe_SKARPETY-4F-519.html (1671 characters)
+[2025-06-16 13:16:54] Page content processor finished
+[2025-06-16 21:00:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:00:02] No task items need page content processing
+[2025-06-16 21:00:02] Page content processor finished
+[2025-06-16 21:02:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:02:01] Found 4 task items to process
+[2025-06-16 21:02:01] Processing page content for task item ID: 11, URL: https://maicon.pl/plecaki-164
+[2025-06-16 21:02:02] Successfully fetched content for https://maicon.pl/plecaki-164 (418 characters)
+[2025-06-16 21:02:03] Processing page content for task item ID: 12, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-16 21:02:04] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-16 21:02:05] Processing page content for task item ID: 13, URL: https://maicon.pl/chusty-106
+[2025-06-16 21:02:05] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-16 21:02:06] Processing page content for task item ID: 14, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-16 21:02:07] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (336 characters)
+[2025-06-16 21:02:08] Page content processor finished
+[2025-06-16 21:04:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:04:01] No task items need page content processing
+[2025-06-16 21:04:01] Page content processor finished
+[2025-06-16 21:06:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:06:01] No task items need page content processing
+[2025-06-16 21:06:01] Page content processor finished
+[2025-06-16 21:08:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:08:01] No task items need page content processing
+[2025-06-16 21:08:01] Page content processor finished
+[2025-06-16 21:10:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:10:01] No task items need page content processing
+[2025-06-16 21:10:01] Page content processor finished
+[2025-06-16 21:12:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:12:01] No task items need page content processing
+[2025-06-16 21:12:01] Page content processor finished
+[2025-06-16 21:14:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:14:01] No task items need page content processing
+[2025-06-16 21:14:01] Page content processor finished
+[2025-06-16 21:16:02] Starting page content processor. Mode: CLI
+[2025-06-16 21:16:02] No task items need page content processing
+[2025-06-16 21:16:02] Page content processor finished
+[2025-06-16 21:18:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:18:01] No task items need page content processing
+[2025-06-16 21:18:01] Page content processor finished
+[2025-06-16 21:20:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:20:01] No task items need page content processing
+[2025-06-16 21:20:01] Page content processor finished
+[2025-06-16 21:22:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:22:01] No task items need page content processing
+[2025-06-16 21:22:01] Page content processor finished
+[2025-06-16 21:24:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:24:01] No task items need page content processing
+[2025-06-16 21:24:01] Page content processor finished
+[2025-06-16 21:26:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:26:01] No task items need page content processing
+[2025-06-16 21:26:01] Page content processor finished
+[2025-06-16 21:28:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:28:01] No task items need page content processing
+[2025-06-16 21:28:01] Page content processor finished
+[2025-06-16 21:30:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:30:01] No task items need page content processing
+[2025-06-16 21:30:01] Page content processor finished
+[2025-06-16 21:32:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:32:01] Found 1 task items to process
+[2025-06-16 21:32:01] Processing page content for task item ID: 15, URL: https://maicon.pl
+[2025-06-16 21:32:03] Successfully fetched content for https://maicon.pl (142 characters)
+[2025-06-16 21:32:04] Page content processor finished
+[2025-06-16 21:34:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:34:01] No task items need page content processing
+[2025-06-16 21:34:01] Page content processor finished
+[2025-06-16 21:36:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:36:01] No task items need page content processing
+[2025-06-16 21:36:01] Page content processor finished
+[2025-06-16 21:38:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:38:01] No task items need page content processing
+[2025-06-16 21:38:01] Page content processor finished
+[2025-06-16 21:40:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:40:01] No task items need page content processing
+[2025-06-16 21:40:01] Page content processor finished
+[2025-06-16 21:42:01] Starting page content processor. Mode: CLI
+[2025-06-16 21:42:01] No task items need page content processing
+[2025-06-16 21:42:01] Page content processor finished

@@ -1,0 +1,851 @@
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:00:02] Starting queue processor. Mode: CLI
+[2025-06-16 21:00:02] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:00:02] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:02:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:02:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:02:01] Starting continuous processing loop.
+[2025-06-16 21:02:11] Attempting to process queue item ID: 20 (Task Item ID: 11)
+[2025-06-16 21:02:11] Processing task item ID: 11
+[2025-06-16 21:02:11] Using existing page content for task item 11
+[2025-06-16 21:02:11] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:11] Final generate prompt length: 8458
+[2025-06-16 21:02:11] Calling Gemini API with prompt length: 8458
+[2025-06-16 21:02:12] Attempting to process queue item ID: 21 (Task Item ID: 12)
+[2025-06-16 21:02:12] Processing task item ID: 12
+[2025-06-16 21:02:12] Using existing page content for task item 12
+[2025-06-16 21:02:12] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:12] Final generate prompt length: 8290
+[2025-06-16 21:02:12] Calling Gemini API with prompt length: 8290
+[2025-06-16 21:02:17] API Response HTTP Code: 200
+[2025-06-16 21:02:17] Generated text length: 2582
+[2025-06-16 21:02:17] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:02:17] Content generated successfully for ID 12, length: 2582
+[2025-06-16 21:02:17] Verifying content for ID 12...
+[2025-06-16 21:02:17] Calling Gemini API with prompt length: 5672
+[2025-06-16 21:02:17] API Response HTTP Code: 200
+[2025-06-16 21:02:17] Generated text length: 2915
+[2025-06-16 21:02:17] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:02:17] Content generated successfully for ID 11, length: 2915
+[2025-06-16 21:02:17] Verifying content for ID 11...
+[2025-06-16 21:02:17] Calling Gemini API with prompt length: 6005
+[2025-06-16 21:02:22] API Response HTTP Code: 200
+[2025-06-16 21:02:22] Generated text length: 2488
+[2025-06-16 21:02:22] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:02:22] Content verified successfully for ID 12, length: 2488
+[2025-06-16 21:02:22] Text was modified during verification for ID 12
+[2025-06-16 21:02:22] Content generated and saved for ID 12
+[2025-06-16 21:02:22] Generated text preview: <h2>Wygodne i stylowe <strong>markowe skarpety damskie</strong>: idealne na co dzień</h2>
+<p>Szerok...
+[2025-06-16 21:02:22] Verified text preview: <h2>Wygodne i stylowe <strong>markowe skarpety damskie</strong> - idealne na co dzień</h2>
+<p>Poszu...
+[2025-06-16 21:02:22] Queue item 21 successfully processed and marked as completed.
+[2025-06-16 21:02:22] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:22] Transaction for queue item 21 committed.
+[2025-06-16 21:02:22] API Response HTTP Code: 200
+[2025-06-16 21:02:22] Generated text length: 2375
+[2025-06-16 21:02:22] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:02:22] Content verified successfully for ID 11, length: 2375
+[2025-06-16 21:02:22] Text was modified during verification for ID 11
+[2025-06-16 21:02:22] Content generated and saved for ID 11
+[2025-06-16 21:02:22] Generated text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Szeroki wybór <strong>plecaków ...
+[2025-06-16 21:02:22] Verified text preview: ```html
+<h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Poszukujesz nowego plecak...
+[2025-06-16 21:02:22] Queue item 20 successfully processed and marked as completed.
+[2025-06-16 21:02:22] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:22] Transaction for queue item 20 committed.
+[2025-06-16 21:02:27] Attempting to process queue item ID: 22 (Task Item ID: 13)
+[2025-06-16 21:02:27] Processing task item ID: 13
+[2025-06-16 21:02:27] Using existing page content for task item 13
+[2025-06-16 21:02:27] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:27] Final generate prompt length: 8638
+[2025-06-16 21:02:27] Calling Gemini API with prompt length: 8638
+[2025-06-16 21:02:27] Attempting to process queue item ID: 23 (Task Item ID: 14)
+[2025-06-16 21:02:27] Processing task item ID: 14
+[2025-06-16 21:02:27] Using existing page content for task item 14
+[2025-06-16 21:02:27] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:02:27] Final generate prompt length: 8256
+[2025-06-16 21:02:27] Calling Gemini API with prompt length: 8256
+[2025-06-16 21:02:32] API Response HTTP Code: 200
+[2025-06-16 21:02:32] Generated text length: 2283
+[2025-06-16 21:02:32] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:02:32] Content generated successfully for ID 14, length: 2283
+[2025-06-16 21:02:32] Verifying content for ID 14...
+[2025-06-16 21:02:32] Calling Gemini API with prompt length: 5373
+[2025-06-16 21:02:32] API Response HTTP Code: 200
+[2025-06-16 21:02:32] Generated text length: 2529
+[2025-06-16 21:02:32] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:02:32] Content generated successfully for ID 13, length: 2529
+[2025-06-16 21:02:32] Verifying content for ID 13...
+[2025-06-16 21:02:32] Calling Gemini API with prompt length: 5619
+[2025-06-16 21:02:36] API Response HTTP Code: 200
+[2025-06-16 21:02:36] Generated text length: 2129
+[2025-06-16 21:02:36] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:02:36] Content verified successfully for ID 14, length: 2129
+[2025-06-16 21:02:36] Text was modified during verification for ID 14
+[2025-06-16 21:02:36] Content generated and saved for ID 14
+[2025-06-16 21:02:36] Generated text preview: <h2>Wygodne i stylowe: <strong>markowe tuniki damskie</strong> na każdą okazję</h2>
+<p>Tuniki to ...
+[2025-06-16 21:02:36] Verified text preview: ```html
+<h2>Wygodne i stylowe tuniki damskie - na każdą okazję</h2>
+<p>Tuniki to wszechstronne el...
+[2025-06-16 21:02:36] Queue item 23 successfully processed and marked as completed.
+[2025-06-16 21:02:36] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:36] Transaction for queue item 23 committed.
+[2025-06-16 21:02:36] API Response HTTP Code: 200
+[2025-06-16 21:02:36] Generated text length: 2160
+[2025-06-16 21:02:36] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:02:36] Content verified successfully for ID 13, length: 2160
+[2025-06-16 21:02:36] Text was modified during verification for ID 13
+[2025-06-16 21:02:36] Content generated and saved for ID 13
+[2025-06-16 21:02:36] Generated text preview: <h2>Dlaczego warto wybrać markowe chusty damskie?</h2>
+<p><strong>Markowe chusty damskie</strong> t...
+[2025-06-16 21:02:36] Verified text preview: ```html
+<h2>Dlaczego warto wybrać markowe chusty damskie -</h2>
+<p>Markowa chusta to więcej niż d...
+[2025-06-16 21:02:36] Queue item 22 successfully processed and marked as completed.
+[2025-06-16 21:02:36] Task ID: 7 status updated to: processing
+[2025-06-16 21:02:36] Transaction for queue item 22 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:04:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:04:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:04:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:06:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:06:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:06:01] Starting continuous processing loop.
+[2025-06-16 21:07:01] Attempting to process queue item ID: 24 (Task Item ID: 11)
+[2025-06-16 21:07:01] Processing task item ID: 11
+[2025-06-16 21:07:01] Using existing page content for task item 11
+[2025-06-16 21:07:01] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:01] Final generate prompt length: 8458
+[2025-06-16 21:07:01] Calling Gemini API with prompt length: 8458
+[2025-06-16 21:07:01] Attempting to process queue item ID: 25 (Task Item ID: 12)
+[2025-06-16 21:07:01] Processing task item ID: 12
+[2025-06-16 21:07:01] Using existing page content for task item 12
+[2025-06-16 21:07:01] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:01] Final generate prompt length: 8290
+[2025-06-16 21:07:01] Calling Gemini API with prompt length: 8290
+[2025-06-16 21:07:05] API Response HTTP Code: 200
+[2025-06-16 21:07:05] Generated text length: 2185
+[2025-06-16 21:07:05] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:07:05] Content generated successfully for ID 12, length: 2185
+[2025-06-16 21:07:05] Verifying content for ID 12...
+[2025-06-16 21:07:05] Calling Gemini API with prompt length: 5275
+[2025-06-16 21:07:06] API Response HTTP Code: 200
+[2025-06-16 21:07:06] Generated text length: 2415
+[2025-06-16 21:07:06] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:07:06] Content generated successfully for ID 11, length: 2415
+[2025-06-16 21:07:06] Verifying content for ID 11...
+[2025-06-16 21:07:06] Calling Gemini API with prompt length: 5505
+[2025-06-16 21:07:10] API Response HTTP Code: 200
+[2025-06-16 21:07:10] Generated text length: 2160
+[2025-06-16 21:07:10] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:07:10] Content verified successfully for ID 12, length: 2160
+[2025-06-16 21:07:10] Text was modified during verification for ID 12
+[2025-06-16 21:07:10] Content generated and saved for ID 12
+[2025-06-16 21:07:10] Generated text preview: <h2>Dlaczego warto wybrać <strong>markowe skarpety damskie</strong>?</h2>
+<p>Wygodne i stylowe <str...
+[2025-06-16 21:07:10] Verified text preview: <h2>Dlaczego warto wybrać <strong>markowe skarpety damskie</strong>?</h2><p>Dobrze dobrane skarpety...
+[2025-06-16 21:07:10] Queue item 25 successfully processed and marked as completed.
+[2025-06-16 21:07:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:10] Transaction for queue item 25 committed.
+[2025-06-16 21:07:10] API Response HTTP Code: 200
+[2025-06-16 21:07:10] Generated text length: 2298
+[2025-06-16 21:07:10] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:07:10] Content verified successfully for ID 11, length: 2298
+[2025-06-16 21:07:10] Text was modified during verification for ID 11
+[2025-06-16 21:07:10] Content generated and saved for ID 11
+[2025-06-16 21:07:10] Generated text preview: <h2>Wybierz idealny <strong >plecak męski</strong></h2>
+<p>W naszej ofercie znajdziesz szeroki wyb�...
+[2025-06-16 21:07:10] Verified text preview: ```html
+<h2>Wybierz idealny <strong>plecak męski</strong></h2>
+<p>W naszej ofercie znajdziesz bogat...
+[2025-06-16 21:07:10] Queue item 24 successfully processed and marked as completed.
+[2025-06-16 21:07:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:10] Transaction for queue item 24 committed.
+[2025-06-16 21:07:11] Attempting to process queue item ID: 26 (Task Item ID: 13)
+[2025-06-16 21:07:11] Processing task item ID: 13
+[2025-06-16 21:07:11] Using existing page content for task item 13
+[2025-06-16 21:07:11] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:11] Final generate prompt length: 8638
+[2025-06-16 21:07:11] Calling Gemini API with prompt length: 8638
+[2025-06-16 21:07:11] Attempting to process queue item ID: 27 (Task Item ID: 14)
+[2025-06-16 21:07:11] Processing task item ID: 14
+[2025-06-16 21:07:11] Using existing page content for task item 14
+[2025-06-16 21:07:11] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:07:11] Final generate prompt length: 8256
+[2025-06-16 21:07:11] Calling Gemini API with prompt length: 8256
+[2025-06-16 21:07:16] API Response HTTP Code: 200
+[2025-06-16 21:07:16] Generated text length: 2177
+[2025-06-16 21:07:16] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:07:16] Content generated successfully for ID 13, length: 2177
+[2025-06-16 21:07:16] Verifying content for ID 13...
+[2025-06-16 21:07:16] Calling Gemini API with prompt length: 5267
+[2025-06-16 21:07:16] API Response HTTP Code: 200
+[2025-06-16 21:07:16] Generated text length: 2197
+[2025-06-16 21:07:16] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:07:16] Content generated successfully for ID 14, length: 2197
+[2025-06-16 21:07:16] Verifying content for ID 14...
+[2025-06-16 21:07:16] Calling Gemini API with prompt length: 5287
+[2025-06-16 21:07:20] API Response HTTP Code: 200
+[2025-06-16 21:07:20] Generated text length: 1959
+[2025-06-16 21:07:20] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:07:20] Content verified successfully for ID 13, length: 1959
+[2025-06-16 21:07:20] Text was modified during verification for ID 13
+[2025-06-16 21:07:20] Content generated and saved for ID 13
+[2025-06-16 21:07:20] Generated text preview: <h2>Dlaczego warto wybrać markowe chusty damskie?</h2>
+<p><strong>Markowe chusty damskie</strong> t...
+[2025-06-16 21:07:20] Verified text preview: ```html
+<h2>Dlaczego warto wybrać markowe chusty damskie -</h2>
+<p>Markowa chusta to więcej niż t...
+[2025-06-16 21:07:20] Queue item 26 successfully processed and marked as completed.
+[2025-06-16 21:07:20] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:20] Transaction for queue item 26 committed.
+[2025-06-16 21:07:20] API Response HTTP Code: 200
+[2025-06-16 21:07:20] Generated text length: 1926
+[2025-06-16 21:07:20] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:07:20] Content verified successfully for ID 14, length: 1926
+[2025-06-16 21:07:20] Text was modified during verification for ID 14
+[2025-06-16 21:07:20] Content generated and saved for ID 14
+[2025-06-16 21:07:20] Generated text preview: <h2>Znajdź idealną tunikę z krótkim rękawem</h2>
+<p>Szeroki wybór <strong>markowych tunik dams...
+[2025-06-16 21:07:20] Verified text preview: ```html
+<h2>Znajdź idealną tunikę z krótkim rękawem</h2>
+<p>W naszej ofercie znajdziesz szeroki...
+[2025-06-16 21:07:20] Queue item 27 successfully processed and marked as completed.
+[2025-06-16 21:07:20] Task ID: 7 status updated to: processing
+[2025-06-16 21:07:20] Transaction for queue item 27 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:08:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:08:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:08:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:10:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:10:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:10:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:12:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:12:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:12:01] Starting continuous processing loop.
+[2025-06-16 21:12:35] Attempting to process queue item ID: 28 (Task Item ID: 11)
+[2025-06-16 21:12:35] Processing task item ID: 11
+[2025-06-16 21:12:35] Using existing page content for task item 11
+[2025-06-16 21:12:35] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:35] Final generate prompt length: 9702
+[2025-06-16 21:12:35] Calling Gemini API with prompt length: 9702
+[2025-06-16 21:12:35] Attempting to process queue item ID: 29 (Task Item ID: 12)
+[2025-06-16 21:12:35] Processing task item ID: 12
+[2025-06-16 21:12:35] Using existing page content for task item 12
+[2025-06-16 21:12:35] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:35] Final generate prompt length: 9534
+[2025-06-16 21:12:35] Calling Gemini API with prompt length: 9534
+[2025-06-16 21:12:41] Attempting to process queue item ID: 30 (Task Item ID: 13)
+[2025-06-16 21:12:41] Processing task item ID: 13
+[2025-06-16 21:12:41] Using existing page content for task item 13
+[2025-06-16 21:12:41] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:41] Final generate prompt length: 9882
+[2025-06-16 21:12:41] Calling Gemini API with prompt length: 9882
+[2025-06-16 21:12:41] Attempting to process queue item ID: 31 (Task Item ID: 14)
+[2025-06-16 21:12:41] Processing task item ID: 14
+[2025-06-16 21:12:41] Using existing page content for task item 14
+[2025-06-16 21:12:41] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:12:41] Final generate prompt length: 9500
+[2025-06-16 21:12:41] Calling Gemini API with prompt length: 9500
+[2025-06-16 21:12:42] API Response HTTP Code: 200
+[2025-06-16 21:12:42] Generated text length: 4048
+[2025-06-16 21:12:42] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:12:42] Content generated successfully for ID 11, length: 4048
+[2025-06-16 21:12:42] Verifying content for ID 11...
+[2025-06-16 21:12:42] Calling Gemini API with prompt length: 7162
+[2025-06-16 21:12:44] API Response HTTP Code: 200
+[2025-06-16 21:12:44] Generated text length: 4475
+[2025-06-16 21:12:44] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:12:44] Content generated successfully for ID 12, length: 4475
+[2025-06-16 21:12:44] Verifying content for ID 12...
+[2025-06-16 21:12:44] Calling Gemini API with prompt length: 7589
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3631
+[2025-06-16 21:12:49] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:12:49] Content generated successfully for ID 13, length: 3631
+[2025-06-16 21:12:49] Verifying content for ID 13...
+[2025-06-16 21:12:49] Calling Gemini API with prompt length: 6745
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3855
+[2025-06-16 21:12:49] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:12:49] Content generated successfully for ID 14, length: 3855
+[2025-06-16 21:12:49] Verifying content for ID 14...
+[2025-06-16 21:12:49] Calling Gemini API with prompt length: 6969
+[2025-06-16 21:12:49] API Response HTTP Code: 200
+[2025-06-16 21:12:49] Generated text length: 3538
+[2025-06-16 21:12:49] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:12:49] Content verified successfully for ID 11, length: 3538
+[2025-06-16 21:12:49] Text was modified during verification for ID 11
+[2025-06-16 21:12:49] Content generated and saved for ID 11
+[2025-06-16 21:12:49] Generated text preview: <h2>Wybierz idealny plecak – komfort i styl na co dzień</h2>
+<p>Szeroki wybór <strong>markowych ...
+[2025-06-16 21:12:49] Verified text preview: ```html
+<h2>Wybierz idealny plecak - komfort i styl na co dzień</h2>
+<p>Szeroki wybór <strong>mark...
+[2025-06-16 21:12:49] Queue item 28 successfully processed and marked as completed.
+[2025-06-16 21:12:49] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:49] Transaction for queue item 28 committed.
+[2025-06-16 21:12:51] API Response HTTP Code: 200
+[2025-06-16 21:12:51] Generated text length: 4001
+[2025-06-16 21:12:51] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:12:51] Content verified successfully for ID 12, length: 4001
+[2025-06-16 21:12:51] Text was modified during verification for ID 12
+[2025-06-16 21:12:51] Content generated and saved for ID 12
+[2025-06-16 21:12:51] Generated text preview: <h2>Wygodne i Stylowe: Odkryj Świat Damskich Skarpet</h2>
+<p>Szeroki wybór <strong>markowych skarp...
+[2025-06-16 21:12:51] Verified text preview: ```html
+<h2>Wygodne i Stylowe - Odkryj Świat Damskich Skarpet</h2>
+<p>Szeroki wybór <strong>markow...
+[2025-06-16 21:12:51] Queue item 29 successfully processed and marked as completed.
+[2025-06-16 21:12:51] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:51] Transaction for queue item 29 committed.
+[2025-06-16 21:12:55] API Response HTTP Code: 200
+[2025-06-16 21:12:55] Generated text length: 3237
+[2025-06-16 21:12:55] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:12:55] Content verified successfully for ID 13, length: 3237
+[2025-06-16 21:12:55] Text was modified during verification for ID 13
+[2025-06-16 21:12:55] Content generated and saved for ID 13
+[2025-06-16 21:12:55] Generated text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong>: Odkryj swój styl</h2>
+<p>W naszej kolekcji ...
+[2025-06-16 21:12:55] Verified text preview: ```html
+<h2>Wyjątkowe <strong>markowe chusty damskie</strong> - Odkryj swój styl</h2>
+<p>Nasza kol...
+[2025-06-16 21:12:55] Queue item 30 successfully processed and marked as completed.
+[2025-06-16 21:12:55] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:55] Transaction for queue item 30 committed.
+[2025-06-16 21:12:56] API Response HTTP Code: 200
+[2025-06-16 21:12:56] Generated text length: 3356
+[2025-06-16 21:12:56] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:12:56] Content verified successfully for ID 14, length: 3356
+[2025-06-16 21:12:56] Text was modified during verification for ID 14
+[2025-06-16 21:12:56] Content generated and saved for ID 14
+[2025-06-16 21:12:56] Generated text preview: <h2>Tuniki z krótkim rękawem – idealne na lato</h2>
+<p><strong>Markowe tuniki damskie</strong> t...
+[2025-06-16 21:12:56] Verified text preview: ```html
+<h2>Tuniki z krótkim rękawem - idealne na lato</h2>
+<p>Markowe tuniki damskie to doskonał...
+[2025-06-16 21:12:56] Queue item 31 successfully processed and marked as completed.
+[2025-06-16 21:12:56] Task ID: 7 status updated to: processing
+[2025-06-16 21:12:56] Transaction for queue item 31 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:14:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:14:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:14:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:16:02] Starting queue processor. Mode: CLI
+[2025-06-16 21:16:02] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:16:02] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:18:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:18:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:18:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:20:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:20:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:20:01] Starting continuous processing loop.
+[2025-06-16 21:20:51] Attempting to process queue item ID: 32 (Task Item ID: 11)
+[2025-06-16 21:20:51] Processing task item ID: 11
+[2025-06-16 21:20:51] Using existing page content for task item 11
+[2025-06-16 21:20:51] Input data for ID 11: {"url":"https:\/\/maicon.pl\/plecaki-164","keywords":"Markowe plecaki m\u0119skie, plecaki m\u0119skie Tommy Hilfiger ","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:51] Final generate prompt length: 9702
+[2025-06-16 21:20:51] Calling Gemini API with prompt length: 9702
+[2025-06-16 21:20:54] Attempting to process queue item ID: 33 (Task Item ID: 12)
+[2025-06-16 21:20:54] Processing task item ID: 12
+[2025-06-16 21:20:54] Using existing page content for task item 12
+[2025-06-16 21:20:54] Input data for ID 12: {"url":"https:\/\/maicon.pl\/skarpety-damskie-70","keywords":"markowe Skarpety damskie, markowe rajstopy damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:54] Final generate prompt length: 9534
+[2025-06-16 21:20:54] Calling Gemini API with prompt length: 9534
+[2025-06-16 21:20:56] Attempting to process queue item ID: 34 (Task Item ID: 13)
+[2025-06-16 21:20:56] Processing task item ID: 13
+[2025-06-16 21:20:56] Using existing page content for task item 13
+[2025-06-16 21:20:56] Input data for ID 13: {"url":"https:\/\/maicon.pl\/chusty-106","keywords":"markowe chusty damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:20:56] Final generate prompt length: 9882
+[2025-06-16 21:20:56] Calling Gemini API with prompt length: 9882
+[2025-06-16 21:20:58] API Response HTTP Code: 200
+[2025-06-16 21:20:58] Generated text length: 3995
+[2025-06-16 21:20:58] Prompt log saved for task item 11, type: generate
+[2025-06-16 21:20:58] Content generated successfully for ID 11, length: 3995
+[2025-06-16 21:20:58] Verifying content for ID 11...
+[2025-06-16 21:20:58] Calling Gemini API with prompt length: 7340
+[2025-06-16 21:21:00] Attempting to process queue item ID: 35 (Task Item ID: 14)
+[2025-06-16 21:21:00] Processing task item ID: 14
+[2025-06-16 21:21:00] Using existing page content for task item 14
+[2025-06-16 21:21:00] Input data for ID 14: {"url":"https:\/\/maicon.pl\/tuniki-z-krotkim-rekawem-47","keywords":"markowe tuniki damskie","headings":"","characters":"3000","lead":"NIE","internal_linking":""}
+[2025-06-16 21:21:00] Final generate prompt length: 9500
+[2025-06-16 21:21:00] Calling Gemini API with prompt length: 9500
+[2025-06-16 21:21:02] API Response HTTP Code: 200
+[2025-06-16 21:21:02] Generated text length: 4133
+[2025-06-16 21:21:02] Prompt log saved for task item 12, type: generate
+[2025-06-16 21:21:02] Content generated successfully for ID 12, length: 4133
+[2025-06-16 21:21:02] Verifying content for ID 12...
+[2025-06-16 21:21:02] Calling Gemini API with prompt length: 7478
+[2025-06-16 21:21:03] API Response HTTP Code: 200
+[2025-06-16 21:21:03] Generated text length: 3756
+[2025-06-16 21:21:03] Prompt log saved for task item 13, type: generate
+[2025-06-16 21:21:03] Content generated successfully for ID 13, length: 3756
+[2025-06-16 21:21:03] Verifying content for ID 13...
+[2025-06-16 21:21:03] Calling Gemini API with prompt length: 7101
+[2025-06-16 21:21:05] API Response HTTP Code: 200
+[2025-06-16 21:21:05] Generated text length: 3542
+[2025-06-16 21:21:05] Prompt log saved for task item 11, type: verify
+[2025-06-16 21:21:05] Content verified successfully for ID 11, length: 3542
+[2025-06-16 21:21:05] Text was modified during verification for ID 11
+[2025-06-16 21:21:05] Content generated and saved for ID 11
+[2025-06-16 21:21:05] Generated text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Szeroki wybór <strong>plecaków ...
+[2025-06-16 21:21:05] Verified text preview: <h2>Wybierz idealny <strong>markowy plecak męski</strong></h2>
+<p>Potrzebujesz nowego plecaka?  W n...
+[2025-06-16 21:21:05] Queue item 32 successfully processed and marked as completed.
+[2025-06-16 21:21:05] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:05] Transaction for queue item 32 committed.
+[2025-06-16 21:21:08] API Response HTTP Code: 200
+[2025-06-16 21:21:08] Generated text length: 4439
+[2025-06-16 21:21:08] Prompt log saved for task item 14, type: generate
+[2025-06-16 21:21:08] Content generated successfully for ID 14, length: 4439
+[2025-06-16 21:21:08] Verifying content for ID 14...
+[2025-06-16 21:21:08] Calling Gemini API with prompt length: 7784
+[2025-06-16 21:21:09] API Response HTTP Code: 200
+[2025-06-16 21:21:09] Generated text length: 3756
+[2025-06-16 21:21:09] Prompt log saved for task item 12, type: verify
+[2025-06-16 21:21:09] Content verified successfully for ID 12, length: 3756
+[2025-06-16 21:21:09] Text was modified during verification for ID 12
+[2025-06-16 21:21:09] Content generated and saved for ID 12
+[2025-06-16 21:21:09] Generated text preview: <h2>Wygodne i Stylowe Skarpety Damskie: Komfort na Każdy Dzień</h2>
+<p>Szeroki wybór <strong>mark...
+[2025-06-16 21:21:09] Verified text preview: <h2>Wygodne i Stylowe Skarpety Damskie - Komfort na Każdy Dzień</h2>
+<p>Szeroki wybór <strong>mar...
+[2025-06-16 21:21:09] Queue item 33 successfully processed and marked as completed.
+[2025-06-16 21:21:09] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:09] Transaction for queue item 33 committed.
+[2025-06-16 21:21:10] API Response HTTP Code: 200
+[2025-06-16 21:21:10] Generated text length: 3164
+[2025-06-16 21:21:10] Prompt log saved for task item 13, type: verify
+[2025-06-16 21:21:10] Content verified successfully for ID 13, length: 3164
+[2025-06-16 21:21:10] Text was modified during verification for ID 13
+[2025-06-16 21:21:10] Content generated and saved for ID 13
+[2025-06-16 21:21:10] Generated text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong> – dodaj charakteru swojej stylizacji</h2>
+<...
+[2025-06-16 21:21:10] Verified text preview: <h2>Wyjątkowe <strong>markowe chusty damskie</strong> - dodaj charakteru swojej stylizacji</h2>
+<p>...
+[2025-06-16 21:21:10] Queue item 34 successfully processed and marked as completed.
+[2025-06-16 21:21:10] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:10] Transaction for queue item 34 committed.
+[2025-06-16 21:21:15] API Response HTTP Code: 200
+[2025-06-16 21:21:15] Generated text length: 3727
+[2025-06-16 21:21:15] Prompt log saved for task item 14, type: verify
+[2025-06-16 21:21:15] Content verified successfully for ID 14, length: 3727
+[2025-06-16 21:21:15] Text was modified during verification for ID 14
+[2025-06-16 21:21:15] Content generated and saved for ID 14
+[2025-06-16 21:21:15] Generated text preview: <h2>Tuniki z krótkim rękawem – idealne na lato</h2>
+<p>Szeroki wybór <strong>markowych tunik da...
+[2025-06-16 21:21:15] Verified text preview: <h2>Tuniki z krótkim rękawem - idealne na lato</h2>
+<p>Szeroki wybór <strong>markowych tunik dams...
+[2025-06-16 21:21:15] Queue item 35 successfully processed and marked as completed.
+[2025-06-16 21:21:15] Task ID: 7 status updated to: processing
+[2025-06-16 21:21:15] Transaction for queue item 35 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:22:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:22:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:22:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:24:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:24:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:24:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:26:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:26:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:26:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:28:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:28:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:28:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:30:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:30:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:30:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:32:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:32:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:32:01] Starting continuous processing loop.
+[2025-06-16 21:32:40] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:40] Processing task item ID: 15
+[2025-06-16 21:32:40] Using existing page content for task item 15
+[2025-06-16 21:32:40] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:40] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:40] Queue item 36 marked as 'pending' with 1 attempts.
+[2025-06-16 21:32:40] Task ID: 8 status updated to: processing
+[2025-06-16 21:32:40] Transaction for queue item 36 committed.
+[2025-06-16 21:32:40] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:40] Processing task item ID: 15
+[2025-06-16 21:32:40] Using existing page content for task item 15
+[2025-06-16 21:32:40] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:40] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:40] Queue item 36 marked as 'pending' with 2 attempts.
+[2025-06-16 21:32:40] Task ID: 8 status updated to: processing
+[2025-06-16 21:32:40] Transaction for queue item 36 committed.
+[2025-06-16 21:32:41] Attempting to process queue item ID: 36 (Task Item ID: 15)
+[2025-06-16 21:32:41] Processing task item ID: 15
+[2025-06-16 21:32:41] Using existing page content for task item 15
+[2025-06-16 21:32:41] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:32:41] ERROR processing queue item 36 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:32:41] Queue item 36 marked as 'failed' with 3 attempts.
+[2025-06-16 21:32:41] Task ID: 8 status updated to: failed
+[2025-06-16 21:32:41] Transaction for queue item 36 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:34:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:34:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:34:01] Starting continuous processing loop.
+[2025-06-16 21:35:24] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:24] Processing task item ID: 15
+[2025-06-16 21:35:24] Using existing page content for task item 15
+[2025-06-16 21:35:24] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:24] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:24] Queue item 37 marked as 'pending' with 1 attempts.
+[2025-06-16 21:35:24] Task ID: 8 status updated to: processing
+[2025-06-16 21:35:24] Transaction for queue item 37 committed.
+[2025-06-16 21:35:25] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:25] Processing task item ID: 15
+[2025-06-16 21:35:25] Using existing page content for task item 15
+[2025-06-16 21:35:25] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:25] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:25] Queue item 37 marked as 'pending' with 2 attempts.
+[2025-06-16 21:35:25] Task ID: 8 status updated to: processing
+[2025-06-16 21:35:25] Transaction for queue item 37 committed.
+[2025-06-16 21:35:25] Attempting to process queue item ID: 37 (Task Item ID: 15)
+[2025-06-16 21:35:25] Processing task item ID: 15
+[2025-06-16 21:35:25] Using existing page content for task item 15
+[2025-06-16 21:35:25] Input data for ID 15: {"url":"https:\/\/maicon.pl","Title":"Jakie buty zabra\u0107 ze sob\u0105 na wakacje do Chorwacji?","Keywords":"Buty, buty damskie, wakacje w Chorwacji, Sneakersy, trampki, botki, szpilki","headings":"","characters":"8000","internal_linking":""}
+[2025-06-16 21:35:25] ERROR processing queue item 37 (Task Item ID: 15): Missing replacement for placeholder: 'keywords' in prompt template. Available keys: url, Title, Keywords, headings, characters, internal_linking, strictness_level, page_content
+[2025-06-16 21:35:25] Queue item 37 marked as 'failed' with 3 attempts.
+[2025-06-16 21:35:25] Task ID: 8 status updated to: failed
+[2025-06-16 21:35:25] Transaction for queue item 37 committed.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:36:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:36:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:36:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:38:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:38:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:38:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:40:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:40:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:40:01] Starting continuous processing loop.
+PHP Warning:  Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+
+Warning: Undefined variable $generated_text in /home/goupcomp/domains/goup.com.pl/private_html/content/process_queue.php on line 206
+[2025-06-16 21:42:01] Starting queue processor. Mode: CLI
+[2025-06-16 21:42:01] API key configured. Processing delay set to: 1 minutes.
+[2025-06-16 21:42:01] Starting continuous processing loop.
+[2025-06-23 10:40:00] Starting CLI queue processor
+[2025-06-23 10:40:00] No items in queue to process
+[2025-06-23 10:50:00] Starting CLI queue processor
+[2025-06-23 10:50:00] No items in queue to process
+[2025-06-23 11:00:00] Starting CLI queue processor
+[2025-06-23 11:00:00] No items in queue to process
+[2025-06-23 11:10:00] Starting CLI queue processor
+[2025-06-23 11:10:00] No items in queue to process
+[2025-06-23 11:20:00] Starting CLI queue processor
+[2025-06-23 11:20:00] No items in queue to process
+[2025-06-23 11:30:00] Starting CLI queue processor
+[2025-06-23 11:30:00] No items in queue to process
+[2025-06-23 11:40:00] Starting CLI queue processor
+[2025-06-23 11:40:00] Found items in queue, calling main processor
+[2025-06-23 11:40:00] PROCESSOR: sh: /usr/bin/php: not found
+[2025-06-23 11:40:00] Queue processor failed with return code: 127
+[2025-06-23 11:50:00] Starting CLI queue processor
+[2025-06-23 11:50:00] No items in queue to process
+[2025-06-23 12:00:00] Starting CLI queue processor
+[2025-06-23 12:00:00] No items in queue to process
+[2025-06-23 12:10:00] Starting CLI queue processor
+[2025-06-23 12:10:00] No items in queue to process
+[2025-06-23 12:20:00] Starting CLI queue processor
+[2025-06-23 12:20:00] No items in queue to process
+[2025-06-23 12:30:00] Starting CLI queue processor
+[2025-06-23 12:30:00] No items in queue to process
+[2025-06-23 12:40:00] Starting CLI queue processor
+[2025-06-23 12:40:00] No items in queue to process
+[2025-06-23 12:50:00] Starting CLI queue processor
+[2025-06-23 12:50:00] No items in queue to process
+[2025-06-23 13:00:00] Starting CLI queue processor
+[2025-06-23 13:00:00] No items in queue to process
+[2025-06-23 13:10:00] Starting CLI queue processor
+[2025-06-23 13:10:00] No items in queue to process
+[2025-06-23 13:20:00] Starting CLI queue processor
+[2025-06-23 13:20:00] No items in queue to process
+[2025-06-23 13:30:00] Starting CLI queue processor
+[2025-06-23 13:30:00] No items in queue to process
+[2025-06-23 13:40:00] Starting CLI queue processor
+[2025-06-23 13:40:00] No items in queue to process
+[2025-06-23 13:50:00] Starting CLI queue processor
+[2025-06-23 13:50:00] No items in queue to process
+[2025-06-23 14:00:00] Starting CLI queue processor
+[2025-06-23 14:00:00] No items in queue to process
+[2025-06-23 14:10:00] Starting CLI queue processor
+[2025-06-23 14:10:00] No items in queue to process
+[2025-06-23 14:20:00] Starting CLI queue processor
+[2025-06-23 14:20:00] No items in queue to process
+[2025-06-23 14:30:00] Starting CLI queue processor
+[2025-06-23 14:30:00] No items in queue to process
+[2025-06-23 14:40:00] Starting CLI queue processor
+[2025-06-23 14:40:00] No items in queue to process
+[2025-06-23 14:50:00] Starting CLI queue processor
+[2025-06-23 14:50:00] No items in queue to process
+[2025-06-23 15:00:00] Starting CLI queue processor
+[2025-06-23 15:00:00] No items in queue to process
+[2025-06-23 15:10:00] Starting CLI queue processor
+[2025-06-23 15:10:00] No items in queue to process
+[2025-06-23 15:20:00] Starting CLI queue processor
+[2025-06-23 15:20:00] No items in queue to process
+[2025-06-23 15:30:00] Starting CLI queue processor
+[2025-06-23 15:30:00] No items in queue to process
+[2025-06-23 15:40:00] Starting CLI queue processor
+[2025-06-23 15:40:00] No items in queue to process
+[2025-06-23 15:50:00] Starting CLI queue processor
+[2025-06-23 15:50:00] No items in queue to process
+[2025-06-23 16:00:00] Starting CLI queue processor
+[2025-06-23 16:00:00] No items in queue to process
+[2025-06-23 16:10:00] Starting CLI queue processor
+[2025-06-23 16:10:00] No items in queue to process
+[2025-06-23 16:20:00] Starting CLI queue processor
+[2025-06-23 16:20:00] No items in queue to process
+[2025-06-23 16:30:00] Starting CLI queue processor
+[2025-06-23 16:30:00] No items in queue to process
+[2025-06-23 16:40:00] Starting CLI queue processor
+[2025-06-23 16:40:00] No items in queue to process
+[2025-06-23 16:50:00] Starting CLI queue processor
+[2025-06-23 16:50:00] No items in queue to process
+[2025-06-23 17:00:00] Starting CLI queue processor
+[2025-06-23 17:00:00] No items in queue to process
+[2025-06-23 17:10:00] Starting CLI queue processor
+[2025-06-23 17:10:00] No items in queue to process
+[2025-06-23 17:20:00] Starting CLI queue processor
+[2025-06-23 17:20:00] No items in queue to process
+[2025-06-23 17:30:00] Starting CLI queue processor
+[2025-06-23 17:30:00] No items in queue to process
+[2025-06-23 17:40:00] Starting CLI queue processor
+[2025-06-23 17:40:00] No items in queue to process
+[2025-06-23 17:50:00] Starting CLI queue processor
+[2025-06-23 17:50:00] No items in queue to process
+[2025-06-23 18:00:00] Starting CLI queue processor
+[2025-06-23 18:00:00] No items in queue to process
+[2025-06-23 18:10:00] Starting CLI queue processor
+[2025-06-23 18:10:00] No items in queue to process
+[2025-06-23 18:20:00] Starting CLI queue processor
+[2025-06-23 18:20:00] No items in queue to process
+[2025-06-23 18:30:00] Starting CLI queue processor
+[2025-06-23 18:30:00] No items in queue to process
+[2025-06-23 18:40:00] Starting CLI queue processor
+[2025-06-23 18:40:00] No items in queue to process
+[2025-06-23 18:50:00] Starting CLI queue processor
+[2025-06-23 18:50:00] No items in queue to process
+[2025-06-23 19:00:00] Starting CLI queue processor
+[2025-06-23 19:00:00] No items in queue to process
+[2025-06-23 19:10:00] Starting CLI queue processor
+[2025-06-23 19:10:00] No items in queue to process
+[2025-06-23 19:20:00] Starting CLI queue processor
+[2025-06-23 19:20:00] No items in queue to process
+[2025-06-23 19:30:00] Starting CLI queue processor
+[2025-06-23 19:30:00] No items in queue to process
+[2025-06-23 19:40:00] Starting CLI queue processor
+[2025-06-23 19:40:00] No items in queue to process
+[2025-06-23 19:50:00] Starting CLI queue processor
+[2025-06-23 19:50:00] No items in queue to process
+[2025-06-23 20:00:00] Starting CLI queue processor
+[2025-06-23 20:00:00] No items in queue to process
+[2025-06-23 20:10:00] Starting CLI queue processor
+[2025-06-23 20:10:00] No items in queue to process
+[2025-06-23 20:20:00] Starting CLI queue processor
+[2025-06-23 20:20:00] No items in queue to process
+[2025-06-23 20:30:00] Starting CLI queue processor
+[2025-06-23 20:30:00] No items in queue to process
+[2025-06-23 20:40:00] Starting CLI queue processor
+[2025-06-23 20:40:00] No items in queue to process
+[2025-06-23 20:50:00] Starting CLI queue processor
+[2025-06-23 20:50:00] No items in queue to process
+[2025-06-23 21:00:00] Starting CLI queue processor
+[2025-06-23 21:00:00] No items in queue to process
+[2025-06-23 21:10:00] Starting CLI queue processor
+[2025-06-23 21:10:00] No items in queue to process
+[2025-06-23 21:20:00] Starting CLI queue processor
+[2025-06-23 21:20:00] No items in queue to process
+[2025-06-23 21:30:00] Starting CLI queue processor
+[2025-06-23 21:30:00] No items in queue to process
+[2025-06-23 21:40:00] Starting CLI queue processor
+[2025-06-23 21:40:00] No items in queue to process
+[2025-06-23 21:50:00] Starting CLI queue processor
+[2025-06-23 21:50:00] No items in queue to process
+[2025-06-23 22:00:00] Starting CLI queue processor
+[2025-06-23 22:00:00] No items in queue to process
+[2025-06-23 22:10:00] Starting CLI queue processor
+[2025-06-23 22:10:00] No items in queue to process
+[2025-06-23 22:20:00] Starting CLI queue processor
+[2025-06-23 22:20:00] No items in queue to process
+[2025-06-23 22:30:00] Starting CLI queue processor
+[2025-06-23 22:30:00] No items in queue to process
+[2025-06-23 22:40:00] Starting CLI queue processor
+[2025-06-23 22:40:00] No items in queue to process
+[2025-06-23 22:50:00] Starting CLI queue processor
+[2025-06-23 22:50:00] No items in queue to process
+[2025-06-23 23:00:00] Starting CLI queue processor
+[2025-06-23 23:00:00] No items in queue to process
+[2025-06-23 23:10:00] Starting CLI queue processor
+[2025-06-23 23:10:00] No items in queue to process
+[2025-06-23 23:20:00] Starting CLI queue processor
+[2025-06-23 23:20:00] No items in queue to process
+[2025-06-23 23:30:00] Starting CLI queue processor
+[2025-06-23 23:30:00] No items in queue to process
+[2025-06-23 23:40:00] Starting CLI queue processor
+[2025-06-23 23:40:00] No items in queue to process
+[2025-06-23 23:50:00] Starting CLI queue processor
+[2025-06-23 23:50:00] No items in queue to process
+[2025-06-24 00:00:00] Starting CLI queue processor
+[2025-06-24 00:00:00] No items in queue to process
+[2025-06-24 00:10:00] Starting CLI queue processor
+[2025-06-24 00:10:00] No items in queue to process
+[2025-06-24 00:20:00] Starting CLI queue processor
+[2025-06-24 00:20:00] No items in queue to process
+[2025-06-24 00:30:00] Starting CLI queue processor
+[2025-06-24 00:30:00] No items in queue to process
+[2025-06-24 00:40:00] Starting CLI queue processor
+[2025-06-24 00:40:00] No items in queue to process
+[2025-06-24 00:50:00] Starting CLI queue processor
+[2025-06-24 00:50:00] No items in queue to process
+[2025-06-24 01:00:00] Starting CLI queue processor
+[2025-06-24 01:00:00] No items in queue to process
+[2025-06-24 01:10:00] Starting CLI queue processor
+[2025-06-24 01:10:00] No items in queue to process
+[2025-06-24 01:20:00] Starting CLI queue processor
+[2025-06-24 01:20:00] No items in queue to process
+[2025-06-24 01:30:00] Starting CLI queue processor
+[2025-06-24 01:30:00] No items in queue to process
+[2025-06-24 01:40:00] Starting CLI queue processor
+[2025-06-24 01:40:00] No items in queue to process
+[2025-06-24 01:50:00] Starting CLI queue processor
+[2025-06-24 01:50:00] No items in queue to process
+[2025-06-24 02:00:00] Starting CLI queue processor
+[2025-06-24 02:00:00] No items in queue to process
+[2025-06-24 02:10:00] Starting CLI queue processor
+[2025-06-24 02:10:00] No items in queue to process
+[2025-06-24 02:20:00] Starting CLI queue processor
+[2025-06-24 02:20:00] No items in queue to process
+[2025-06-24 02:30:00] Starting CLI queue processor
+[2025-06-24 02:30:00] No items in queue to process
+[2025-06-24 02:40:00] Starting CLI queue processor
+[2025-06-24 02:40:00] No items in queue to process
+[2025-06-24 02:50:00] Starting CLI queue processor
+[2025-06-24 02:50:00] No items in queue to process
+[2025-06-24 03:00:00] Starting CLI queue processor
+[2025-06-24 03:00:00] No items in queue to process
+[2025-06-24 03:10:00] Starting CLI queue processor
+[2025-06-24 03:10:00] No items in queue to process
+[2025-06-24 03:20:00] Starting CLI queue processor
+[2025-06-24 03:20:00] No items in queue to process
+[2025-06-24 03:30:00] Starting CLI queue processor
+[2025-06-24 03:30:00] No items in queue to process
+[2025-06-24 03:40:00] Starting CLI queue processor
+[2025-06-24 03:40:00] No items in queue to process
+[2025-06-24 03:50:00] Starting CLI queue processor
+[2025-06-24 03:50:00] No items in queue to process
+[2025-06-24 04:00:00] Starting CLI queue processor
+[2025-06-24 04:00:00] No items in queue to process
+[2025-06-24 04:10:00] Starting CLI queue processor
+[2025-06-24 04:10:00] No items in queue to process
+[2025-06-24 04:20:00] Starting CLI queue processor
+[2025-06-24 04:20:00] No items in queue to process
+[2025-06-24 04:30:00] Starting CLI queue processor
+[2025-06-24 04:30:00] No items in queue to process
+[2025-06-24 04:40:00] Starting CLI queue processor
+[2025-06-24 04:40:00] No items in queue to process
+[2025-06-24 04:50:00] Starting CLI queue processor
+[2025-06-24 04:50:00] No items in queue to process
+[2025-06-24 05:00:00] Starting CLI queue processor
+[2025-06-24 05:00:00] No items in queue to process
+[2025-06-24 05:10:00] Starting CLI queue processor
+[2025-06-24 05:10:00] No items in queue to process
+[2025-06-24 05:20:00] Starting CLI queue processor
+[2025-06-24 05:20:00] No items in queue to process
+[2025-06-24 05:30:00] Starting CLI queue processor
+[2025-06-24 05:30:00] No items in queue to process
+[2025-06-24 05:40:00] Starting CLI queue processor
+[2025-06-24 05:40:00] No items in queue to process
+[2025-06-24 05:50:00] Starting CLI queue processor
+[2025-06-24 05:50:00] No items in queue to process
+[2025-06-24 06:00:00] Starting CLI queue processor
+[2025-06-24 06:00:00] No items in queue to process
+[2025-06-24 06:10:00] Starting CLI queue processor
+[2025-06-24 06:10:00] No items in queue to process
+[2025-06-24 06:20:00] Starting CLI queue processor
+[2025-06-24 06:20:00] No items in queue to process
+[2025-06-24 06:30:00] Starting CLI queue processor
+[2025-06-24 06:30:00] No items in queue to process
+[2025-06-24 06:40:00] Starting CLI queue processor
+[2025-06-24 06:40:00] No items in queue to process
+[2025-06-24 06:50:00] Starting CLI queue processor
+[2025-06-24 06:50:00] No items in queue to process
+[2025-06-24 07:00:00] Starting CLI queue processor
+[2025-06-24 07:00:00] No items in queue to process
+[2025-06-24 07:10:00] Starting CLI queue processor
+[2025-06-24 07:10:00] No items in queue to process
+[2025-06-24 07:20:00] Starting CLI queue processor
+[2025-06-24 07:20:00] No items in queue to process
+[2025-06-24 07:30:00] Starting CLI queue processor
+[2025-06-24 07:30:00] No items in queue to process
+[2025-06-24 07:40:00] Starting CLI queue processor
+[2025-06-24 07:40:00] No items in queue to process
+[2025-06-24 07:50:00] Starting CLI queue processor
+[2025-06-24 07:50:00] No items in queue to process
+[2025-06-24 08:00:00] Starting CLI queue processor
+[2025-06-24 08:00:00] No items in queue to process
+[2025-06-24 08:10:00] Starting CLI queue processor
+[2025-06-24 08:10:00] No items in queue to process
