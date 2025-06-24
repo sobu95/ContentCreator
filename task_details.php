@@ -31,6 +31,12 @@ if (!$task) {
 
 $success = '';
 $error = '';
+if (isset($_GET['cloned'])) {
+    $success = 'Zadanie zostało sklonowane i dodane do kolejki.';
+}
+
+$stmt = $pdo->query("SELECT id, label FROM api_models ORDER BY label");
+$api_models = $stmt->fetchAll();
 
 // Obsługa regeneracji tekstu
 if ($_POST && isset($_POST['action']) && $_POST['action'] === 'regenerate') {
@@ -130,6 +136,9 @@ $content_type_fields = json_decode($task['fields'], true);
                                 <i class="fas fa-download"></i> Eksport DOCX
                             </a>
                         <?php endif; ?>
+                        <button type="button" class="btn btn-primary" onclick="openCloneModal(<?= $task_id ?>)">
+                            <i class="fas fa-clone"></i> Klonuj
+                        </button>
                     </div>
                 </div>
                 
@@ -311,8 +320,38 @@ $content_type_fields = json_decode($task['fields'], true);
                 </div>
             </div>
         </div>
+</div>
+
+    <!-- Modal klonowania zadania -->
+    <div class="modal fade" id="cloneModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="POST" action="task_clone.php">
+                    <?= csrf_field() ?>
+                    <input type="hidden" name="task_id" id="clone_task_id">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Klonuj zadanie</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mb-3">
+                            <label for="clone_model_id" class="form-label">Model AI *</label>
+                            <select class="form-select" name="model_id" id="clone_model_id" required>
+                                <?php foreach ($api_models as $m): ?>
+                                    <option value="<?= $m['id'] ?>"><?= htmlspecialchars($m['label']) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Anuluj</button>
+                        <button type="submit" class="btn btn-primary">Klonuj</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
-    
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         async function viewContent(taskItemId, url) {
@@ -349,6 +388,12 @@ $content_type_fields = json_decode($task['fields'], true);
             } catch (error) {
                 document.getElementById('contentModalBody').innerHTML = '<div class="alert alert-danger">Błąd ładowania treści</div>';
             }
+        }
+
+        function openCloneModal(taskId) {
+            document.getElementById('clone_task_id').value = taskId;
+            const modal = new bootstrap.Modal(document.getElementById('cloneModal'));
+            modal.show();
         }
     </script>
 </body>
