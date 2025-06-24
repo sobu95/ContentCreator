@@ -382,7 +382,7 @@ unset($task);
                                                         <i class="fas fa-download"></i>
                                                     </a>
                                                 <?php endif; ?>
-                                                <button type="button" class="btn btn-sm btn-outline-secondary" onclick="openCloneModal(<?= $task['id'] ?>)">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary" onclick="openCloneModal(<?= $task['id'] ?>, <?= $task['content_type_id'] ?>, <?= $task['model_id'] ? $task['model_id'] : 'null' ?>)">
                                                     <i class="fas fa-clone"></i>
                                                 </button>
                                                 <a href="?delete=<?= $task['id'] ?><?= $project_id ? '&project_id=' . $project_id : '' ?>"
@@ -508,6 +508,15 @@ unset($task);
                         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                     </div>
                     <div class="modal-body">
+                        <div class="mb-3">
+                            <label for="clone_content_type_id" class="form-label">Typ treści *</label>
+                            <select class="form-select" name="content_type_id" id="clone_content_type_id" required>
+                                <option value="">Wybierz typ treści</option>
+                                <?php foreach ($content_types as $type): ?>
+                                    <option value="<?= $type['id'] ?>"><?= htmlspecialchars($type['name']) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
                         <div class="mb-3">
                             <label for="clone_model_id" class="form-label">Model AI *</label>
                             <select class="form-select" name="model_id" id="clone_model_id" required>
@@ -636,8 +645,16 @@ unset($task);
             });
         }
 
-        function openCloneModal(taskId) {
+        function openCloneModal(taskId, contentTypeId, modelId) {
             document.getElementById('clone_task_id').value = taskId;
+            const typeSelect = document.getElementById('clone_content_type_id');
+            const modelSelect = document.getElementById('clone_model_id');
+            if (typeSelect) {
+                typeSelect.value = contentTypeId || '';
+            }
+            if (modelSelect) {
+                modelSelect.value = modelId || '';
+            }
             const modal = new bootstrap.Modal(document.getElementById('cloneModal'));
             modal.show();
         }

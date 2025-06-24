@@ -38,6 +38,9 @@ if (isset($_GET['cloned'])) {
 $stmt = $pdo->query("SELECT id, label FROM api_models ORDER BY label");
 $api_models = $stmt->fetchAll();
 
+$stmt = $pdo->query("SELECT id, name FROM content_types ORDER BY name");
+$content_types = $stmt->fetchAll();
+
 // Obsługa regeneracji tekstu
 if ($_POST && isset($_POST['action']) && $_POST['action'] === 'regenerate') {
     $task_item_id = intval($_POST['task_item_id']);
@@ -136,7 +139,7 @@ $content_type_fields = json_decode($task['fields'], true);
                                 <i class="fas fa-download"></i> Eksport DOCX
                             </a>
                         <?php endif; ?>
-                        <button type="button" class="btn btn-primary" onclick="openCloneModal(<?= $task_id ?>)">
+                        <button type="button" class="btn btn-primary" onclick="openCloneModal(<?= $task_id ?>, <?= $task['content_type_id'] ?>, <?= $task['model_id'] ? $task['model_id'] : 'null' ?>)">
                             <i class="fas fa-clone"></i> Klonuj
                         </button>
                     </div>
@@ -335,6 +338,15 @@ $content_type_fields = json_decode($task['fields'], true);
                     </div>
                     <div class="modal-body">
                         <div class="mb-3">
+                            <label for="clone_content_type_id" class="form-label">Typ treści *</label>
+                            <select class="form-select" name="content_type_id" id="clone_content_type_id" required>
+                                <option value="">Wybierz typ treści</option>
+                                <?php foreach ($content_types as $type): ?>
+                                    <option value="<?= $type['id'] ?>"><?= htmlspecialchars($type['name']) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                        <div class="mb-3">
                             <label for="clone_model_id" class="form-label">Model AI *</label>
                             <select class="form-select" name="model_id" id="clone_model_id" required>
                                 <?php foreach ($api_models as $m): ?>
@@ -390,8 +402,16 @@ $content_type_fields = json_decode($task['fields'], true);
             }
         }
 
-        function openCloneModal(taskId) {
+        function openCloneModal(taskId, contentTypeId, modelId) {
             document.getElementById('clone_task_id').value = taskId;
+            const typeSelect = document.getElementById('clone_content_type_id');
+            const modelSelect = document.getElementById('clone_model_id');
+            if (typeSelect) {
+                typeSelect.value = contentTypeId || '';
+            }
+            if (modelSelect) {
+                modelSelect.value = modelId || '';
+            }
             const modal = new bootstrap.Modal(document.getElementById('cloneModal'));
             modal.show();
         }
