@@ -87,3 +87,6 @@ project and adjust the `php` binary if necessary:
 
 `process_queue_cli.php` checks whether there are any tasks waiting and exits
 immediately when the queue is empty to minimize server load.
+
+The page content processor will also mark a task item as failed when no text can
+be extracted from the provided URL.

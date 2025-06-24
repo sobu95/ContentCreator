@@ -123,8 +123,17 @@ try {
             try {
                 $page_content = fetchAndSavePageContent($pdo, $item['id'], $item['url']);
                 
-                if (strpos($page_content, 'Nie udało się pobrać') === 0 || strpos($page_content, 'Błąd') === 0) {
-                    logPageContentMessage("Failed to fetch content for {$item['url']}: $page_content", 'error');
+                if (
+                    strpos($page_content, 'Nie udało się pobrać') === 0 ||
+                    strpos($page_content, 'Błąd') === 0 ||
+                    strpos($page_content, 'No text extracted from URL') === 0 ||
+                    strlen(trim($page_content)) === 0
+                ) {
+                    if (strlen(trim($page_content)) === 0 || strpos($page_content, 'No text extracted from URL') === 0) {
+                        logPageContentMessage("No text extracted from {$item['url']}", 'error');
+                    } else {
+                        logPageContentMessage("Failed to fetch content for {$item['url']}: $page_content", 'error');
+                    }
                     
                     // Oznacz element jako failed
                     $stmt = $pdo->prepare("UPDATE task_items SET status = 'failed' WHERE id = ?");
