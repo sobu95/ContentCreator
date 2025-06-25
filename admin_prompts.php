@@ -30,7 +30,18 @@ if ($_POST) {
 
             $allowed_keys = array_merge(
                 array_keys($fields),
-                ['url','keywords','headings','characters','lead','internal_linking','page_content','strictness_level','generated_text','previous_text']
+                [
+                    'url',
+                    'keywords',
+                    'headings',
+                    'characters',
+                    'lead',
+                    'internal_linking',
+                    'page_content',
+                    'strictness_level',
+                    'generated_text',
+                    'previous_text'
+                ]
             );
 
             $placeholders = extractPlaceholders($content);
@@ -149,6 +160,9 @@ foreach ($prompts as $prompt) {
                                 <div class="placeholder-info">
                                     <h6><i class="fas fa-info-circle"></i> Dostępne placeholdery:</h6>
                                     <div id="placeholder-list" class="placeholder-list"></div>
+                                    <p class="text-muted mt-1">
+                                        Placeholder <code>{previous_text}</code> umożliwia wstawienie tekstu wygenerowanego w poprzednim kroku.
+                                    </p>
                                 </div>
                                 <div id="placeholder-warning" class="alert alert-warning d-none"></div>
 
