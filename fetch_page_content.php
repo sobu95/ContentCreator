@@ -54,6 +54,14 @@ function fetchPageContent($url) {
 
         if (strlen(trim($cleaned_content)) === 0) {
             error_log("No text extracted from URL: $url");
+            $anchor_text = extractAnchorText($html);
+            if ($anchor_text !== null) {
+                return $anchor_text;
+            }
+            $body_html = extractBodyHtml($html);
+            if ($body_html !== null) {
+                return $body_html;
+            }
             return "No text extracted from URL";
         }
 
@@ -184,6 +192,67 @@ function extractTextFromNode($node) {
     }
     
     return $text;
+}
+
+function extractBodyHtml($html) {
+    try {
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true);
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+        libxml_clear_errors();
+
+        $bodyNodes = $dom->getElementsByTagName('body');
+        if ($bodyNodes->length === 0) {
+            return null;
+        }
+        $body = $bodyNodes->item(0);
+
+        $innerHtml = '';
+        foreach ($body->childNodes as $child) {
+            $innerHtml .= $dom->saveHTML($child);
+        }
+
+        if (strlen($innerHtml) > 10000) {
+            $innerHtml = substr($innerHtml, 0, 10000) . '...';
+        }
+
+        return $innerHtml;
+    } catch (Exception $e) {
+        error_log("Błąd ekstrakcji HTML body: " . $e->getMessage());
+        return null;
+    }
+}
+
+function extractAnchorText($html) {
+    try {
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true);
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+        libxml_clear_errors();
+
+        $anchors = $dom->getElementsByTagName('a');
+        $texts = [];
+        foreach ($anchors as $a) {
+            $text = trim($a->textContent);
+            if ($text !== '') {
+                $texts[] = $text;
+            }
+        }
+
+        if (empty($texts)) {
+            return null;
+        }
+
+        $result = implode("\n", $texts);
+        if (strlen($result) > 10000) {
+            $result = substr($result, 0, 10000) . '...';
+        }
+
+        return $result;
+    } catch (Exception $e) {
+        error_log("Błąd ekstrakcji anchor text: " . $e->getMessage());
+        return null;
+    }
 }
 
 /**
