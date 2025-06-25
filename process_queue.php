@@ -385,10 +385,16 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
     $replacements = $input_data;
     $replacements['strictness_level'] = $task_item['strictness_level'];
     $replacements['page_content'] = $task_item['page_content'];
+
+    $previous = null;
     if ($similar_categories && !empty($task_item['last_generated_text'])) {
-        $replacements['previous_text'] = $task_item['last_generated_text'];
+        $previous = $task_item['last_generated_text'];
+    }
     if (!empty($task_item['previous_text'])) {
-        $replacements['previous_text'] = $task_item['previous_text'];
+        $previous = $task_item['previous_text'];
+    }
+    if ($previous) {
+        $replacements['previous_text'] = $previous;
         $generate_prompt_template .= "\n\nRewrite the text in a different style than the provided previous version.";
     }
     
