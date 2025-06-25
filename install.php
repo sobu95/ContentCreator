@@ -90,6 +90,7 @@ if ($_POST) {
             status ENUM('pending', 'processing', 'completed', 'failed', 'partial_failure') DEFAULT 'pending',
             strictness_level DECIMAL(2,1) DEFAULT 0.0,
             task_data LONGTEXT,
+            last_generated_text LONGTEXT,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             FOREIGN KEY (project_id) REFERENCES projects(id) ON DELETE CASCADE,
             FOREIGN KEY (content_type_id) REFERENCES content_types(id),

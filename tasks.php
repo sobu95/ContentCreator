@@ -101,6 +101,7 @@ if ($_POST && isset($_POST['action']) && $_POST['action'] === 'create_task') {
     $model_id = isset($_POST['model_id']) ? intval($_POST['model_id']) : null;
     $task_name = trim($_POST['task_name']);
     $strictness_level = floatval($_POST['strictness_level']);
+    $similar_categories = isset($_POST['similar_categories']);
     
     // Sprawdź czy projekt należy do użytkownika
     $stmt = $pdo->prepare("SELECT id FROM projects WHERE id = ? AND user_id = ?");
@@ -120,8 +121,9 @@ if ($_POST && isset($_POST['action']) && $_POST['action'] === 'create_task') {
             $fields = json_decode($content_type['fields'], true);
             
             // Utwórz zadanie
-            $stmt = $pdo->prepare("INSERT INTO tasks (project_id, content_type_id, model_id, name, strictness_level) VALUES (?, ?, ?, ?, ?)");
-            $stmt->execute([$task_project_id, $content_type_id, $model_id, $task_name, $strictness_level]);
+            $task_data = json_encode(['similar_categories' => $similar_categories]);
+            $stmt = $pdo->prepare("INSERT INTO tasks (project_id, content_type_id, model_id, name, strictness_level, task_data) VALUES (?, ?, ?, ?, ?, ?)");
+            $stmt->execute([$task_project_id, $content_type_id, $model_id, $task_name, $strictness_level, $task_data]);
             $task_id = $pdo->lastInsertId();
             
             // Sprawdź ile URL-i zostało dodanych
@@ -466,14 +468,19 @@ unset($task);
                         
                         <div class="mb-3">
                             <label for="strictness_level" class="form-label">Poziom naturalności: <span id="strictness_value">0.0</span></label>
-                            <input type="range" class="form-range" name="strictness_level" id="strictness_level" 
+                            <input type="range" class="form-range" name="strictness_level" id="strictness_level"
                                    min="0" max="1" step="0.1" value="0" oninput="updateStrictnessValue(this.value)">
                             <div class="d-flex justify-content-between">
                                 <small class="text-muted">Naturalny (0)</small>
                                 <small class="text-muted">Dokładny (1)</small>
                             </div>
                         </div>
-                        
+
+                        <div class="form-check mb-3">
+                            <input class="form-check-input" type="checkbox" id="similar_categories" name="similar_categories">
+                            <label class="form-check-label" for="similar_categories">Zapamiętaj poprzedni opis dla kolejnych kategorii</label>
+                        </div>
+
                         <hr>
                         
                         <div class="d-flex justify-content-between align-items-center mb-3">
@@ -663,6 +670,7 @@ unset($task);
         document.getElementById('taskModal').addEventListener('hidden.bs.modal', function () {
             document.getElementById('content_type_id').value = '';
             document.getElementById('url_items_container').innerHTML = '';
+            document.getElementById('similar_categories').checked = false;
             currentFields = {};
             urlItemIndex = 0;
         });

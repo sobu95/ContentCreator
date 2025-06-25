@@ -312,7 +312,7 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
     
     // Pobierz dane zadania
     $stmt = $pdo->prepare(
-        "SELECT ti.*, t.strictness_level, ct.id as content_type_id, ct.requires_verification,
+        "SELECT ti.*, t.strictness_level, t.task_data, t.last_generated_text, ct.id as content_type_id, ct.requires_verification,
                 am.provider, am.model_slug
          FROM task_items ti
          JOIN tasks t ON ti.task_id = t.id
@@ -369,12 +369,24 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
         throw new Exception("Invalid JSON input_data for task item ID: {$task_item_id} - " . json_last_error_msg());
     }
 
+    $task_options = [];
+    if (!empty($task_item['task_data'])) {
+        $task_options = json_decode($task_item['task_data'], true);
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            throw new Exception("Invalid JSON task_data for task ID: {$task_item['task_id']} - " . json_last_error_msg());
+        }
+    }
+
+    $similar_categories = !empty($task_options['similar_categories']);
+
     logMessage("Input data for ID {$task_item_id}: " . json_encode($input_data));
-    
+
     // Przygotuj dane do zamiany w promptach
     $replacements = $input_data;
     $replacements['strictness_level'] = $task_item['strictness_level'];
     $replacements['page_content'] = $task_item['page_content'];
+    if ($similar_categories && !empty($task_item['last_generated_text'])) {
+        $replacements['previous_text'] = $task_item['last_generated_text'];
     if (!empty($task_item['previous_text'])) {
         $replacements['previous_text'] = $task_item['previous_text'];
         $generate_prompt_template .= "\n\nRewrite the text in a different style than the provided previous version.";
@@ -459,10 +471,14 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
         status = VALUES(status)
     ");
     $stmt->execute([$task_item_id, $generated_text, $verified_text]);
-    
+
     logMessage("Content generated and saved for ID {$task_item_id}");
     logMessage("Generated text preview: " . substr($generated_text, 0, 100) . "...");
     logMessage("Verified text preview: " . substr($verified_text, 0, 100) . "...");
+
+    // Update last generated text for the task
+    $stmt = $pdo->prepare("UPDATE tasks SET last_generated_text = ? WHERE id = ?");
+    $stmt->execute([$verified_text, $task_item['task_id']]);
 }
 
 /**
