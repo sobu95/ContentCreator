@@ -2,9 +2,9 @@
 <?php
 // Script for updating the database schema
 
-if (php_sapi_name() !== 'cli') {
-    http_response_code(403);
-    die('This script can only be run from command line.');
+$is_cli_mode = php_sapi_name() === 'cli';
+if (!$is_cli_mode) {
+    header('Content-Type: text/plain; charset=utf-8');
 }
 
 $app_root = dirname(__FILE__);
