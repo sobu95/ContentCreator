@@ -57,9 +57,9 @@ ALTER TABLE <table_name> CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicod
 
 ## Database updates
 
-When upgrading an existing installation, run the update script to add any
-columns introduced in later versions. Execute the following command from the
-project root:
+When upgrading an existing installation, use the `update.php` script to add any
+columns introduced in later versions. You can either run it from the command
+line or open it directly in your browser. For CLI usage execute:
 
 ```bash
 php update.php
