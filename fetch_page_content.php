@@ -255,6 +255,7 @@ function extractAnchorText($html) {
     }
 }
 
+
 /**
  * Pobiera treść strony i zapisuje ją w bazie danych
  */
