@@ -54,6 +54,10 @@ function fetchPageContent($url) {
 
         if (strlen(trim($cleaned_content)) === 0) {
             error_log("No text extracted from URL: $url");
+            $anchor_text = extractAnchorText($html);
+            if ($anchor_text !== null) {
+                return $anchor_text;
+            }
             $body_html = extractBodyHtml($html);
             if ($body_html !== null) {
                 return $body_html;
@@ -218,6 +222,39 @@ function extractBodyHtml($html) {
         return null;
     }
 }
+
+function extractAnchorText($html) {
+    try {
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true);
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+        libxml_clear_errors();
+
+        $anchors = $dom->getElementsByTagName('a');
+        $texts = [];
+        foreach ($anchors as $a) {
+            $text = trim($a->textContent);
+            if ($text !== '') {
+                $texts[] = $text;
+            }
+        }
+
+        if (empty($texts)) {
+            return null;
+        }
+
+        $result = implode("\n", $texts);
+        if (strlen($result) > 10000) {
+            $result = substr($result, 0, 10000) . '...';
+        }
+
+        return $result;
+    } catch (Exception $e) {
+        error_log("Błąd ekstrakcji anchor text: " . $e->getMessage());
+        return null;
+    }
+}
+
 
 /**
  * Pobiera treść strony i zapisuje ją w bazie danych
