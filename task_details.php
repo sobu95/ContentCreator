@@ -52,7 +52,17 @@ if ($_POST && isset($_POST['action']) && $_POST['action'] === 'regenerate') {
     if ($stmt->fetch()) {
         try {
             $pdo->beginTransaction();
-            
+
+            // Zachowaj dotychczasowy tekst, jeśli istnieje
+            $stmt = $pdo->prepare("SELECT verified_text, generated_text FROM generated_content WHERE task_item_id = ? ORDER BY id DESC LIMIT 1");
+            $stmt->execute([$task_item_id]);
+            $existing = $stmt->fetch();
+            $prev_text = $existing ? ($existing['verified_text'] ?: $existing['generated_text']) : null;
+            if ($prev_text) {
+                $stmt = $pdo->prepare("UPDATE task_items SET previous_text = ? WHERE id = ?");
+                $stmt->execute([$prev_text, $task_item_id]);
+            }
+
             // Usuń poprzednią treść
             $stmt = $pdo->prepare("DELETE FROM generated_content WHERE task_item_id = ?");
             $stmt->execute([$task_item_id]);

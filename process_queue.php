@@ -387,6 +387,9 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
     $replacements['page_content'] = $task_item['page_content'];
     if ($similar_categories && !empty($task_item['last_generated_text'])) {
         $replacements['previous_text'] = $task_item['last_generated_text'];
+    if (!empty($task_item['previous_text'])) {
+        $replacements['previous_text'] = $task_item['previous_text'];
+        $generate_prompt_template .= "\n\nRewrite the text in a different style than the provided previous version.";
     }
     
     // Zamień zmienne w promptcie generowania
