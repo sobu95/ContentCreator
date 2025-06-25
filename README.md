@@ -55,6 +55,19 @@ ALTER DATABASE <db_name> CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci;
 ALTER TABLE <table_name> CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
 
+## Database updates
+
+When upgrading an existing installation, run the update script to add any
+columns introduced in later versions. Execute the following command from the
+project root:
+
+```bash
+php update.php
+```
+
+The script checks for the `task_items.previous_text` and
+`tasks.last_generated_text` columns and creates them if they are missing.
+
 ## Node dependencies and linting
 
 Install the Node packages defined in `package.json` before running the lint
