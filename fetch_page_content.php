@@ -54,6 +54,10 @@ function fetchPageContent($url) {
 
         if (strlen(trim($cleaned_content)) === 0) {
             error_log("No text extracted from URL: $url");
+            $body_html = extractBodyHtml($html);
+            if ($body_html !== null) {
+                return $body_html;
+            }
             return "No text extracted from URL";
         }
 
@@ -184,6 +188,35 @@ function extractTextFromNode($node) {
     }
     
     return $text;
+}
+
+function extractBodyHtml($html) {
+    try {
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true);
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+        libxml_clear_errors();
+
+        $bodyNodes = $dom->getElementsByTagName('body');
+        if ($bodyNodes->length === 0) {
+            return null;
+        }
+        $body = $bodyNodes->item(0);
+
+        $innerHtml = '';
+        foreach ($body->childNodes as $child) {
+            $innerHtml .= $dom->saveHTML($child);
+        }
+
+        if (strlen($innerHtml) > 10000) {
+            $innerHtml = substr($innerHtml, 0, 10000) . '...';
+        }
+
+        return $innerHtml;
+    } catch (Exception $e) {
+        error_log("Błąd ekstrakcji HTML body: " . $e->getMessage());
+        return null;
+    }
 }
 
 /**
