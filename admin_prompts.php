@@ -30,7 +30,7 @@ if ($_POST) {
 
             $allowed_keys = array_merge(
                 array_keys($fields),
-                ['url','keywords','headings','characters','lead','internal_linking','page_content','strictness_level','generated_text']
+                ['url','keywords','headings','characters','lead','internal_linking','page_content','strictness_level','generated_text','previous_text']
             );
 
             $placeholders = extractPlaceholders($content);
@@ -270,7 +270,7 @@ foreach ($prompts as $prompt) {
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         const prompts = <?= json_encode($grouped_prompts) ?>;
-        const globalPlaceholders = ['url','keywords','headings','characters','lead','internal_linking','page_content','strictness_level','generated_text'];
+        const globalPlaceholders = ['url','keywords','headings','characters','lead','internal_linking','page_content','strictness_level','generated_text','previous_text'];
         let currentFields = {};
 
         function editPrompt(contentTypeId, type) {

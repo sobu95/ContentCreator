@@ -103,6 +103,7 @@ if ($_POST) {
             url VARCHAR(500) NOT NULL,
             input_data LONGTEXT,
             page_content TEXT,
+            previous_text TEXT NULL,
             status ENUM('pending', 'processing', 'completed', 'failed') DEFAULT 'pending',
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             FOREIGN KEY (task_id) REFERENCES tasks(id) ON DELETE CASCADE
