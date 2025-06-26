@@ -61,6 +61,17 @@ function updateLastPageContentRunTimestamp($pdo) {
     }
 }
 
+/**
+ * Retrieves the delay in seconds between fetching page content for URLs.
+ */
+function getPageContentDelaySeconds() {
+    $pdo = getDbConnection();
+    $stmt = $pdo->prepare("SELECT setting_value FROM settings WHERE setting_key = 'page_content_delay_seconds'");
+    $stmt->execute();
+    $result = $stmt->fetch();
+    return $result ? (int)$result['setting_value'] : 2;
+}
+
 // Start buforowania wyjścia dla trybu WWW
 if (!$is_cli_mode) {
     ob_start();
@@ -99,6 +110,8 @@ logPageContentMessage("Starting page content processor. Mode: " . ($is_cli_mode 
 try {
     $pdo = getDbConnection();
     updateLastPageContentRunTimestamp($pdo);
+    $delay_seconds = getPageContentDelaySeconds();
+    logPageContentMessage("Request delay set to: {$delay_seconds} seconds");
     
     // Pobierz elementy zadań, które nie mają jeszcze pobranej treści strony
     $stmt = $pdo->prepare("
@@ -143,7 +156,7 @@ try {
                 }
                 
                 // Krótkie opóźnienie między żądaniami
-                sleep(1);
+                sleep($delay_seconds);
                 
             } catch (Exception $e) {
                 logPageContentMessage("Error processing task item {$item['id']}: " . $e->getMessage(), 'error');
