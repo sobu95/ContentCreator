@@ -98,8 +98,10 @@ project and adjust the `php` binary if necessary:
 */5 * * * * /usr/bin/php /path/to/process_page_content.php >> /path/to/logs/page_content_cron.log 2>&1
 ```
 
-`process_queue_cli.php` checks whether there are any tasks waiting and exits
-immediately when the queue is empty to minimize server load.
+`process_queue_cli.php` checks whether there are any tasks waiting. If the queue
+remains empty for several consecutive checks (six by default, about one minute)
+the script exits automatically. You can override this limit with the
+`QUEUE_EMPTY_LOOP_LIMIT` environment variable.
 
 The page content processor will also mark a task item as failed when no text can
 be extracted from the provided URL.

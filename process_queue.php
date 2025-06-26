@@ -568,6 +568,8 @@ $gemini_api_key = getGeminiApiKey();
 $anthropic_api_key = getAnthropicApiKey();
 $api_keys = ['gemini' => $gemini_api_key, 'anthropic' => $anthropic_api_key];
 $processing_delay_minutes = getProcessingDelayMinutes();
+$empty_loop_limit = getenv('QUEUE_EMPTY_LOOP_LIMIT') ?: 6; // ~1 minute by default
+$empty_loop_count = 0;
 
 if ($is_cli_mode && !hasQueueItems($pdo)) {
     logMessage("No items in queue to process");
@@ -612,10 +614,17 @@ do {
         if (!$queue_item) {
             $pdo->commit();
             if ($is_cli_mode) {
-                sleep(10); 
+                $empty_loop_count++;
+                if ($empty_loop_count >= $empty_loop_limit) {
+                    logMessage("No items found for {$empty_loop_count} consecutive checks. Exiting.");
+                    break;
+                }
+                sleep(10);
             }
             continue;
         }
+
+        $empty_loop_count = 0;
         
         logMessage("Attempting to process queue item ID: {$queue_item['id']} (Task Item ID: {$queue_item['task_item_id']})");
 
