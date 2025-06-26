@@ -48,24 +48,39 @@ function fetchPageContent($url) {
         if (empty($html)) {
             throw new Exception("Pusta odpowiedź dla URL: $url");
         }
-        
+
+        // Wyciągnij nazwy produktów
+        $product_names = extractProductNames($html);
+
         // Wyczyść treść HTML
         $cleaned_content = cleanHtmlContent($html);
+        $result = $cleaned_content;
 
         if (strlen(trim($cleaned_content)) === 0) {
             error_log("No text extracted from URL: $url");
             $anchor_text = extractAnchorText($html);
             if ($anchor_text !== null) {
-                return $anchor_text;
+                $result = $anchor_text;
+            } else {
+                $body_html = extractBodyHtml($html);
+                if ($body_html !== null) {
+                    $result = $body_html;
+                } else {
+                    $result = "No text extracted from URL";
+                }
             }
-            $body_html = extractBodyHtml($html);
-            if ($body_html !== null) {
-                return $body_html;
-            }
-            return "No text extracted from URL";
         }
 
-        return $cleaned_content;
+        if ($product_names) {
+            $result = trim($result);
+            if ($result !== '') {
+                $result .= "\n" . $product_names;
+            } else {
+                $result = $product_names;
+            }
+        }
+
+        return $result;
         
     } catch (Exception $e) {
         error_log("Błąd pobierania treści strony $url: " . $e->getMessage());
@@ -251,6 +266,52 @@ function extractAnchorText($html) {
         return $result;
     } catch (Exception $e) {
         error_log("Błąd ekstrakcji anchor text: " . $e->getMessage());
+        return null;
+    }
+}
+
+function extractProductNames($html) {
+    try {
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true);
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+        libxml_clear_errors();
+
+        $xpath = new DOMXPath($dom);
+
+        $names = [];
+
+        $aNodes = $xpath->query('//a[contains(@class, "product")]');
+        foreach ($aNodes as $a) {
+            $text = trim($a->textContent);
+            if ($text !== '') {
+                $names[] = html_entity_decode($text, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+            }
+        }
+
+        $imgNodes = $xpath->query('//img[contains(@class, "product")]');
+        foreach ($imgNodes as $img) {
+            if ($img->hasAttribute('alt')) {
+                $alt = trim($img->getAttribute('alt'));
+                if ($alt !== '') {
+                    $names[] = html_entity_decode($alt, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+                }
+            }
+        }
+
+        $names = array_unique($names);
+        if (empty($names)) {
+            return null;
+        }
+
+        $result = implode("\n", $names);
+        if (strlen($result) > 10000) {
+            $result = substr($result, 0, 10000) . '...';
+        }
+
+        return $result;
+    } catch (Exception $e) {
+        error_log("Błąd ekstrakcji nazw produktów: " . $e->getMessage());
         return null;
     }
 }
