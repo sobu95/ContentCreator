@@ -148,3 +148,498 @@
 [2025-06-24 08:10:00] Starting page content processor. Mode: CLI
 [2025-06-24 08:10:00] No task items need page content processing
 [2025-06-24 08:10:00] Page content processor finished
+[2025-06-24 08:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:20:00] No task items need page content processing
+[2025-06-24 08:20:00] Page content processor finished
+[2025-06-24 08:28:20] Starting page content processor. Mode: WWW
+[2025-06-24 08:28:20] Found 10 task items to process
+[2025-06-24 08:28:20] Processing page content for task item ID: 13, URL: https://maicon.pl/plecaki-164
+[2025-06-24 08:28:22] Successfully fetched content for https://maicon.pl/plecaki-164 (345 characters)
+[2025-06-24 08:28:23] Processing page content for task item ID: 14, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-24 08:28:24] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-24 08:28:25] Processing page content for task item ID: 15, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:28:25] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:28:26] Processing page content for task item ID: 16, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:28:27] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:28:28] Processing page content for task item ID: 17, URL: https://maicon.pl/plecaki-164
+[2025-06-24 08:28:28] Successfully fetched content for https://maicon.pl/plecaki-164 (345 characters)
+[2025-06-24 08:28:29] Processing page content for task item ID: 18, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-24 08:28:30] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-24 08:28:31] Processing page content for task item ID: 19, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:28:31] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:28:32] Processing page content for task item ID: 20, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:28:33] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:28:34] Processing page content for task item ID: 21, URL: https://maicon.pl/plecaki-164
+[2025-06-24 08:28:34] Successfully fetched content for https://maicon.pl/plecaki-164 (345 characters)
+[2025-06-24 08:28:35] Processing page content for task item ID: 22, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-24 08:28:36] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-24 08:28:37] Page content processor finished
+[2025-06-24 08:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:30:00] Found 6 task items to process
+[2025-06-24 08:30:00] Processing page content for task item ID: 23, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:30:01] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:30:02] Processing page content for task item ID: 24, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:30:03] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:30:04] Processing page content for task item ID: 25, URL: https://maicon.pl/plecaki-164
+[2025-06-24 08:30:05] Successfully fetched content for https://maicon.pl/plecaki-164 (345 characters)
+[2025-06-24 08:30:06] Processing page content for task item ID: 26, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-24 08:30:07] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-24 08:30:08] Processing page content for task item ID: 27, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:30:08] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:30:09] Processing page content for task item ID: 28, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:30:10] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:30:11] Page content processor finished
+[2025-06-24 08:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:40:00] No task items need page content processing
+[2025-06-24 08:40:00] Page content processor finished
+[2025-06-24 08:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:50:00] No task items need page content processing
+[2025-06-24 08:50:00] Page content processor finished
+[2025-06-24 08:51:55] Starting page content processor. Mode: WWW
+[2025-06-24 08:51:55] Found 4 task items to process
+[2025-06-24 08:51:55] Processing page content for task item ID: 37, URL: https://fun4sport.pl/pol_m_Torby-sportowe_TORBY-SPORTOWE-EVERLAST-544.html
+[2025-06-24 08:51:55] Successfully fetched content for https://fun4sport.pl/pol_m_Torby-sportowe_TORBY-SPORTOWE-EVERLAST-544.html (1120 characters)
+[2025-06-24 08:51:56] Processing page content for task item ID: 38, URL: https://fun4sport.pl/pol_m_Obuwie_Klapki-sportowe-541.html
+[2025-06-24 08:51:57] Successfully fetched content for https://fun4sport.pl/pol_m_Obuwie_Klapki-sportowe-541.html (1140 characters)
+[2025-06-24 08:51:58] Processing page content for task item ID: 39, URL: https://fun4sport.pl/pol_m_Dodatki_TOREBKI-I-SASZETKI-SPORTOWE-_Torebki-i-saszetki-sportowe-NEW-ERA-511.html
+[2025-06-24 08:51:58] Successfully fetched content for https://fun4sport.pl/pol_m_Dodatki_TOREBKI-I-SASZETKI-SPORTOWE-_Torebki-i-saszetki-sportowe-NEW-ERA-511.html (3875 characters)
+[2025-06-24 08:51:59] Processing page content for task item ID: 40, URL: https://fun4sport.pl/pol_m_Skarpety-sportowe_SKARPETY-4F-519.html
+[2025-06-24 08:52:00] Successfully fetched content for https://fun4sport.pl/pol_m_Skarpety-sportowe_SKARPETY-4F-519.html (1671 characters)
+[2025-06-24 08:52:01] Page content processor finished
+[2025-06-24 09:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:00:00] No task items need page content processing
+[2025-06-24 09:00:00] Page content processor finished
+[2025-06-24 09:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:10:00] No task items need page content processing
+[2025-06-24 09:10:00] Page content processor finished
+[2025-06-24 09:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:20:00] No task items need page content processing
+[2025-06-24 09:20:00] Page content processor finished
+[2025-06-24 09:29:20] Starting page content processor. Mode: WWW
+[2025-06-24 09:29:20] Found 10 task items to process
+[2025-06-24 09:29:20] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:29:25] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:29:26] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:29:31] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:29:32] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:29:34] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:29:35] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:29:38] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:29:39] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:29:44] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:29:45] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:29:46] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:29:47] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:29:48] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:29:49] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:29:49] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:29:50] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:29:51] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:29:52] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:29:52] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:29:53] Page content processor finished
+[2025-06-24 09:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:30:00] Found 10 task items to process
+[2025-06-24 09:30:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:30:00] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:30:01] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:30:02] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:30:03] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:30:03] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:30:04] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:30:05] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:30:06] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:30:06] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:30:07] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:30:07] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:30:08] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:30:09] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:30:10] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:30:10] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:30:11] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:30:12] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:30:13] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:30:13] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:30:14] Page content processor finished
+[2025-06-24 09:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:40:00] Found 10 task items to process
+[2025-06-24 09:40:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:01] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:02] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:04] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:05] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:06] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:07] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:40:08] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:40:09] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:40:10] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:40:11] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:40:12] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:40:13] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:40:14] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:40:15] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:15] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:16] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:16] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:17] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:18] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:19] Page content processor finished
+[2025-06-24 09:40:45] Starting page content processor. Mode: WWW
+[2025-06-24 09:40:45] Found 10 task items to process
+[2025-06-24 09:40:45] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:45] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:46] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:46] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:47] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:48] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:49] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:40:49] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:40:50] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:40:50] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:40:51] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:40:52] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:40:53] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:40:53] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:40:54] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:54] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:55] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:56] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:57] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:57] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:58] Page content processor finished
+[2025-06-24 09:41:30] Starting page content processor. Mode: WWW
+[2025-06-24 09:41:30] Found 10 task items to process
+[2025-06-24 09:41:30] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:41:30] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:41:31] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:41:31] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:41:32] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:41:33] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:41:34] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:41:34] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:41:35] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:41:35] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:41:36] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:41:37] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:41:38] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:41:38] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:41:39] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:41:40] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:41:41] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:41:41] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:41:42] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:41:42] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:41:43] Page content processor finished
+[2025-06-24 09:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:50:00] Found 10 task items to process
+[2025-06-24 09:50:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:50:01] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:50:02] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:50:03] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:50:04] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:50:05] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:50:06] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:50:07] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:50:08] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:50:09] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:50:10] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:50:11] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:50:12] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:50:13] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:50:14] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:50:14] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:50:15] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:50:15] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:50:16] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:50:17] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:50:18] Page content processor finished
+[2025-06-24 09:52:04] Starting page content processor. Mode: WWW
+[2025-06-24 09:52:04] Found 10 task items to process
+[2025-06-24 09:52:04] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:52:04] No text extracted from https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:52:05] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:52:05] No text extracted from https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:52:06] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:52:07] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:52:08] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:52:08] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:52:09] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:52:09] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:52:10] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:52:11] No text extracted from https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:52:12] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:52:12] No text extracted from https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:52:13] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:52:14] No text extracted from https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:52:15] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:52:15] No text extracted from https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:52:16] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:52:16] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:52:17] Page content processor finished
+[2025-06-24 10:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:00:00] Found 4 task items to process
+[2025-06-24 10:00:00] Processing page content for task item ID: 79, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 10:00:04] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 10:00:05] Processing page content for task item ID: 80, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 10:00:10] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 10:00:11] Processing page content for task item ID: 81, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 10:00:13] No text extracted from https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 10:00:14] Processing page content for task item ID: 82, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 10:00:15] No text extracted from https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 10:00:16] Page content processor finished
+[2025-06-24 10:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:10:00] No task items need page content processing
+[2025-06-24 10:10:00] Page content processor finished
+[2025-06-24 10:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:20:00] No task items need page content processing
+[2025-06-24 10:20:00] Page content processor finished
+[2025-06-24 10:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:30:00] No task items need page content processing
+[2025-06-24 10:30:00] Page content processor finished
+[2025-06-24 10:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:40:00] No task items need page content processing
+[2025-06-24 10:40:00] Page content processor finished
+[2025-06-24 10:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:50:00] No task items need page content processing
+[2025-06-24 10:50:00] Page content processor finished
+[2025-06-24 11:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:00:00] No task items need page content processing
+[2025-06-24 11:00:00] Page content processor finished
+[2025-06-24 11:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:10:00] No task items need page content processing
+[2025-06-24 11:10:00] Page content processor finished
+[2025-06-24 11:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:20:00] No task items need page content processing
+[2025-06-24 11:20:00] Page content processor finished
+[2025-06-24 11:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:30:00] No task items need page content processing
+[2025-06-24 11:30:00] Page content processor finished
+[2025-06-24 11:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:40:00] No task items need page content processing
+[2025-06-24 11:40:00] Page content processor finished
+[2025-06-24 11:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:50:00] No task items need page content processing
+[2025-06-24 11:50:00] Page content processor finished
+[2025-06-24 12:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:00:00] No task items need page content processing
+[2025-06-24 12:00:00] Page content processor finished
+[2025-06-24 12:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:10:00] No task items need page content processing
+[2025-06-24 12:10:00] Page content processor finished
+[2025-06-24 12:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:20:00] Found 2 task items to process
+[2025-06-24 12:20:00] Processing page content for task item ID: 85, URL: https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77
+[2025-06-24 12:20:00] Successfully fetched content for https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77 (417 characters)
+[2025-06-24 12:20:01] Processing page content for task item ID: 86, URL: https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77
+[2025-06-24 12:20:02] Successfully fetched content for https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77 (417 characters)
+[2025-06-24 12:20:03] Page content processor finished
+[2025-06-24 12:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:30:00] No task items need page content processing
+[2025-06-24 12:30:00] Page content processor finished
+[2025-06-24 12:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:40:00] No task items need page content processing
+[2025-06-24 12:40:00] Page content processor finished
+[2025-06-24 12:44:58] Starting page content processor. Mode: WWW
+[2025-06-24 12:44:58] No task items need page content processing
+[2025-06-24 12:44:58] Page content processor finished
+[2025-06-24 12:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:50:00] No task items need page content processing
+[2025-06-24 12:50:00] Page content processor finished
+[2025-06-24 13:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:00:00] No task items need page content processing
+[2025-06-24 13:00:00] Page content processor finished
+[2025-06-24 13:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:10:00] No task items need page content processing
+[2025-06-24 13:10:00] Page content processor finished
+[2025-06-24 13:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:20:00] No task items need page content processing
+[2025-06-24 13:20:00] Page content processor finished
+[2025-06-24 13:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:30:00] No task items need page content processing
+[2025-06-24 13:30:00] Page content processor finished
+[2025-06-24 13:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:40:00] No task items need page content processing
+[2025-06-24 13:40:00] Page content processor finished
+[2025-06-24 13:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:50:00] No task items need page content processing
+[2025-06-24 13:50:00] Page content processor finished
+[2025-06-24 14:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:00:00] No task items need page content processing
+[2025-06-24 14:00:00] Page content processor finished
+[2025-06-24 14:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:10:00] No task items need page content processing
+[2025-06-24 14:10:00] Page content processor finished
+[2025-06-24 14:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:20:00] No task items need page content processing
+[2025-06-24 14:20:00] Page content processor finished
+[2025-06-24 14:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:30:00] No task items need page content processing
+[2025-06-24 14:30:00] Page content processor finished
+[2025-06-24 14:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:40:00] No task items need page content processing
+[2025-06-24 14:40:00] Page content processor finished
+[2025-06-24 14:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:50:00] No task items need page content processing
+[2025-06-24 14:50:00] Page content processor finished
+[2025-06-24 15:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:00:00] No task items need page content processing
+[2025-06-24 15:00:00] Page content processor finished
+[2025-06-24 15:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:10:00] No task items need page content processing
+[2025-06-24 15:10:00] Page content processor finished
+[2025-06-24 15:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:20:00] No task items need page content processing
+[2025-06-24 15:20:00] Page content processor finished
+[2025-06-24 15:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:30:00] No task items need page content processing
+[2025-06-24 15:30:00] Page content processor finished
+[2025-06-24 15:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:40:00] No task items need page content processing
+[2025-06-24 15:40:00] Page content processor finished
+[2025-06-24 15:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:50:00] No task items need page content processing
+[2025-06-24 15:50:00] Page content processor finished
+[2025-06-24 16:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:00:00] No task items need page content processing
+[2025-06-24 16:00:00] Page content processor finished
+[2025-06-24 16:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:10:00] No task items need page content processing
+[2025-06-24 16:10:00] Page content processor finished
+[2025-06-24 16:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:20:00] No task items need page content processing
+[2025-06-24 16:20:00] Page content processor finished
+[2025-06-24 16:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:30:00] No task items need page content processing
+[2025-06-24 16:30:00] Page content processor finished
+[2025-06-24 16:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:40:00] No task items need page content processing
+[2025-06-24 16:40:00] Page content processor finished
+[2025-06-24 16:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:50:00] No task items need page content processing
+[2025-06-24 16:50:00] Page content processor finished
+[2025-06-24 17:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:00:00] No task items need page content processing
+[2025-06-24 17:00:00] Page content processor finished
+[2025-06-24 17:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:10:00] No task items need page content processing
+[2025-06-24 17:10:00] Page content processor finished
+[2025-06-24 17:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:20:00] No task items need page content processing
+[2025-06-24 17:20:00] Page content processor finished
+[2025-06-24 17:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:30:00] No task items need page content processing
+[2025-06-24 17:30:00] Page content processor finished
+[2025-06-24 17:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:40:00] No task items need page content processing
+[2025-06-24 17:40:00] Page content processor finished
+[2025-06-24 17:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:50:00] No task items need page content processing
+[2025-06-24 17:50:00] Page content processor finished
+[2025-06-24 18:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:00:00] No task items need page content processing
+[2025-06-24 18:00:00] Page content processor finished
+[2025-06-24 18:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:10:00] No task items need page content processing
+[2025-06-24 18:10:00] Page content processor finished
+[2025-06-24 18:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:20:00] No task items need page content processing
+[2025-06-24 18:20:00] Page content processor finished
+[2025-06-24 18:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:30:00] No task items need page content processing
+[2025-06-24 18:30:00] Page content processor finished
+[2025-06-24 18:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:40:00] No task items need page content processing
+[2025-06-24 18:40:00] Page content processor finished
+[2025-06-24 18:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:50:00] No task items need page content processing
+[2025-06-24 18:50:00] Page content processor finished
+[2025-06-24 19:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:00:00] No task items need page content processing
+[2025-06-24 19:00:00] Page content processor finished
+[2025-06-24 19:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:10:00] No task items need page content processing
+[2025-06-24 19:10:00] Page content processor finished
+[2025-06-24 19:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:20:00] No task items need page content processing
+[2025-06-24 19:20:00] Page content processor finished
+[2025-06-24 19:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:30:00] No task items need page content processing
+[2025-06-24 19:30:00] Page content processor finished
+[2025-06-24 19:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:40:00] No task items need page content processing
+[2025-06-24 19:40:00] Page content processor finished
+[2025-06-24 19:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:50:00] No task items need page content processing
+[2025-06-24 19:50:00] Page content processor finished
+[2025-06-24 20:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:00:00] No task items need page content processing
+[2025-06-24 20:00:00] Page content processor finished
+[2025-06-24 20:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:10:00] No task items need page content processing
+[2025-06-24 20:10:00] Page content processor finished
+[2025-06-24 20:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:20:00] No task items need page content processing
+[2025-06-24 20:20:00] Page content processor finished
+[2025-06-24 20:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:30:00] No task items need page content processing
+[2025-06-24 20:30:00] Page content processor finished
+[2025-06-24 20:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:40:00] No task items need page content processing
+[2025-06-24 20:40:00] Page content processor finished
+[2025-06-24 20:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:50:00] No task items need page content processing
+[2025-06-24 20:50:00] Page content processor finished
+[2025-06-24 21:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:00:00] No task items need page content processing
+[2025-06-24 21:00:00] Page content processor finished
+[2025-06-24 21:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:10:00] No task items need page content processing
+[2025-06-24 21:10:00] Page content processor finished
+[2025-06-24 21:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:20:00] No task items need page content processing
+[2025-06-24 21:20:00] Page content processor finished
+[2025-06-24 21:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:30:00] No task items need page content processing
+[2025-06-24 21:30:00] Page content processor finished
+[2025-06-24 21:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:40:00] No task items need page content processing
+[2025-06-24 21:40:00] Page content processor finished
+[2025-06-24 21:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:50:00] No task items need page content processing
+[2025-06-24 21:50:00] Page content processor finished
+[2025-06-24 22:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:00:00] No task items need page content processing
+[2025-06-24 22:00:00] Page content processor finished
+[2025-06-24 22:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:10:00] No task items need page content processing
+[2025-06-24 22:10:00] Page content processor finished
+[2025-06-24 22:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:20:00] No task items need page content processing
+[2025-06-24 22:20:00] Page content processor finished
+[2025-06-24 22:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:30:00] No task items need page content processing
+[2025-06-24 22:30:00] Page content processor finished
+[2025-06-24 22:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:40:00] No task items need page content processing
+[2025-06-24 22:40:00] Page content processor finished
+[2025-06-24 22:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:50:00] No task items need page content processing
+[2025-06-24 22:50:00] Page content processor finished
+[2025-06-24 23:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:00:00] No task items need page content processing
+[2025-06-24 23:00:00] Page content processor finished
+[2025-06-24 23:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:10:00] No task items need page content processing
+[2025-06-24 23:10:00] Page content processor finished
+[2025-06-24 23:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:20:00] No task items need page content processing
+[2025-06-24 23:20:00] Page content processor finished
+[2025-06-24 23:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:30:00] No task items need page content processing
+[2025-06-24 23:30:00] Page content processor finished
+[2025-06-24 23:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:40:00] No task items need page content processing
+[2025-06-24 23:40:00] Page content processor finished
+[2025-06-24 23:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:50:00] No task items need page content processing
+[2025-06-24 23:50:00] Page content processor finished

@@ -135,10 +135,10 @@ function callGeminiAPI($prompt, $api_key, $model = null) {
             ]
         ],
         'generationConfig' => [
-            'temperature' => $model['config']['temperature'] ?? 0.5,
+            'temperature' => $model['config']['temperature'] ?? 0.7,
             'topK' => $model['config']['topK'] ?? 60,
             'topP' => $model['config']['topP'] ?? 0.97,
-            'maxOutputTokens' => $model['max_output_tokens'] ?? 20000,
+            'maxOutputTokens' => $model['max_output_tokens'] ?? 30000,
         ],
         'safetySettings' => [
             [
@@ -395,7 +395,7 @@ function processTaskItem($pdo, $queue_item, $api_keys) {
     }
     if ($previous) {
         $replacements['previous_text'] = $previous;
-        $generate_prompt_template .= "\n\nRewrite the text in a different style than the provided previous version.";
+        $generate_prompt_template .= "\n\nPrevious text: {previous_text}\n\nRewrite the text in a different style than the provided previous version.";
     }
     
     // Zamień zmienne w promptcie generowania

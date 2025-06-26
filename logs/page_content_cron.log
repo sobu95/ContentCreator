@@ -464,3 +464,1092 @@
 [2025-06-24 08:10:00] Starting page content processor. Mode: CLI
 [2025-06-24 08:10:00] No task items need page content processing
 [2025-06-24 08:10:00] Page content processor finished
+[2025-06-24 08:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:20:00] No task items need page content processing
+[2025-06-24 08:20:00] Page content processor finished
+[2025-06-24 08:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:30:00] Found 6 task items to process
+[2025-06-24 08:30:00] Processing page content for task item ID: 23, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:30:01] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:30:02] Processing page content for task item ID: 24, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:30:03] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:30:04] Processing page content for task item ID: 25, URL: https://maicon.pl/plecaki-164
+[2025-06-24 08:30:05] Successfully fetched content for https://maicon.pl/plecaki-164 (345 characters)
+[2025-06-24 08:30:06] Processing page content for task item ID: 26, URL: https://maicon.pl/skarpety-damskie-70
+[2025-06-24 08:30:07] Successfully fetched content for https://maicon.pl/skarpety-damskie-70 (266 characters)
+[2025-06-24 08:30:08] Processing page content for task item ID: 27, URL: https://maicon.pl/chusty-106
+[2025-06-24 08:30:08] Successfully fetched content for https://maicon.pl/chusty-106 (735 characters)
+[2025-06-24 08:30:09] Processing page content for task item ID: 28, URL: https://maicon.pl/tuniki-z-krotkim-rekawem-47
+[2025-06-24 08:30:10] Successfully fetched content for https://maicon.pl/tuniki-z-krotkim-rekawem-47 (269 characters)
+[2025-06-24 08:30:11] Page content processor finished
+[2025-06-24 08:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:40:00] No task items need page content processing
+[2025-06-24 08:40:00] Page content processor finished
+[2025-06-24 08:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 08:50:00] No task items need page content processing
+[2025-06-24 08:50:00] Page content processor finished
+[2025-06-24 09:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:00:00] No task items need page content processing
+[2025-06-24 09:00:00] Page content processor finished
+[2025-06-24 09:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:10:00] No task items need page content processing
+[2025-06-24 09:10:00] Page content processor finished
+[2025-06-24 09:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:20:00] No task items need page content processing
+[2025-06-24 09:20:00] Page content processor finished
+[2025-06-24 09:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:30:00] Found 10 task items to process
+[2025-06-24 09:30:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:30:00] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:30:01] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:30:02] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:30:03] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:30:03] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:30:04] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:30:05] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:30:06] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:30:06] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:30:07] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:30:07] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:30:08] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:30:09] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:30:10] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:30:10] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:30:11] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:30:12] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:30:13] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:30:13] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:30:14] Page content processor finished
+[2025-06-24 09:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:40:00] Found 10 task items to process
+[2025-06-24 09:40:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:01] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:02] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:04] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:05] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:06] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:07] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:40:08] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:40:09] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:40:10] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:40:11] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:40:12] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:40:13] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:40:14] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:40:15] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:40:15] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:40:16] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:40:16] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:40:17] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:40:18] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:40:19] Page content processor finished
+[2025-06-24 09:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 09:50:00] Found 10 task items to process
+[2025-06-24 09:50:00] Processing page content for task item ID: 69, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:50:01] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:50:02] Processing page content for task item ID: 70, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:50:03] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:50:04] Processing page content for task item ID: 71, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:50:05] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:50:06] Processing page content for task item ID: 72, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 09:50:07] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html (0 characters)
+[2025-06-24 09:50:08] Processing page content for task item ID: 73, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 09:50:09] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html (0 characters)
+[2025-06-24 09:50:10] Processing page content for task item ID: 74, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 09:50:11] Successfully fetched content for https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html (0 characters)
+[2025-06-24 09:50:12] Processing page content for task item ID: 75, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 09:50:13] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html (0 characters)
+[2025-06-24 09:50:14] Processing page content for task item ID: 76, URL: https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html
+[2025-06-24 09:50:14] Successfully fetched content for https://tomas-tuning.com/pol_m_Oswietlenie_Halogeny-4878.html (0 characters)
+[2025-06-24 09:50:15] Processing page content for task item ID: 77, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html
+[2025-06-24 09:50:15] Successfully fetched content for https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Uklad-wydechowy-56492.html (0 characters)
+[2025-06-24 09:50:16] Processing page content for task item ID: 78, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html
+[2025-06-24 09:50:17] Successfully fetched content for https://tomas-tuning.com/pol_m_Czesci-karoserii_Spojery-lotki-na-klape-4884.html (0 characters)
+[2025-06-24 09:50:18] Page content processor finished
+[2025-06-24 10:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:00:00] Found 4 task items to process
+[2025-06-24 10:00:00] Processing page content for task item ID: 79, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+No text extracted from URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 10:00:04] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Oslony-maski-131251.html
+[2025-06-24 10:00:05] Processing page content for task item ID: 80, URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+No text extracted from URL: https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 10:00:10] No text extracted from https://tomas-tuning.com/pol_m_Czesci-karoserii_Akcesoria-chromowane-131254.html
+[2025-06-24 10:00:11] Processing page content for task item ID: 81, URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+No text extracted from URL: https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 10:00:13] No text extracted from https://tomas-tuning.com/pol_m_Akcesoria-samochodowe_Listwy-ozdobne-5024.html
+[2025-06-24 10:00:14] Processing page content for task item ID: 82, URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+No text extracted from URL: https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 10:00:15] No text extracted from https://tomas-tuning.com/pol_m_Tuning-Mechaniczny_Ospojlerowania-56488.html
+[2025-06-24 10:00:16] Page content processor finished
+[2025-06-24 10:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:10:00] No task items need page content processing
+[2025-06-24 10:10:00] Page content processor finished
+[2025-06-24 10:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:20:00] No task items need page content processing
+[2025-06-24 10:20:00] Page content processor finished
+[2025-06-24 10:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:30:00] No task items need page content processing
+[2025-06-24 10:30:00] Page content processor finished
+[2025-06-24 10:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:40:00] No task items need page content processing
+[2025-06-24 10:40:00] Page content processor finished
+[2025-06-24 10:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 10:50:00] No task items need page content processing
+[2025-06-24 10:50:00] Page content processor finished
+[2025-06-24 11:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:00:00] No task items need page content processing
+[2025-06-24 11:00:00] Page content processor finished
+[2025-06-24 11:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:10:00] No task items need page content processing
+[2025-06-24 11:10:00] Page content processor finished
+[2025-06-24 11:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:20:00] No task items need page content processing
+[2025-06-24 11:20:00] Page content processor finished
+[2025-06-24 11:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:30:00] No task items need page content processing
+[2025-06-24 11:30:00] Page content processor finished
+[2025-06-24 11:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:40:00] No task items need page content processing
+[2025-06-24 11:40:00] Page content processor finished
+[2025-06-24 11:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 11:50:00] No task items need page content processing
+[2025-06-24 11:50:00] Page content processor finished
+[2025-06-24 12:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:00:00] No task items need page content processing
+[2025-06-24 12:00:00] Page content processor finished
+[2025-06-24 12:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:10:00] No task items need page content processing
+[2025-06-24 12:10:00] Page content processor finished
+[2025-06-24 12:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:20:00] Found 2 task items to process
+[2025-06-24 12:20:00] Processing page content for task item ID: 85, URL: https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77
+[2025-06-24 12:20:00] Successfully fetched content for https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77 (417 characters)
+[2025-06-24 12:20:01] Processing page content for task item ID: 86, URL: https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77
+[2025-06-24 12:20:02] Successfully fetched content for https://sklep.ahmadtea.pl/pl/c/Winter-Wonder/77 (417 characters)
+[2025-06-24 12:20:03] Page content processor finished
+[2025-06-24 12:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:30:00] No task items need page content processing
+[2025-06-24 12:30:00] Page content processor finished
+[2025-06-24 12:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:40:00] No task items need page content processing
+[2025-06-24 12:40:00] Page content processor finished
+[2025-06-24 12:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 12:50:00] No task items need page content processing
+[2025-06-24 12:50:00] Page content processor finished
+[2025-06-24 13:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:00:00] No task items need page content processing
+[2025-06-24 13:00:00] Page content processor finished
+[2025-06-24 13:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:10:00] No task items need page content processing
+[2025-06-24 13:10:00] Page content processor finished
+[2025-06-24 13:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:20:00] No task items need page content processing
+[2025-06-24 13:20:00] Page content processor finished
+[2025-06-24 13:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:30:00] No task items need page content processing
+[2025-06-24 13:30:00] Page content processor finished
+[2025-06-24 13:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:40:00] No task items need page content processing
+[2025-06-24 13:40:00] Page content processor finished
+[2025-06-24 13:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 13:50:00] No task items need page content processing
+[2025-06-24 13:50:00] Page content processor finished
+[2025-06-24 14:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:00:00] No task items need page content processing
+[2025-06-24 14:00:00] Page content processor finished
+[2025-06-24 14:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:10:00] No task items need page content processing
+[2025-06-24 14:10:00] Page content processor finished
+[2025-06-24 14:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:20:00] No task items need page content processing
+[2025-06-24 14:20:00] Page content processor finished
+[2025-06-24 14:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:30:00] No task items need page content processing
+[2025-06-24 14:30:00] Page content processor finished
+[2025-06-24 14:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:40:00] No task items need page content processing
+[2025-06-24 14:40:00] Page content processor finished
+[2025-06-24 14:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 14:50:00] No task items need page content processing
+[2025-06-24 14:50:00] Page content processor finished
+[2025-06-24 15:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:00:00] No task items need page content processing
+[2025-06-24 15:00:00] Page content processor finished
+[2025-06-24 15:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:10:00] No task items need page content processing
+[2025-06-24 15:10:00] Page content processor finished
+[2025-06-24 15:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:20:00] No task items need page content processing
+[2025-06-24 15:20:00] Page content processor finished
+[2025-06-24 15:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:30:00] No task items need page content processing
+[2025-06-24 15:30:00] Page content processor finished
+[2025-06-24 15:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:40:00] No task items need page content processing
+[2025-06-24 15:40:00] Page content processor finished
+[2025-06-24 15:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 15:50:00] No task items need page content processing
+[2025-06-24 15:50:00] Page content processor finished
+[2025-06-24 16:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:00:00] No task items need page content processing
+[2025-06-24 16:00:00] Page content processor finished
+[2025-06-24 16:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:10:00] No task items need page content processing
+[2025-06-24 16:10:00] Page content processor finished
+[2025-06-24 16:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:20:00] No task items need page content processing
+[2025-06-24 16:20:00] Page content processor finished
+[2025-06-24 16:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:30:00] No task items need page content processing
+[2025-06-24 16:30:00] Page content processor finished
+[2025-06-24 16:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:40:00] No task items need page content processing
+[2025-06-24 16:40:00] Page content processor finished
+[2025-06-24 16:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 16:50:00] No task items need page content processing
+[2025-06-24 16:50:00] Page content processor finished
+[2025-06-24 17:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:00:00] No task items need page content processing
+[2025-06-24 17:00:00] Page content processor finished
+[2025-06-24 17:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:10:00] No task items need page content processing
+[2025-06-24 17:10:00] Page content processor finished
+[2025-06-24 17:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:20:00] No task items need page content processing
+[2025-06-24 17:20:00] Page content processor finished
+[2025-06-24 17:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:30:00] No task items need page content processing
+[2025-06-24 17:30:00] Page content processor finished
+[2025-06-24 17:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:40:00] No task items need page content processing
+[2025-06-24 17:40:00] Page content processor finished
+[2025-06-24 17:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 17:50:00] No task items need page content processing
+[2025-06-24 17:50:00] Page content processor finished
+[2025-06-24 18:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:00:00] No task items need page content processing
+[2025-06-24 18:00:00] Page content processor finished
+[2025-06-24 18:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:10:00] No task items need page content processing
+[2025-06-24 18:10:00] Page content processor finished
+[2025-06-24 18:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:20:00] No task items need page content processing
+[2025-06-24 18:20:00] Page content processor finished
+[2025-06-24 18:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:30:00] No task items need page content processing
+[2025-06-24 18:30:00] Page content processor finished
+[2025-06-24 18:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:40:00] No task items need page content processing
+[2025-06-24 18:40:00] Page content processor finished
+[2025-06-24 18:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 18:50:00] No task items need page content processing
+[2025-06-24 18:50:00] Page content processor finished
+[2025-06-24 19:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:00:00] No task items need page content processing
+[2025-06-24 19:00:00] Page content processor finished
+[2025-06-24 19:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:10:00] No task items need page content processing
+[2025-06-24 19:10:00] Page content processor finished
+[2025-06-24 19:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:20:00] No task items need page content processing
+[2025-06-24 19:20:00] Page content processor finished
+[2025-06-24 19:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:30:00] No task items need page content processing
+[2025-06-24 19:30:00] Page content processor finished
+[2025-06-24 19:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:40:00] No task items need page content processing
+[2025-06-24 19:40:00] Page content processor finished
+[2025-06-24 19:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 19:50:00] No task items need page content processing
+[2025-06-24 19:50:00] Page content processor finished
+[2025-06-24 20:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:00:00] No task items need page content processing
+[2025-06-24 20:00:00] Page content processor finished
+[2025-06-24 20:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:10:00] No task items need page content processing
+[2025-06-24 20:10:00] Page content processor finished
+[2025-06-24 20:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:20:00] No task items need page content processing
+[2025-06-24 20:20:00] Page content processor finished
+[2025-06-24 20:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:30:00] No task items need page content processing
+[2025-06-24 20:30:00] Page content processor finished
+[2025-06-24 20:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:40:00] No task items need page content processing
+[2025-06-24 20:40:00] Page content processor finished
+[2025-06-24 20:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 20:50:00] No task items need page content processing
+[2025-06-24 20:50:00] Page content processor finished
+[2025-06-24 21:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:00:00] No task items need page content processing
+[2025-06-24 21:00:00] Page content processor finished
+[2025-06-24 21:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:10:00] No task items need page content processing
+[2025-06-24 21:10:00] Page content processor finished
+[2025-06-24 21:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:20:00] No task items need page content processing
+[2025-06-24 21:20:00] Page content processor finished
+[2025-06-24 21:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:30:00] No task items need page content processing
+[2025-06-24 21:30:00] Page content processor finished
+[2025-06-24 21:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:40:00] No task items need page content processing
+[2025-06-24 21:40:00] Page content processor finished
+[2025-06-24 21:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 21:50:00] No task items need page content processing
+[2025-06-24 21:50:00] Page content processor finished
+[2025-06-24 22:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:00:00] No task items need page content processing
+[2025-06-24 22:00:00] Page content processor finished
+[2025-06-24 22:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:10:00] No task items need page content processing
+[2025-06-24 22:10:00] Page content processor finished
+[2025-06-24 22:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:20:00] No task items need page content processing
+[2025-06-24 22:20:00] Page content processor finished
+[2025-06-24 22:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:30:00] No task items need page content processing
+[2025-06-24 22:30:00] Page content processor finished
+[2025-06-24 22:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:40:00] No task items need page content processing
+[2025-06-24 22:40:00] Page content processor finished
+[2025-06-24 22:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 22:50:00] No task items need page content processing
+[2025-06-24 22:50:00] Page content processor finished
+[2025-06-24 23:00:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:00:00] No task items need page content processing
+[2025-06-24 23:00:00] Page content processor finished
+[2025-06-24 23:10:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:10:00] No task items need page content processing
+[2025-06-24 23:10:00] Page content processor finished
+[2025-06-24 23:20:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:20:00] No task items need page content processing
+[2025-06-24 23:20:00] Page content processor finished
+[2025-06-24 23:30:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:30:00] No task items need page content processing
+[2025-06-24 23:30:00] Page content processor finished
+[2025-06-24 23:40:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:40:00] No task items need page content processing
+[2025-06-24 23:40:00] Page content processor finished
+[2025-06-24 23:50:00] Starting page content processor. Mode: CLI
+[2025-06-24 23:50:00] No task items need page content processing
+[2025-06-24 23:50:00] Page content processor finished
+[2025-06-25 00:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:00:00] No task items need page content processing
+[2025-06-25 00:00:00] Page content processor finished
+[2025-06-25 00:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:10:00] No task items need page content processing
+[2025-06-25 00:10:00] Page content processor finished
+[2025-06-25 00:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:20:00] No task items need page content processing
+[2025-06-25 00:20:00] Page content processor finished
+[2025-06-25 00:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:30:00] No task items need page content processing
+[2025-06-25 00:30:00] Page content processor finished
+[2025-06-25 00:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:40:00] No task items need page content processing
+[2025-06-25 00:40:00] Page content processor finished
+[2025-06-25 00:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 00:50:00] No task items need page content processing
+[2025-06-25 00:50:00] Page content processor finished
+[2025-06-25 01:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:00:00] No task items need page content processing
+[2025-06-25 01:00:00] Page content processor finished
+[2025-06-25 01:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:10:00] No task items need page content processing
+[2025-06-25 01:10:00] Page content processor finished
+[2025-06-25 01:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:20:00] No task items need page content processing
+[2025-06-25 01:20:00] Page content processor finished
+[2025-06-25 01:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:30:00] No task items need page content processing
+[2025-06-25 01:30:00] Page content processor finished
+[2025-06-25 01:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:40:00] No task items need page content processing
+[2025-06-25 01:40:00] Page content processor finished
+[2025-06-25 01:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 01:50:00] No task items need page content processing
+[2025-06-25 01:50:00] Page content processor finished
+[2025-06-25 02:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:00:00] No task items need page content processing
+[2025-06-25 02:00:00] Page content processor finished
+[2025-06-25 02:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:10:00] No task items need page content processing
+[2025-06-25 02:10:00] Page content processor finished
+[2025-06-25 02:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:20:00] No task items need page content processing
+[2025-06-25 02:20:00] Page content processor finished
+[2025-06-25 02:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:30:00] No task items need page content processing
+[2025-06-25 02:30:00] Page content processor finished
+[2025-06-25 02:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:40:00] No task items need page content processing
+[2025-06-25 02:40:00] Page content processor finished
+[2025-06-25 02:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 02:50:00] No task items need page content processing
+[2025-06-25 02:50:00] Page content processor finished
+[2025-06-25 03:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:00:00] No task items need page content processing
+[2025-06-25 03:00:00] Page content processor finished
+[2025-06-25 03:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:10:00] No task items need page content processing
+[2025-06-25 03:10:00] Page content processor finished
+[2025-06-25 03:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:20:00] No task items need page content processing
+[2025-06-25 03:20:00] Page content processor finished
+[2025-06-25 03:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:30:00] No task items need page content processing
+[2025-06-25 03:30:00] Page content processor finished
+[2025-06-25 03:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:40:00] No task items need page content processing
+[2025-06-25 03:40:00] Page content processor finished
+[2025-06-25 03:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 03:50:00] No task items need page content processing
+[2025-06-25 03:50:00] Page content processor finished
+[2025-06-25 04:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:00:00] No task items need page content processing
+[2025-06-25 04:00:00] Page content processor finished
+[2025-06-25 04:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:10:00] No task items need page content processing
+[2025-06-25 04:10:00] Page content processor finished
+[2025-06-25 04:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:20:00] No task items need page content processing
+[2025-06-25 04:20:00] Page content processor finished
+[2025-06-25 04:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:30:00] No task items need page content processing
+[2025-06-25 04:30:00] Page content processor finished
+[2025-06-25 04:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:40:00] No task items need page content processing
+[2025-06-25 04:40:00] Page content processor finished
+[2025-06-25 04:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 04:50:00] No task items need page content processing
+[2025-06-25 04:50:00] Page content processor finished
+[2025-06-25 05:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:00:00] No task items need page content processing
+[2025-06-25 05:00:00] Page content processor finished
+[2025-06-25 05:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:10:01] No task items need page content processing
+[2025-06-25 05:10:01] Page content processor finished
+[2025-06-25 05:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:20:00] No task items need page content processing
+[2025-06-25 05:20:00] Page content processor finished
+[2025-06-25 05:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:30:00] No task items need page content processing
+[2025-06-25 05:30:00] Page content processor finished
+[2025-06-25 05:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:40:00] No task items need page content processing
+[2025-06-25 05:40:00] Page content processor finished
+[2025-06-25 05:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 05:50:00] No task items need page content processing
+[2025-06-25 05:50:00] Page content processor finished
+[2025-06-25 06:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:00:00] No task items need page content processing
+[2025-06-25 06:00:00] Page content processor finished
+[2025-06-25 06:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:10:00] No task items need page content processing
+[2025-06-25 06:10:00] Page content processor finished
+[2025-06-25 06:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:20:00] No task items need page content processing
+[2025-06-25 06:20:00] Page content processor finished
+[2025-06-25 06:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:30:00] No task items need page content processing
+[2025-06-25 06:30:00] Page content processor finished
+[2025-06-25 06:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:40:00] No task items need page content processing
+[2025-06-25 06:40:00] Page content processor finished
+[2025-06-25 06:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 06:50:00] No task items need page content processing
+[2025-06-25 06:50:00] Page content processor finished
+[2025-06-25 07:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:00:00] No task items need page content processing
+[2025-06-25 07:00:00] Page content processor finished
+[2025-06-25 07:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:10:00] No task items need page content processing
+[2025-06-25 07:10:00] Page content processor finished
+[2025-06-25 07:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:20:00] No task items need page content processing
+[2025-06-25 07:20:00] Page content processor finished
+[2025-06-25 07:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:30:00] No task items need page content processing
+[2025-06-25 07:30:00] Page content processor finished
+[2025-06-25 07:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:40:00] Found 1 task items to process
+[2025-06-25 07:40:00] Processing page content for task item ID: 91, URL: https://hrh-ig.pl/audi-q7/
+No text extracted from URL: https://hrh-ig.pl/audi-q7/
+[2025-06-25 07:40:00] No text extracted from https://hrh-ig.pl/audi-q7/
+[2025-06-25 07:40:01] Page content processor finished
+[2025-06-25 07:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 07:50:00] No task items need page content processing
+[2025-06-25 07:50:00] Page content processor finished
+[2025-06-25 08:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:00:00] No task items need page content processing
+[2025-06-25 08:00:00] Page content processor finished
+[2025-06-25 08:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:10:00] No task items need page content processing
+[2025-06-25 08:10:00] Page content processor finished
+[2025-06-25 08:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:20:00] No task items need page content processing
+[2025-06-25 08:20:00] Page content processor finished
+[2025-06-25 08:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:30:00] No task items need page content processing
+[2025-06-25 08:30:00] Page content processor finished
+[2025-06-25 08:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:40:00] No task items need page content processing
+[2025-06-25 08:40:00] Page content processor finished
+[2025-06-25 08:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 08:50:00] No task items need page content processing
+[2025-06-25 08:50:00] Page content processor finished
+[2025-06-25 09:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:00:00] No task items need page content processing
+[2025-06-25 09:00:00] Page content processor finished
+[2025-06-25 09:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:10:00] No task items need page content processing
+[2025-06-25 09:10:00] Page content processor finished
+[2025-06-25 09:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:20:00] No task items need page content processing
+[2025-06-25 09:20:00] Page content processor finished
+[2025-06-25 09:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:30:00] No task items need page content processing
+[2025-06-25 09:30:00] Page content processor finished
+[2025-06-25 09:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:40:00] No task items need page content processing
+[2025-06-25 09:40:00] Page content processor finished
+[2025-06-25 09:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 09:50:00] No task items need page content processing
+[2025-06-25 09:50:00] Page content processor finished
+[2025-06-25 10:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:00:00] No task items need page content processing
+[2025-06-25 10:00:00] Page content processor finished
+[2025-06-25 10:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:10:00] No task items need page content processing
+[2025-06-25 10:10:00] Page content processor finished
+[2025-06-25 10:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:20:00] No task items need page content processing
+[2025-06-25 10:20:00] Page content processor finished
+[2025-06-25 10:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:30:00] No task items need page content processing
+[2025-06-25 10:30:00] Page content processor finished
+[2025-06-25 10:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:40:00] No task items need page content processing
+[2025-06-25 10:40:00] Page content processor finished
+[2025-06-25 10:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 10:50:00] No task items need page content processing
+[2025-06-25 10:50:00] Page content processor finished
+[2025-06-25 11:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:00:00] No task items need page content processing
+[2025-06-25 11:00:00] Page content processor finished
+[2025-06-25 11:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:10:00] No task items need page content processing
+[2025-06-25 11:10:00] Page content processor finished
+[2025-06-25 11:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:20:00] No task items need page content processing
+[2025-06-25 11:20:00] Page content processor finished
+[2025-06-25 11:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:30:00] No task items need page content processing
+[2025-06-25 11:30:00] Page content processor finished
+[2025-06-25 11:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:40:00] No task items need page content processing
+[2025-06-25 11:40:00] Page content processor finished
+[2025-06-25 11:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 11:50:00] No task items need page content processing
+[2025-06-25 11:50:00] Page content processor finished
+[2025-06-25 12:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:00:00] No task items need page content processing
+[2025-06-25 12:00:00] Page content processor finished
+[2025-06-25 12:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:10:00] No task items need page content processing
+[2025-06-25 12:10:00] Page content processor finished
+[2025-06-25 12:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:20:00] No task items need page content processing
+[2025-06-25 12:20:00] Page content processor finished
+[2025-06-25 12:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:30:00] No task items need page content processing
+[2025-06-25 12:30:00] Page content processor finished
+[2025-06-25 12:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:40:00] No task items need page content processing
+[2025-06-25 12:40:00] Page content processor finished
+[2025-06-25 12:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 12:50:00] No task items need page content processing
+[2025-06-25 12:50:00] Page content processor finished
+[2025-06-25 13:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:00:00] No task items need page content processing
+[2025-06-25 13:00:00] Page content processor finished
+[2025-06-25 13:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:10:00] No task items need page content processing
+[2025-06-25 13:10:00] Page content processor finished
+[2025-06-25 13:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:20:00] No task items need page content processing
+[2025-06-25 13:20:00] Page content processor finished
+[2025-06-25 13:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:30:00] No task items need page content processing
+[2025-06-25 13:30:00] Page content processor finished
+[2025-06-25 13:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:40:00] No task items need page content processing
+[2025-06-25 13:40:00] Page content processor finished
+[2025-06-25 13:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 13:50:00] No task items need page content processing
+[2025-06-25 13:50:00] Page content processor finished
+[2025-06-25 14:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:00:00] No task items need page content processing
+[2025-06-25 14:00:00] Page content processor finished
+[2025-06-25 14:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:10:00] No task items need page content processing
+[2025-06-25 14:10:00] Page content processor finished
+[2025-06-25 14:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:20:00] No task items need page content processing
+[2025-06-25 14:20:00] Page content processor finished
+[2025-06-25 14:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:30:00] No task items need page content processing
+[2025-06-25 14:30:00] Page content processor finished
+[2025-06-25 14:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:40:00] No task items need page content processing
+[2025-06-25 14:40:00] Page content processor finished
+[2025-06-25 14:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 14:50:00] No task items need page content processing
+[2025-06-25 14:50:00] Page content processor finished
+[2025-06-25 15:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 15:00:00] No task items need page content processing
+[2025-06-25 15:00:00] Page content processor finished
+[2025-06-25 15:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 15:10:00] No task items need page content processing
+[2025-06-25 15:10:00] Page content processor finished
+[2025-06-25 15:20:01] Starting page content processor. Mode: CLI
+[2025-06-25 15:20:01] No task items need page content processing
+[2025-06-25 15:20:01] Page content processor finished
+[2025-06-25 15:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 15:30:00] No task items need page content processing
+[2025-06-25 15:30:00] Page content processor finished
+[2025-06-25 15:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 15:40:00] No task items need page content processing
+[2025-06-25 15:40:00] Page content processor finished
+[2025-06-25 15:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 15:50:00] No task items need page content processing
+[2025-06-25 15:50:00] Page content processor finished
+[2025-06-25 16:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:00:00] No task items need page content processing
+[2025-06-25 16:00:00] Page content processor finished
+[2025-06-25 16:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:10:00] No task items need page content processing
+[2025-06-25 16:10:00] Page content processor finished
+[2025-06-25 16:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:20:00] No task items need page content processing
+[2025-06-25 16:20:00] Page content processor finished
+[2025-06-25 16:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:30:00] No task items need page content processing
+[2025-06-25 16:30:00] Page content processor finished
+[2025-06-25 16:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:40:00] No task items need page content processing
+[2025-06-25 16:40:00] Page content processor finished
+[2025-06-25 16:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 16:50:00] No task items need page content processing
+[2025-06-25 16:50:00] Page content processor finished
+[2025-06-25 17:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:00:00] No task items need page content processing
+[2025-06-25 17:00:00] Page content processor finished
+[2025-06-25 17:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:10:00] No task items need page content processing
+[2025-06-25 17:10:00] Page content processor finished
+[2025-06-25 17:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:20:00] No task items need page content processing
+[2025-06-25 17:20:00] Page content processor finished
+[2025-06-25 17:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:30:00] No task items need page content processing
+[2025-06-25 17:30:00] Page content processor finished
+[2025-06-25 17:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:40:00] No task items need page content processing
+[2025-06-25 17:40:00] Page content processor finished
+[2025-06-25 17:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 17:50:00] No task items need page content processing
+[2025-06-25 17:50:00] Page content processor finished
+[2025-06-25 18:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:00:00] No task items need page content processing
+[2025-06-25 18:00:00] Page content processor finished
+[2025-06-25 18:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:10:00] No task items need page content processing
+[2025-06-25 18:10:00] Page content processor finished
+[2025-06-25 18:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:20:00] No task items need page content processing
+[2025-06-25 18:20:00] Page content processor finished
+[2025-06-25 18:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:30:00] No task items need page content processing
+[2025-06-25 18:30:00] Page content processor finished
+[2025-06-25 18:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:40:00] No task items need page content processing
+[2025-06-25 18:40:00] Page content processor finished
+[2025-06-25 18:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 18:50:00] No task items need page content processing
+[2025-06-25 18:50:00] Page content processor finished
+[2025-06-25 19:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:00:00] No task items need page content processing
+[2025-06-25 19:00:00] Page content processor finished
+[2025-06-25 19:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:10:00] No task items need page content processing
+[2025-06-25 19:10:00] Page content processor finished
+[2025-06-25 19:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:20:00] No task items need page content processing
+[2025-06-25 19:20:00] Page content processor finished
+[2025-06-25 19:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:30:00] No task items need page content processing
+[2025-06-25 19:30:00] Page content processor finished
+[2025-06-25 19:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:40:00] No task items need page content processing
+[2025-06-25 19:40:00] Page content processor finished
+[2025-06-25 19:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 19:50:00] No task items need page content processing
+[2025-06-25 19:50:00] Page content processor finished
+[2025-06-25 20:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:00:00] No task items need page content processing
+[2025-06-25 20:00:00] Page content processor finished
+[2025-06-25 20:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:10:00] No task items need page content processing
+[2025-06-25 20:10:00] Page content processor finished
+[2025-06-25 20:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:20:00] No task items need page content processing
+[2025-06-25 20:20:00] Page content processor finished
+[2025-06-25 20:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:30:00] No task items need page content processing
+[2025-06-25 20:30:00] Page content processor finished
+[2025-06-25 20:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:40:00] No task items need page content processing
+[2025-06-25 20:40:00] Page content processor finished
+[2025-06-25 20:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 20:50:00] No task items need page content processing
+[2025-06-25 20:50:00] Page content processor finished
+[2025-06-25 21:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:00:00] No task items need page content processing
+[2025-06-25 21:00:00] Page content processor finished
+[2025-06-25 21:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:10:00] No task items need page content processing
+[2025-06-25 21:10:00] Page content processor finished
+[2025-06-25 21:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:20:00] No task items need page content processing
+[2025-06-25 21:20:00] Page content processor finished
+[2025-06-25 21:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:30:00] No task items need page content processing
+[2025-06-25 21:30:00] Page content processor finished
+[2025-06-25 21:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:40:00] No task items need page content processing
+[2025-06-25 21:40:00] Page content processor finished
+[2025-06-25 21:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 21:50:00] No task items need page content processing
+[2025-06-25 21:50:00] Page content processor finished
+[2025-06-25 22:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:00:00] No task items need page content processing
+[2025-06-25 22:00:00] Page content processor finished
+[2025-06-25 22:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:10:00] No task items need page content processing
+[2025-06-25 22:10:00] Page content processor finished
+[2025-06-25 22:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:20:00] No task items need page content processing
+[2025-06-25 22:20:00] Page content processor finished
+[2025-06-25 22:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:30:00] No task items need page content processing
+[2025-06-25 22:30:00] Page content processor finished
+[2025-06-25 22:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:40:00] No task items need page content processing
+[2025-06-25 22:40:00] Page content processor finished
+[2025-06-25 22:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 22:50:00] No task items need page content processing
+[2025-06-25 22:50:00] Page content processor finished
+[2025-06-25 23:00:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:00:00] No task items need page content processing
+[2025-06-25 23:00:00] Page content processor finished
+[2025-06-25 23:10:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:10:00] No task items need page content processing
+[2025-06-25 23:10:00] Page content processor finished
+[2025-06-25 23:20:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:20:00] No task items need page content processing
+[2025-06-25 23:20:00] Page content processor finished
+[2025-06-25 23:30:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:30:00] No task items need page content processing
+[2025-06-25 23:30:00] Page content processor finished
+[2025-06-25 23:40:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:40:00] No task items need page content processing
+[2025-06-25 23:40:00] Page content processor finished
+[2025-06-25 23:50:00] Starting page content processor. Mode: CLI
+[2025-06-25 23:50:00] No task items need page content processing
+[2025-06-25 23:50:00] Page content processor finished
+[2025-06-26 00:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:00:00] No task items need page content processing
+[2025-06-26 00:00:00] Page content processor finished
+[2025-06-26 00:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:10:00] No task items need page content processing
+[2025-06-26 00:10:00] Page content processor finished
+[2025-06-26 00:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:20:00] No task items need page content processing
+[2025-06-26 00:20:00] Page content processor finished
+[2025-06-26 00:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:30:00] No task items need page content processing
+[2025-06-26 00:30:00] Page content processor finished
+[2025-06-26 00:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:40:00] No task items need page content processing
+[2025-06-26 00:40:00] Page content processor finished
+[2025-06-26 00:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 00:50:00] No task items need page content processing
+[2025-06-26 00:50:00] Page content processor finished
+[2025-06-26 01:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:00:00] No task items need page content processing
+[2025-06-26 01:00:00] Page content processor finished
+[2025-06-26 01:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:10:00] No task items need page content processing
+[2025-06-26 01:10:00] Page content processor finished
+[2025-06-26 01:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:20:00] No task items need page content processing
+[2025-06-26 01:20:00] Page content processor finished
+[2025-06-26 01:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:30:00] No task items need page content processing
+[2025-06-26 01:30:00] Page content processor finished
+[2025-06-26 01:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:40:00] No task items need page content processing
+[2025-06-26 01:40:00] Page content processor finished
+[2025-06-26 01:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 01:50:00] No task items need page content processing
+[2025-06-26 01:50:00] Page content processor finished
+[2025-06-26 02:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:00:00] No task items need page content processing
+[2025-06-26 02:00:00] Page content processor finished
+[2025-06-26 02:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:10:00] No task items need page content processing
+[2025-06-26 02:10:00] Page content processor finished
+[2025-06-26 02:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:20:00] No task items need page content processing
+[2025-06-26 02:20:00] Page content processor finished
+[2025-06-26 02:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:30:00] No task items need page content processing
+[2025-06-26 02:30:00] Page content processor finished
+[2025-06-26 02:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:40:00] No task items need page content processing
+[2025-06-26 02:40:00] Page content processor finished
+[2025-06-26 02:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 02:50:00] No task items need page content processing
+[2025-06-26 02:50:00] Page content processor finished
+[2025-06-26 03:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:00:00] No task items need page content processing
+[2025-06-26 03:00:00] Page content processor finished
+[2025-06-26 03:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:10:00] No task items need page content processing
+[2025-06-26 03:10:00] Page content processor finished
+[2025-06-26 03:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:20:00] No task items need page content processing
+[2025-06-26 03:20:00] Page content processor finished
+[2025-06-26 03:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:30:00] No task items need page content processing
+[2025-06-26 03:30:00] Page content processor finished
+[2025-06-26 03:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:40:00] No task items need page content processing
+[2025-06-26 03:40:00] Page content processor finished
+[2025-06-26 03:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 03:50:00] No task items need page content processing
+[2025-06-26 03:50:00] Page content processor finished
+[2025-06-26 04:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:00:00] No task items need page content processing
+[2025-06-26 04:00:00] Page content processor finished
+[2025-06-26 04:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:10:00] No task items need page content processing
+[2025-06-26 04:10:00] Page content processor finished
+[2025-06-26 04:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:20:00] No task items need page content processing
+[2025-06-26 04:20:00] Page content processor finished
+[2025-06-26 04:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:30:00] No task items need page content processing
+[2025-06-26 04:30:00] Page content processor finished
+[2025-06-26 04:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:40:00] No task items need page content processing
+[2025-06-26 04:40:00] Page content processor finished
+[2025-06-26 04:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 04:50:00] No task items need page content processing
+[2025-06-26 04:50:00] Page content processor finished
+[2025-06-26 05:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:00:00] No task items need page content processing
+[2025-06-26 05:00:00] Page content processor finished
+[2025-06-26 05:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:10:00] No task items need page content processing
+[2025-06-26 05:10:00] Page content processor finished
+[2025-06-26 05:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:20:00] No task items need page content processing
+[2025-06-26 05:20:00] Page content processor finished
+[2025-06-26 05:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:30:00] No task items need page content processing
+[2025-06-26 05:30:00] Page content processor finished
+[2025-06-26 05:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:40:00] No task items need page content processing
+[2025-06-26 05:40:00] Page content processor finished
+[2025-06-26 05:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 05:50:00] No task items need page content processing
+[2025-06-26 05:50:00] Page content processor finished
+[2025-06-26 06:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:00:00] No task items need page content processing
+[2025-06-26 06:00:00] Page content processor finished
+[2025-06-26 06:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:10:00] No task items need page content processing
+[2025-06-26 06:10:00] Page content processor finished
+[2025-06-26 06:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:20:00] No task items need page content processing
+[2025-06-26 06:20:00] Page content processor finished
+[2025-06-26 06:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:30:00] No task items need page content processing
+[2025-06-26 06:30:00] Page content processor finished
+[2025-06-26 06:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:40:00] No task items need page content processing
+[2025-06-26 06:40:00] Page content processor finished
+[2025-06-26 06:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 06:50:00] No task items need page content processing
+[2025-06-26 06:50:00] Page content processor finished
+[2025-06-26 07:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:00:00] No task items need page content processing
+[2025-06-26 07:00:00] Page content processor finished
+[2025-06-26 07:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:10:00] No task items need page content processing
+[2025-06-26 07:10:00] Page content processor finished
+[2025-06-26 07:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:20:00] No task items need page content processing
+[2025-06-26 07:20:00] Page content processor finished
+[2025-06-26 07:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:30:00] Found 6 task items to process
+[2025-06-26 07:30:00] Processing page content for task item ID: 140, URL: https://magnes.com.pl/tra-pol-3018-Lateksowa-na-bazie-wody.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-3018-Lateksowa-na-bazie-wody.html
+[2025-06-26 07:30:01] Successfully fetched content for https://magnes.com.pl/tra-pol-3018-Lateksowa-na-bazie-wody.html (6026 characters)
+[2025-06-26 07:30:02] Processing page content for task item ID: 142, URL: https://magnes.com.pl/tra-pol-1036-500Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1036-500Kg.html
+[2025-06-26 07:30:02] Successfully fetched content for https://magnes.com.pl/tra-pol-1036-500Kg.html (5675 characters)
+[2025-06-26 07:30:03] Processing page content for task item ID: 143, URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+[2025-06-26 07:30:04] Successfully fetched content for https://magnes.com.pl/tra-pol-1535-250Kg.html (5953 characters)
+[2025-06-26 07:30:05] Processing page content for task item ID: 144, URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+[2025-06-26 07:30:05] Successfully fetched content for https://magnes.com.pl/tra-pol-1534-150Kg.html (5953 characters)
+[2025-06-26 07:30:06] Processing page content for task item ID: 145, URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+[2025-06-26 07:30:07] Successfully fetched content for https://magnes.com.pl/tra-pol-3155-100-kg.html (5461 characters)
+[2025-06-26 07:30:08] Processing page content for task item ID: 146, URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+[2025-06-26 07:30:08] Successfully fetched content for https://magnes.com.pl/tra-pol-1537-300Kg.html (6398 characters)
+[2025-06-26 07:30:09] Page content processor finished
+[2025-06-26 07:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:40:00] No task items need page content processing
+[2025-06-26 07:40:00] Page content processor finished
+[2025-06-26 07:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 07:50:00] No task items need page content processing
+[2025-06-26 07:50:00] Page content processor finished
+[2025-06-26 08:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:00:00] No task items need page content processing
+[2025-06-26 08:00:00] Page content processor finished
+[2025-06-26 08:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:10:00] Found 10 task items to process
+[2025-06-26 08:10:00] Processing page content for task item ID: 147, URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+[2025-06-26 08:10:00] Successfully fetched content for https://magnes.com.pl/tra-pol-1535-250Kg.html (5953 characters)
+[2025-06-26 08:10:01] Processing page content for task item ID: 148, URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+[2025-06-26 08:10:02] Successfully fetched content for https://magnes.com.pl/tra-pol-1534-150Kg.html (5953 characters)
+[2025-06-26 08:10:03] Processing page content for task item ID: 149, URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+[2025-06-26 08:10:04] Successfully fetched content for https://magnes.com.pl/tra-pol-3155-100-kg.html (5461 characters)
+[2025-06-26 08:10:05] Processing page content for task item ID: 150, URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+[2025-06-26 08:10:05] Successfully fetched content for https://magnes.com.pl/tra-pol-1537-300Kg.html (6398 characters)
+[2025-06-26 08:10:06] Processing page content for task item ID: 151, URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+[2025-06-26 08:10:06] Successfully fetched content for https://magnes.com.pl/tra-pol-1535-250Kg.html (5953 characters)
+[2025-06-26 08:10:07] Processing page content for task item ID: 152, URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+[2025-06-26 08:10:08] Successfully fetched content for https://magnes.com.pl/tra-pol-1534-150Kg.html (5953 characters)
+[2025-06-26 08:10:09] Processing page content for task item ID: 153, URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-3155-100-kg.html
+[2025-06-26 08:10:09] Successfully fetched content for https://magnes.com.pl/tra-pol-3155-100-kg.html (5461 characters)
+[2025-06-26 08:10:10] Processing page content for task item ID: 154, URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1537-300Kg.html
+[2025-06-26 08:10:10] Successfully fetched content for https://magnes.com.pl/tra-pol-1537-300Kg.html (6398 characters)
+[2025-06-26 08:10:11] Processing page content for task item ID: 155, URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1535-250Kg.html
+[2025-06-26 08:10:11] Successfully fetched content for https://magnes.com.pl/tra-pol-1535-250Kg.html (5953 characters)
+[2025-06-26 08:10:12] Processing page content for task item ID: 156, URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-1534-150Kg.html
+[2025-06-26 08:10:13] Successfully fetched content for https://magnes.com.pl/tra-pol-1534-150Kg.html (5953 characters)
+[2025-06-26 08:10:14] Page content processor finished
+[2025-06-26 08:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:20:00] No task items need page content processing
+[2025-06-26 08:20:00] Page content processor finished
+[2025-06-26 08:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:30:00] No task items need page content processing
+[2025-06-26 08:30:00] Page content processor finished
+[2025-06-26 08:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:40:00] No task items need page content processing
+[2025-06-26 08:40:00] Page content processor finished
+[2025-06-26 08:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 08:50:00] No task items need page content processing
+[2025-06-26 08:50:00] Page content processor finished
+[2025-06-26 09:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:00:00] No task items need page content processing
+[2025-06-26 09:00:00] Page content processor finished
+[2025-06-26 09:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:10:00] No task items need page content processing
+[2025-06-26 09:10:00] Page content processor finished
+[2025-06-26 09:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:20:00] Found 1 task items to process
+[2025-06-26 09:20:00] Processing page content for task item ID: 163, URL: https://magnes.com.pl/tra-pol-2827-590-kg.html
+No text extracted from URL: https://magnes.com.pl/tra-pol-2827-590-kg.html
+[2025-06-26 09:20:01] Successfully fetched content for https://magnes.com.pl/tra-pol-2827-590-kg.html (5780 characters)
+[2025-06-26 09:20:02] Page content processor finished
+[2025-06-26 09:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:30:00] No task items need page content processing
+[2025-06-26 09:30:00] Page content processor finished
+[2025-06-26 09:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:40:00] No task items need page content processing
+[2025-06-26 09:40:00] Page content processor finished
+[2025-06-26 09:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 09:50:00] No task items need page content processing
+[2025-06-26 09:50:00] Page content processor finished
+[2025-06-26 10:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:00:00] No task items need page content processing
+[2025-06-26 10:00:00] Page content processor finished
+[2025-06-26 10:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:10:00] No task items need page content processing
+[2025-06-26 10:10:00] Page content processor finished
+[2025-06-26 10:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:20:00] No task items need page content processing
+[2025-06-26 10:20:00] Page content processor finished
+[2025-06-26 10:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:30:00] No task items need page content processing
+[2025-06-26 10:30:00] Page content processor finished
+[2025-06-26 10:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:40:00] No task items need page content processing
+[2025-06-26 10:40:00] Page content processor finished
+[2025-06-26 10:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 10:50:00] No task items need page content processing
+[2025-06-26 10:50:00] Page content processor finished
+[2025-06-26 11:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:00:00] No task items need page content processing
+[2025-06-26 11:00:00] Page content processor finished
+[2025-06-26 11:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:10:00] No task items need page content processing
+[2025-06-26 11:10:00] Page content processor finished
+[2025-06-26 11:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:20:00] No task items need page content processing
+[2025-06-26 11:20:00] Page content processor finished
+[2025-06-26 11:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:30:00] No task items need page content processing
+[2025-06-26 11:30:00] Page content processor finished
+[2025-06-26 11:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:40:00] No task items need page content processing
+[2025-06-26 11:40:00] Page content processor finished
+[2025-06-26 11:50:00] Starting page content processor. Mode: CLI
+[2025-06-26 11:50:00] Found 1 task items to process
+[2025-06-26 11:50:00] Processing page content for task item ID: 164, URL: https://odnovapoznan.pl/masaz-kobido
+[2025-06-26 11:50:00] Successfully fetched content for https://odnovapoznan.pl/masaz-kobido (21 characters)
+[2025-06-26 11:50:01] Page content processor finished
+[2025-06-26 12:00:00] Starting page content processor. Mode: CLI
+[2025-06-26 12:00:00] No task items need page content processing
+[2025-06-26 12:00:00] Page content processor finished
+[2025-06-26 12:10:00] Starting page content processor. Mode: CLI
+[2025-06-26 12:10:00] No task items need page content processing
+[2025-06-26 12:10:00] Page content processor finished
+[2025-06-26 12:20:00] Starting page content processor. Mode: CLI
+[2025-06-26 12:20:00] No task items need page content processing
+[2025-06-26 12:20:00] Page content processor finished
+[2025-06-26 12:30:00] Starting page content processor. Mode: CLI
+[2025-06-26 12:30:00] No task items need page content processing
+[2025-06-26 12:30:00] Page content processor finished
+[2025-06-26 12:40:00] Starting page content processor. Mode: CLI
+[2025-06-26 12:40:00] No task items need page content processing
+[2025-06-26 12:40:00] Page content processor finished

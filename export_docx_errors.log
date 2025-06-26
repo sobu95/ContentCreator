@@ -115,3 +115,35 @@ Stack trace:
 [2025-06-23 11:35:15] INFO: Przetwarzanie elementu 3/3 dla zadania 3. URL: https://stiulove.pl/pl/c/Poduszka-Supel-MINI/65. Podgląd oczyszczonego tekstu: '<p>Poszukujesz małej poduszki supeł, idealnej do pokoju dziecięcego? W naszej ofercie znajdziesz szeroki wybór uroczych i praktycznych mini poduszek, które doskonale sprawdzą się jako dekoracja pokoju...'
 [2025-06-23 11:35:15] INFO: Pomyślnie dodano 5 plików do archiwum ZIP dla zadania 3.
 [2025-06-23 11:35:15] INFO: Plik DOCX /tmp/docx_68591fd3e2178.docx został pomyślnie utworzony.
+[2025-06-25 15:36:42] Rozpoczęcie generowania DOCX dla zadania ID 38. Tymczasowy katalog bazowy: /tmp/. Docelowy katalog tymczasowy: /tmp/docx_685bfb6ae9af9
+[2025-06-25 15:36:42] INFO: Przetwarzanie elementu 1/2 dla zadania 38. URL: https://nexun.pl/pl/producers/mitas-1744614295.html. Podgląd surowego tekstu: '<p>Wybór odpowiedniego ogumienia rowerowego ma kluczowe znaczenie dla komfortu i bezpieczeństwa jazdy. Produkty Mitas, znane z niezawodności i innowacyjności, stanowią doskonałe rozwiązanie dla każdeg...'
+[2025-06-25 15:36:42] INFO: Przetwarzanie elementu 1/2 dla zadania 38. URL: https://nexun.pl/pl/producers/mitas-1744614295.html. Podgląd oczyszczonego tekstu: '<p>Wybór odpowiedniego ogumienia rowerowego ma kluczowe znaczenie dla komfortu i bezpieczeństwa jazdy. Produkty Mitas, znane z niezawodności i innowacyjności, stanowią doskonałe rozwiązanie dla każdeg...'
+[2025-06-25 15:36:42] INFO: Przetwarzanie elementu 2/2 dla zadania 38. URL: https://nexun.pl/pl/producers/kenda-1741774293.html. Podgląd surowego tekstu: '<p>Kenda to ceniona marka opon i dętek rowerowych, która od lat dostarcza produkty najwyższej jakości. Jej bogate doświadczenie na rynku przekłada się na innowacyjne rozwiązania i niezawodność w każdy...'
+[2025-06-25 15:36:42] INFO: Przetwarzanie elementu 2/2 dla zadania 38. URL: https://nexun.pl/pl/producers/kenda-1741774293.html. Podgląd oczyszczonego tekstu: '<p>Kenda to ceniona marka opon i dętek rowerowych, która od lat dostarcza produkty najwyższej jakości. Jej bogate doświadczenie na rynku przekłada się na innowacyjne rozwiązania i niezawodność w każdy...'
+[2025-06-25 15:36:42] INFO: Pomyślnie dodano 5 plików do archiwum ZIP dla zadania 38.
+[2025-06-25 15:36:42] INFO: Plik DOCX /tmp/docx_685bfb6ae9af9.docx został pomyślnie utworzony.
+[2025-06-26 09:37:45] Rozpoczęcie generowania DOCX dla zadania ID 42. Tymczasowy katalog bazowy: /tmp/. Docelowy katalog tymczasowy: /tmp/docx_685cf8c92b30a
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 1/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1535-250Kg.html. Podgląd surowego tekstu: '<h2>Właściwości i zastosowanie magnesu neodymowego 250 kg</h2>
+<p>
+Magnesy neodymowe o udźwigu 250 kg to jedne z najmocniejszych dostępnych na rynku rozwiązań magnetycznych, cenione za swoją wyjątkową...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 1/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1535-250Kg.html. Podgląd oczyszczonego tekstu: '<h2>Właściwości i zastosowanie magnesu neodymowego 250 kg</h2>
+<p>
+Magnesy neodymowe o udźwigu 250 kg to jedne z najmocniejszych dostępnych na rynku rozwiązań magnetycznych, cenione za swoją wyjątkową...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 2/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1534-150Kg.html. Podgląd surowego tekstu: '<h2>Charakterystyka magnesu neodymowego o udźwigu 150 kg</h2>
+<p>
+Odkryj niezwykłą siłę i wszechstronność magnesów neodymowych, które stanowią serce wielu nowoczesnych rozwiązań w przemyśle, warsztaci...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 2/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1534-150Kg.html. Podgląd oczyszczonego tekstu: '<h2>Charakterystyka magnesu neodymowego o udźwigu 150 kg</h2>
+<p>
+Odkryj niezwykłą siłę i wszechstronność magnesów neodymowych, które stanowią serce wielu nowoczesnych rozwiązań w przemyśle, warsztaci...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 3/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-3155-100-kg.html. Podgląd surowego tekstu: '<h2>Magnes neodymowy 100 kg – charakterystyka i właściwości</h2>
+<p>Odkryj niezwykłą siłę przyciągania z naszymi magnesami neodymowymi o udźwigu 100 kg, które stanowią doskonałe rozwiązanie dla szerok...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 3/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-3155-100-kg.html. Podgląd oczyszczonego tekstu: '<h2>Magnes neodymowy 100 kg – charakterystyka i właściwości</h2>
+<p>Odkryj niezwykłą siłę przyciągania z naszymi magnesami neodymowymi o udźwigu 100 kg, które stanowią doskonałe rozwiązanie dla szerok...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 4/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1537-300Kg.html. Podgląd surowego tekstu: '<h2>Cechy i właściwości magnesu neodymowego o udźwigu 300 kg</h2>
+<p>
+Odkryj niezwykłą siłę i wszechstronność magnesów neodymowych o imponującym udźwigu 300 kg, które stanowią kluczowe rozwiązanie dla...'
+[2025-06-26 09:37:45] INFO: Przetwarzanie elementu 4/4 dla zadania 42. URL: https://magnes.com.pl/tra-pol-1537-300Kg.html. Podgląd oczyszczonego tekstu: '<h2>Cechy i właściwości magnesu neodymowego o udźwigu 300 kg</h2>
+<p>
+Odkryj niezwykłą siłę i wszechstronność magnesów neodymowych o imponującym udźwigu 300 kg, które stanowią kluczowe rozwiązanie dla...'
+[2025-06-26 09:37:45] INFO: Pomyślnie dodano 5 plików do archiwum ZIP dla zadania 42.
+[2025-06-26 09:37:45] INFO: Plik DOCX /tmp/docx_685cf8c92b30a.docx został pomyślnie utworzony.
