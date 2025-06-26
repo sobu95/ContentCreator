@@ -57,7 +57,7 @@ function fetchPageContent($url) {
         $result = $cleaned_content;
 
         if (strlen(trim($cleaned_content)) === 0) {
-            error_log("No text extracted from URL: $url");
+            error_log("No text extracted from URL after fallback: $url");
             $anchor_text = extractAnchorText($html);
             if ($anchor_text !== null) {
                 $result = $anchor_text;
@@ -170,11 +170,28 @@ function cleanHtmlContent($html) {
         } else {
             $textContent = $dom->textContent;
         }
-        
+
         // Wyczyść tekst
         $textContent = html_entity_decode($textContent, ENT_QUOTES | ENT_HTML5, 'UTF-8');
         $textContent = preg_replace('/\s+/', ' ', $textContent);
         $textContent = trim($textContent);
+
+        // Jeśli nadal brak treści, spróbuj zebrać wszystkie <p> i <h1>-<h6>
+        if ($textContent === '') {
+            $xpath = new DOMXPath($dom);
+            $nodes = $xpath->query('//p | //h1 | //h2 | //h3 | //h4 | //h5 | //h6');
+            $parts = [];
+            foreach ($nodes as $node) {
+                $t = trim($node->textContent);
+                if ($t !== '') {
+                    $parts[] = $t;
+                }
+            }
+            $textContent = implode("\n", $parts);
+            $textContent = html_entity_decode($textContent, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+            $textContent = preg_replace('/\s+/', ' ', $textContent);
+            $textContent = trim($textContent);
+        }
         
         // Ogranicz długość do 3000 znaków
         if (strlen($textContent) > 10000) {
