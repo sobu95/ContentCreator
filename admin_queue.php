@@ -228,6 +228,7 @@ $queue_items = $stmt->fetchAll();
                                             <th>Projekt</th>
                                             <th>Zadanie</th>
                                             <th>URL</th>
+                                            <th>Treść</th>
                                             <th>Status</th>
                                             <th>Priorytet</th>
                                             <th>Próby</th>
@@ -247,6 +248,11 @@ $queue_items = $stmt->fetchAll();
                                                     <div style="max-width: 150px; word-break: break-all; font-size: 0.8em;">
                                                         <?= htmlspecialchars($item['url']) ?>
                                                     </div>
+                                                </td>
+                                                <td>
+                                                    <button class="btn btn-sm btn-outline-primary" onclick="showPageContent(<?= $item['task_item_id'] ?>)" title="Pokaż treść">
+                                                        <i class="fas fa-file-alt"></i>
+                                                    </button>
                                                 </td>
                                                 <td>
                                                     <?php
@@ -323,13 +329,50 @@ $queue_items = $stmt->fetchAll();
             </div>
         </div>
     </div>
-    
+
+    <!-- Modal treści strony -->
+    <div class="modal fade" id="pageContentModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Treść strony</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <pre id="pageContentBody" class="bg-light p-3"></pre>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zamknij</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         function showError(message) {
             document.getElementById('errorContent').textContent = message;
             var modal = new bootstrap.Modal(document.getElementById('errorModal'));
             modal.show();
+        }
+
+        async function showPageContent(taskItemId) {
+            const modalEl = document.getElementById('pageContentModal');
+            const bodyEl = document.getElementById('pageContentBody');
+            bodyEl.textContent = 'Ładowanie...';
+            const modal = new bootstrap.Modal(modalEl);
+            modal.show();
+            try {
+                const response = await fetch('ajax_get_page_content.php?task_item_id=' + taskItemId);
+                const data = await response.json();
+                if (data.error) {
+                    bodyEl.textContent = data.error;
+                } else {
+                    bodyEl.textContent = data.page_content;
+                }
+            } catch (e) {
+                bodyEl.textContent = 'Błąd ładowania treści';
+            }
         }
     </script>
 </body>
