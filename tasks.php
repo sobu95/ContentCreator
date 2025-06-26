@@ -408,7 +408,7 @@ unset($task);
     <div class="modal fade" id="taskModal" tabindex="-1">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
-                <form method="POST" id="taskForm">
+                <form method="POST" action="tasks.php<?= $project_id ? '?project_id='.$project_id : '' ?>" id="taskForm">
                     <?= csrf_field() ?>
                     <input type="hidden" name="action" value="create_task">
                     <div class="modal-header">
