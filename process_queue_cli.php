@@ -90,7 +90,8 @@ try {
     $output = [];
     $return_code = 0;
     
-    $command = "/usr/bin/php " . escapeshellarg($app_root . "/process_queue.php") . " 2>&1";
+    // Użyj tego samego interpretera PHP, który uruchomił ten skrypt
+    $command = escapeshellarg(PHP_BINARY) . ' ' . escapeshellarg($app_root . "/process_queue.php") . " 2>&1";
     exec($command, $output, $return_code);
     
     // Zaloguj wynik
