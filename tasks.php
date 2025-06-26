@@ -483,8 +483,16 @@ unset($task);
 
                         <hr>
                         
-                        <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h6 class="mb-0">Adresy URL i ich parametry</h6>
+                        <div class="d-flex flex-wrap align-items-center mb-3 gap-2">
+                            <h6 class="mb-0 me-auto">Adresy URL i ich parametry</h6>
+                            <div class="input-group input-group-sm" style="width: 140px;">
+                                <input type="number" class="form-control" id="url_count_input" value="1" min="1">
+                                <button type="button" class="btn btn-outline-primary" onclick="generateUrlItems()">Generuj</button>
+                            </div>
+                            <div class="input-group input-group-sm" style="width: 180px;">
+                                <input type="number" class="form-control" id="characters_global_value" placeholder="Liczba znaków">
+                                <button type="button" class="btn btn-outline-secondary" onclick="applyCharacterValue()">Ustaw</button>
+                            </div>
                             <button type="button" class="btn btn-outline-primary btn-sm" onclick="addUrlItem()">
                                 <i class="fas fa-plus"></i> Dodaj kolejny URL
                             </button>
@@ -560,7 +568,7 @@ unset($task);
             }
         }
         
-        async function loadContentTypeFields() {
+async function loadContentTypeFields() {
             const contentTypeId = document.getElementById('content_type_id').value;
             
             if (!contentTypeId) {
@@ -574,16 +582,34 @@ unset($task);
                 const data = await response.json();
                 currentFields = data.fields;
                 
-                // Wyczyść istniejące URL items i dodaj pierwszy
+                // Wyczyść istniejące URL items i dodaj wymagane
                 document.getElementById('url_items_container').innerHTML = '';
                 urlItemIndex = 0;
-                addUrlItem();
+                generateUrlItems();
                 
             } catch (error) {
                 console.error('Error loading content type fields:', error);
             }
+}
+
+        function generateUrlItems() {
+            const count = parseInt(document.getElementById('url_count_input').value) || 1;
+            const container = document.getElementById('url_items_container');
+            container.innerHTML = '';
+            urlItemIndex = 0;
+            for (let i = 0; i < count; i++) {
+                addUrlItem();
+            }
         }
-        
+
+        function applyCharacterValue() {
+            const value = document.getElementById('characters_global_value').value;
+            if (!value) return;
+            document.querySelectorAll('input[name^="characters["]').forEach(el => {
+                el.value = value;
+            });
+        }
+
         function addUrlItem() {
             const container = document.getElementById('url_items_container');
             const index = urlItemIndex++;
@@ -632,6 +658,7 @@ unset($task);
             html += '</div>';
             
             container.insertAdjacentHTML('beforeend', html);
+            applyCharacterValue();
         }
         
         function removeUrlItem(index) {
@@ -671,6 +698,8 @@ unset($task);
             document.getElementById('content_type_id').value = '';
             document.getElementById('url_items_container').innerHTML = '';
             document.getElementById('similar_categories').checked = false;
+            document.getElementById('url_count_input').value = '1';
+            document.getElementById('characters_global_value').value = '';
             currentFields = {};
             urlItemIndex = 0;
         });
