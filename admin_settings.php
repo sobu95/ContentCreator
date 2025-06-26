@@ -20,6 +20,7 @@ if ($_POST) {
             $gemini_api_key = trim($_POST['gemini_api_key']);
             $anthropic_api_key = trim($_POST['anthropic_api_key']);
             $processing_delay = intval($_POST['processing_delay_minutes']);
+            $page_content_delay = intval($_POST['page_content_delay_seconds']);
             
             try {
                 // Zapisz klucz API Gemini
@@ -33,6 +34,10 @@ if ($_POST) {
                 // Zapisz opóźnienie przetwarzania
                 $stmt = $pdo->prepare("INSERT INTO settings (setting_key, setting_value) VALUES ('processing_delay_minutes', ?) ON DUPLICATE KEY UPDATE setting_value = VALUES(setting_value)");
                 $stmt->execute([$processing_delay]);
+
+                // Zapisz opóźnienie pobierania treści stron
+                $stmt = $pdo->prepare("INSERT INTO settings (setting_key, setting_value) VALUES ('page_content_delay_seconds', ?) ON DUPLICATE KEY UPDATE setting_value = VALUES(setting_value)");
+                $stmt->execute([$page_content_delay]);
                 
                 $success = 'Ustawienia zostały zapisane.';
             } catch(Exception $e) {
@@ -285,10 +290,19 @@ $language_models = $stmt->fetchAll();
                                     
                                     <div class="mb-3">
                                         <label for="processing_delay_minutes" class="form-label">Opóźnienie przetwarzania (minuty)</label>
-                                        <input type="number" class="form-control" id="processing_delay_minutes" name="processing_delay_minutes" 
+                                        <input type="number" class="form-control" id="processing_delay_minutes" name="processing_delay_minutes"
                                                value="<?= htmlspecialchars($settings['processing_delay_minutes'] ?? '1') ?>" min="0" max="60">
                                         <div class="form-text">
                                             Czas oczekiwania przed pierwszą próbą przetwarzania zadania (w minutach).
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="page_content_delay_seconds" class="form-label">Opóźnienie pobierania treści (sekundy)</label>
+                                        <input type="number" class="form-control" id="page_content_delay_seconds" name="page_content_delay_seconds"
+                                               value="<?= htmlspecialchars($settings['page_content_delay_seconds'] ?? '2') ?>" min="0" max="30">
+                                        <div class="form-text">
+                                            Pauza między kolejnymi żądaniami pobierania treści stron (w sekundach).
                                         </div>
                                     </div>
                                     

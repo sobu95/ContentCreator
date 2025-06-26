@@ -366,6 +366,9 @@ Usuń wszystkie znaki nowej linii (\n, \n\n).';
         // Dodaj domyślne ustawienia
         $stmt = $pdo->prepare("INSERT INTO settings (setting_key, setting_value) VALUES ('processing_delay_minutes', '1')");
         $stmt->execute();
+
+        $stmt = $pdo->prepare("INSERT INTO settings (setting_key, setting_value) VALUES ('page_content_delay_seconds', '2')");
+        $stmt->execute();
         
         // Utwórz plik konfiguracyjny
         $config_content = "<?php
